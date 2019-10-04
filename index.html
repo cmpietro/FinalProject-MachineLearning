@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <!--HEAD-->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Microbiome, Maternal and Infant Health</title>
+  
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+  
+<!-- Scripting links -->  <!--- which do we need?  --->
+<!-- jQuery first, then Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  
+<!--Choropleth if needed-->
+  <!-- Leaflet CSS & JS-->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+  integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+  crossorigin=""></script>
+
+<!-- d3 JavaScript -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+<!-- Leaflet-Choropleth JavaScript -->
+<script type="text/javascript" src="static/js/ea_choropleth.js"></script>
+
+</head>
+
+<!--BODY-->
+<body id="page-top">
+
+  <div id="plot"></div>
+  
+    <!--This is for the NEWS Section-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script href="news_fetch.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+ 
+
+<!-- API key -->
+  <script type="text/javascript" src="static/config/config.js"></script>
+  
+    <!-- JS  -->
+  <!--<script type="text/javascript" href="static/js/logic.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic2.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic3.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic4.js"></script> -->
+ 
+    <!-- Navigation -->  
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+      <div class="container">
+          <a class="navbar-brand js-scroll-trigger" href="#page-top">Mother and Infant Microbiome</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" style="text-align: center;">
+              <!-- <li class="nav-item">-->
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#intro">Introduction</a>
+            </li> 
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#d3Map">Visualization</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#machinelearning">Machine Learning</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#newsjs">Current News</a>
+            </li>
+            <li class="nav-item"> -->
+              <a class="nav-link js-scroll-trigger" href="#conclusions">Conclusions</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#references">References Used</a>
+            </li>
+            </ul>
+          </div>
+      </div>
+  
+    </nav>
+
+    <!--HEADER-->
+    <section id='header' class='jumbotron'>
+      <div class="header">
+        <!--<header class='text-white'>-->
+          <div class="container text-center">
+              <div class="spacer" style="height:50px"></div>
+           <h1> MATERNAL - INFANT HEALTH and the Microbiome</h1>
+            <p class='lead'>Machine Learning Final project’s</p>
+          </div>
+        <!--</header>-->
+      </div>
+    </section>
+     <!-- #intro -->
+      <section id='intro' class="container">
+        <div class="container">
+          <div class='row'>
+            <div class='col-md-12 col-md-12'>
+              <div class='greybox'>
+                <h2>Introduction: </h2>
+              </div>
+            </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title">Place Holder</h3>
+                  <p class='text'>"Maternal health" </p>
+              </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title">Place Holder</h3>
+                  <p class="text">"Infant Mortality" </p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                <h3 class="title">Place Holder</h3>
+                    <p class="text">"The microbiome"</p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                <h3 class="title">Place Holder</h3>
+                    <p class="text">"Breastfeeding"</p>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+         </section>  
+                
+        <!-- Section for D3 map -->
+      <section id="d3Map" class="bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto">
+              <div class="greybox">
+                <h2>Microbiome Visualization</h2>
+                  <p class="lead"> Select a Map Topic to View</p>
+              </div>
+              <!--<div class="spacer" style="height:200px"></div> -->
+                <br><br>
+                   <div class="row">
+                      <div class="col-lg-12">
+                        <div class="list-group" id="list-tab" role="tablist">
+                          <a class="list-group-item list-group-item-action" id="list-go-list" data-toggle="list" href="ian.html" role="tab" aria-controls="go">Gun Ownership: Number of Estimated Guns Owned</a>
+                          <a class="list-group-item list-group-item-action" id="list-ms-list" data-toggle="list" href="mj.html" role="tab" aria-controls="ms">Mass Shootings: Mother Jones by State</a>
+                          <a class="list-group-item list-group-item-action" id="list-ms-list" data-toggle="list" href="ian2.html" role="tab" aria-controls="ms">Mass Shootings: Mother Jones Leaflet</a>
+                          <a class="list-group-item list-group-item-action" id="list-oc-list" data-toggle="list" href="oc.html" role="tab" aria-controls="oc">FBI Uniform Crime Data: Weapons Offenses by State</a>
+                          <a class="list-group-item list-group-item-action" id="list-rw-list" data-toggle="list" href="rw.html" role="tab" aria-controls="rw">Registered Weapons: Number of Registered Weapons</a>
+                        </div>
+                      </div>
+                      
+                      </div>
+                    </div>                  
+                  </div>
+                    
+            </div>
+          </div>
+        </div>
+        </section>
+        <div class="spacer" style="height:200px"></div>
+        <!--MACHINE LEARNING-->
+        <section id='machinelearning' class="container">
+            <div class="container">
+              <div class='row'>
+                <div class='col-md-12 col-md-12'>
+                  <div class='greybox'>
+                    <h2>Machine Learning</h2>
+                    <p> Marchine Learning.</p>
+                    <P> Machine Learning </P>
+                  </div>
+                </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-sm-12'>
+                    <h3 class="title"> A View</h3>
+                      <p class='img-thumbnail'><img src="PLACEHOLDER.png" width="800" height="500"</p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-sm-12'>
+                    <h3 class="title">A second View</h3>
+                      <p class="img-thumbnail"><img src="PLACEHOLDER.png"  width="800" height="600"</p>
+                    </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-sm-12'>
+                    <h3 class="title">Third Views</h3>
+                        <p class="img-thumbnail"><img src="placeholder.png"width="800" height="600"</p>
+                    </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-sm-12'>
+                    <h3 class="title">fourth view </h3>
+                        <p class="img-thumbnail"><img src="placeholder.png" width="800" height="600"</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+             </section>  
+                <!--NEWS SECTION-->
+          <!-- <section id='newsjs' class="container">
+            <div class="container">
+              <div class='row'>
+              <div class='col-md-12 col-md-12'>
+                <div class='greybox'>
+                  <h2>Today's News: </h2>
+                </div>
+              </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title"> Headline One: </h3>
+                                 
+                    <p class='text'><script src='news_fetch.js'>  </script>
+                    Author: "Nicole Gallucci" Title: "Democratic candidates unite for powerful gun safety PSA"
+                    Description: "Gun violence is set to be a key issue discussed ahead of the 2020 election. </p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Headline Two: </h3>
+                    <p class="text"><script src='news_fetch.js'>  </script></p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Headline Three: </h3>
+                      <p class="text"><script src='news_fetch.js'></script></p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Headline Four: </h3>
+                      <p class="text"><script src='news_fetch.js'></script> </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+           </section>  -->
+           <!-- CONCLUSIONS -->
+      <section id='conclusions' class="container">
+          <div class="container">
+            <div class='row'>
+              <div class='col-md-12 col-md-12'>
+                <div class='greybox'>
+                  <h2>Conclusions: </h2>
+                </div>
+              </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title"> RESULTS</h3>
+                    <p class='text'>"Place HOLDER"</p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title">MORE RESULTS</h3>
+                    <p class="text">place holder </p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                  <h3 class="title">RESULTS</h3>
+                      <p class="text">"Place holder</p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Results</h3>
+                      <p class="text">"Place holder"</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+           </section>  
+           <!-- References-->
+           <section id='references' class="container">
+              <div class="container">
+                <div class='row'>
+                  <div class='col-md-12 col-md-12'>
+                    <div class='greybox'>
+                      <h2>References and Inspirations: Who We Are and What We Used</h2>
+                    </div>
+                  </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-md-12'>
+                      <h3 class="title"> We Are:</h3>
+                        <p class='text'>Our team included: Joan E. Stone-Mays, Carol Pietro Kadish, Venkata Ratnam Mantripragada and Kashifa Ahmed <br>
+                          
+                        </p>
+                    </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Our Inspirations:</h3>
+                        <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5648614/#targetText=The%20rise%20in%20estrogen%20and,Firmicutes%20as%20in%20obese%20populations.' target="_blank">The Maternal Gut Microbiome during Pregnancy</a> 
+                        <br>
+                        <a href='https://ubiome.com/blog/post/ubiome-largest-human-microbiome-dataset/' target="_blank">uBiome</a> 
+                      </div>
+                      <div class="spacer" style="height:25px"></div>
+                      <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Resources Used:</h3>
+                          <p>Data Used</p>
+                          <a href="  " target="_blank">DATA</a>
+
+                          <a href="LINK" target="_blank">NAME</a>
+                          <a href="  " target="_blank">NAME</a>
+                          <a href="  " target="_blank">NAME</a>
+                          <a href="  " target='_blank'>NAME</a>
+                         
+                      </div>
+                      <div class="spacer" style="height:25px"></div>
+                      <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Technology Used: </h3>
+                          <p class="text">"We used ...  "</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+               </section>  
+    </body>
+    <!--FOOTER-->
+  <footer>
+    <div class="spacer" style="height:25px"></div>
+    <div class='col-md-12 col-md-12'>
+      <div class="bg-dark fixed-bottom">Copyright &copy; Project: Maternal Infant Health and the Microbiome. TEAM: Joan, Carol, Venkata and Kashifa 2019</div>
+          
+  </footer>
+
+
+</html>
