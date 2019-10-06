@@ -1,0 +1,634 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	"Mother's Single Race"	"Mother's Single Race Code"	"Year of Death"	"Year of Death Code"	"Gender"	"Gender Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	23	1962	11.72
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	32	1997	16.02
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	2118	7.08 (Unreliable)
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	15	1218	12.32 (Unreliable)
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	1449	7.59 (Unreliable)
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	54	5301	10.19
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	59	5529	10.67
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	72	13805	5.22
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	95	14391	6.60
+	"Alaska"	"02"	"Unidentified Counties, AK"	"02999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Male"	"M"	10	822	12.17 (Unreliable)
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	10	1300	7.69 (Unreliable)
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	18	1842	9.77 (Unreliable)
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	22	1977	11.13
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	98	21399	4.58
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	132	21985	6.00
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	4597	3.05 (Unreliable)
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	18	4724	3.81 (Unreliable)
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Female"	"F"	17	1337	12.72 (Unreliable)
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Male"	"M"	13	1418	9.17 (Unreliable)
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	23	5091	4.52
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	34	5362	6.34
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	14	1141	12.27 (Unreliable)
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	20	1193	16.76
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	33	2642	12.49
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	24	2560	9.38
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	78	12184	6.40
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	103	12808	8.04
+	"California"	"06"	"Alameda County, CA"	"06001"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	10	940	10.64 (Unreliable)
+	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	4699	2.77 (Unreliable)
+	"California"	"06"	"Alameda County, CA"	"06001"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	22	4765	4.62
+	"California"	"06"	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	4066	2.46 (Unreliable)
+	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	37	5624	6.58
+	"California"	"06"	"Fresno County, CA"	"06019"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	37	5897	6.27
+	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	36	5675	6.34
+	"California"	"06"	"Kern County, CA"	"06029"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	32	5889	5.43
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"Asian"	"A"	"2017"	"2017"	"Female"	"F"	17	9294	1.83 (Unreliable)
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	30	10142	2.96
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	35	4313	8.12
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	40	4597	8.70
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	136	41545	3.27
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	195	43362	4.50
+	"California"	"06"	"Monterey County, CA"	"06053"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	2609	4.98 (Unreliable)
+	"California"	"06"	"Orange County, CA"	"06059"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	14	5308	2.64 (Unreliable)
+	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	37	12501	2.96
+	"California"	"06"	"Orange County, CA"	"06059"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	54	13098	4.12
+	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	57	11745	4.85
+	"California"	"06"	"Riverside County, CA"	"06065"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	55	12509	4.40
+	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	25	5721	4.37
+	"California"	"06"	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	28	6066	4.62
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	10	1256	7.96 (Unreliable)
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	17	1297	13.11 (Unreliable)
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	46	10985	4.19
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	69	11572	5.96
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"More than one race"	"M"	"2017"	"2017"	"Male"	"M"	10	622	16.08 (Unreliable)
+	"California"	"06"	"San Diego County, CA"	"06073"	"Asian"	"A"	"2017"	"2017"	"Female"	"F"	12	2394	5.01 (Unreliable)
+	"California"	"06"	"San Diego County, CA"	"06073"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	11	2486	4.42 (Unreliable)
+	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	46	15750	2.92
+	"California"	"06"	"San Diego County, CA"	"06073"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	63	16606	3.79
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	3418	3.80 (Unreliable)
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	19	3423	5.55 (Unreliable)
+	"California"	"06"	"San Mateo County, CA"	"06081"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	11	1534	7.17 (Unreliable)
+	"California"	"06"	"Santa Barbara County, CA"	"06083"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	2508	3.99 (Unreliable)
+	"California"	"06"	"Santa Barbara County, CA"	"06083"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	2555	6.26 (Unreliable)
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"Asian"	"A"	"2017"	"2017"	"Female"	"F"	11	4680	2.35 (Unreliable)
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	18	5015	3.59 (Unreliable)
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	5410	2.40 (Unreliable)
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	23	5925	3.88
+	"California"	"06"	"Solano County, CA"	"06095"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	1672	7.78 (Unreliable)
+	"California"	"06"	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	3219	3.73 (Unreliable)
+	"California"	"06"	"Tulare County, CA"	"06107"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	21	3261	6.44
+	"California"	"06"	"Tulare County, CA"	"06107"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	19	3365	5.65 (Unreliable)
+	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	18	4081	4.41 (Unreliable)
+	"California"	"06"	"Ventura County, CA"	"06111"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	23	4172	5.51
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	45	11971	3.76
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	61	12750	4.78
+	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	20	2787	7.18
+	"Colorado"	"08"	"Adams County, CO"	"08001"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	2876	3.48 (Unreliable)
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2792	4.66 (Unreliable)
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	3821	3.14 (Unreliable)
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	3817	2.88 (Unreliable)
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	22	3764	5.84
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	29	3997	7.26
+	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2652	4.52 (Unreliable)
+	"Colorado"	"08"	"Larimer County, CO"	"08069"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1571	6.37 (Unreliable)
+	"Colorado"	"08"	"Weld County, CO"	"08123"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	1947	6.68 (Unreliable)
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	19	5294	3.59 (Unreliable)
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	28	5531	5.06
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	3623	3.04 (Unreliable)
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	3872	4.39 (Unreliable)
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	10	858	11.66 (Unreliable)
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	3184	3.45 (Unreliable)
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	3043	4.27 (Unreliable)
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	3135	4.15 (Unreliable)
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	1029	11.66 (Unreliable)
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	17	984	17.28 (Unreliable)
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	1744	6.88 (Unreliable)
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	27	2585	10.44
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	29	2617	11.08
+	"Florida"	"12"	"Brevard County, FL"	"12009"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	2053	8.28 (Unreliable)
+	"Florida"	"12"	"Broward County, FL"	"12011"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	35	4610	7.59
+	"Florida"	"12"	"Broward County, FL"	"12011"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	39	4686	8.32
+	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	5840	2.23 (Unreliable)
+	"Florida"	"12"	"Broward County, FL"	"12011"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	5911	2.71 (Unreliable)
+	"Florida"	"12"	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	27	2476	10.90
+	"Florida"	"12"	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	30	2627	11.42
+	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	3525	4.26 (Unreliable)
+	"Florida"	"12"	"Duval County, FL"	"12031"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	25	3519	7.10
+	"Florida"	"12"	"Escambia County, FL"	"12033"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	11	661	16.64 (Unreliable)
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	18	2005	8.98 (Unreliable)
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	28	2098	13.35
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	26	6053	4.30
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	34	6149	5.53
+	"Florida"	"12"	"Lake County, FL"	"12069"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1292	7.74 (Unreliable)
+	"Florida"	"12"	"Lee County, FL"	"12071"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	2826	5.31 (Unreliable)
+	"Florida"	"12"	"Marion County, FL"	"12083"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	1291	11.62 (Unreliable)
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	38	3604	10.54
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	41	3654	11.22
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	40	11476	3.49
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	42	12239	3.43
+	"Florida"	"12"	"Orange County, FL"	"12095"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	35	2872	12.19
+	"Florida"	"12"	"Orange County, FL"	"12095"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	40	3016	13.26
+	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	21	4708	4.46
+	"Florida"	"12"	"Orange County, FL"	"12095"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	19	5004	3.80 (Unreliable)
+	"Florida"	"12"	"Osceola County, FL"	"12097"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1640	6.10 (Unreliable)
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	16	2704	5.92 (Unreliable)
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	15	2683	5.59 (Unreliable)
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	4289	3.96 (Unreliable)
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	4539	3.30 (Unreliable)
+	"Florida"	"12"	"Pasco County, FL"	"12101"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	2188	6.40 (Unreliable)
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	925	12.97 (Unreliable)
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	2876	4.17 (Unreliable)
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	21	2992	7.02
+	"Florida"	"12"	"Polk County, FL"	"12105"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	16	845	18.93 (Unreliable)
+	"Florida"	"12"	"Polk County, FL"	"12105"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	901	13.32 (Unreliable)
+	"Florida"	"12"	"Polk County, FL"	"12105"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	19	2850	6.67 (Unreliable)
+	"Florida"	"12"	"Polk County, FL"	"12105"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	2967	4.72 (Unreliable)
+	"Florida"	"12"	"Seminole County, FL"	"12117"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	1674	7.77 (Unreliable)
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	1931	6.21 (Unreliable)
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	21	2570	8.17
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	28	2725	10.28
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	70	12703	5.51
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	100	13649	7.33
+	"Georgia"	"13"	"Chatham County, GA"	"13051"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	17	868	19.59 (Unreliable)
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	13	1341	9.69 (Unreliable)
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	1403	13.54 (Unreliable)
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	18	1582	11.38 (Unreliable)
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	18	1568	11.48 (Unreliable)
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	2776	5.40 (Unreliable)
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	33	2854	11.56
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	30	2972	10.09
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	30	3353	8.95
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	28	3446	8.13
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	14	1744	8.03 (Unreliable)
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	18	1722	10.45 (Unreliable)
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	3089	5.50 (Unreliable)
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	3260	3.99 (Unreliable)
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	117	11581	10.10
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	146	12101	12.07
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	138	23834	5.79
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	133	25260	5.27
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"More than one race"	"M"	"2017"	"2017"	"Female"	"F"	12	1868	6.42 (Unreliable)
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"More than one race"	"M"	"2017"	"2017"	"Male"	"M"	12	2058	5.83 (Unreliable)
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2128	5.17 (Unreliable)
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	31	7936	3.91
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	38	8340	4.56
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"Asian"	"A"	"2017"	"2017"	"Female"	"F"	14	2839	4.93 (Unreliable)
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	15	2977	5.04 (Unreliable)
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	77	8245	9.34
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	125	8706	14.36
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	75	20141	3.72
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	90	20705	4.35
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	22	4005	5.49
+	"Illinois"	"17"	"Kane County, IL"	"17089"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2953	4.40 (Unreliable)
+	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2933	3.75 (Unreliable)
+	"Illinois"	"17"	"Lake County, IL"	"17097"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	3031	5.61 (Unreliable)
+	"Illinois"	"17"	"St. Clair County, IL"	"17163"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	619	17.77 (Unreliable)
+	"Illinois"	"17"	"St. Clair County, IL"	"17163"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	16	690	23.19 (Unreliable)
+	"Illinois"	"17"	"Will County, IL"	"17197"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	3023	4.63 (Unreliable)
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	1200	11.67 (Unreliable)
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	1313	9.14 (Unreliable)
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	24	2181	11.00
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	43	2307	18.64
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	84	16622	5.05
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	109	17590	6.20
+	"Indiana"	"18"	"Allen County, IN"	"18003"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	1972	8.62 (Unreliable)
+	"Indiana"	"18"	"Hamilton County, IN"	"18057"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	1708	6.44 (Unreliable)
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	19	964	19.71 (Unreliable)
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	14	898	15.59 (Unreliable)
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1802	5.55 (Unreliable)
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	23	2286	10.06
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	33	2368	13.94
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	4195	4.05 (Unreliable)
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	28	4369	6.41
+	"Indiana"	"18"	"St. Joseph County, IN"	"18141"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	1274	8.63 (Unreliable)
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	1090	11.01 (Unreliable)
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	132	22347	5.91
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	170	23384	7.27
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	2628	3.81 (Unreliable)
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	2784	3.59 (Unreliable)
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	55	13561	4.06
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	87	14224	6.12
+	"Kansas"	"20"	"Johnson County, KS"	"20091"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	3113	3.85 (Unreliable)
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2654	4.14 (Unreliable)
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	2905	5.85 (Unreliable)
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	55	9334	5.89
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	71	10103	7.03
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	14	1362	10.28 (Unreliable)
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	3071	4.88 (Unreliable)
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	26	3337	7.79
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	918	13.07 (Unreliable)
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	994	12.07 (Unreliable)
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	112	18304	6.12
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	134	19510	6.87
+	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	929	20.45 (Unreliable)
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	1670	7.19 (Unreliable)
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	28	1737	16.12
+	"Louisiana"	"22"	"Orleans Parish, LA"	"22071"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	18	1569	11.47 (Unreliable)
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	57	6737	8.46
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	76	6848	11.10
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	64	12836	4.99
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	84	13485	6.23
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	22	4387	5.01
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	35	4459	7.85
+	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2440	4.51 (Unreliable)
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	17	1795	9.47 (Unreliable)
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	23	1780	12.92
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	2600	3.85 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	1705	6.45 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	11	1723	6.38 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	3335	3.30 (Unreliable)
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	18	3522	5.11 (Unreliable)
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	36	3802	9.47
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	43	3924	10.96
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	1703	7.63 (Unreliable)
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	24	2420	9.92
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	31	2460	12.60
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	18	1700	10.59 (Unreliable)
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	23	1740	13.22
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	30	6676	4.49
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	41	7007	5.85
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	3592	4.18 (Unreliable)
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	1992	5.52 (Unreliable)
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1990	5.03 (Unreliable)
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	5925	2.53 (Unreliable)
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	21	6048	3.47
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	2906	3.79 (Unreliable)
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	16	3312	4.83 (Unreliable)
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	3477	3.74 (Unreliable)
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	682	14.66 (Unreliable)
+	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	1101	10.90 (Unreliable)
+	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	1173	11.08 (Unreliable)
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	3304	5.15 (Unreliable)
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	3463	3.75 (Unreliable)
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	14	899	15.57 (Unreliable)
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	21	3403	6.17
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	22	3372	6.52
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	1079	10.19 (Unreliable)
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	1079	17.61 (Unreliable)
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	4523	3.10 (Unreliable)
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	24	4826	4.97
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	78	5269	14.80
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	91	5458	16.67
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	5487	3.10 (Unreliable)
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	43	5776	7.44
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	17	1178	14.43 (Unreliable)
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	1286	9.33 (Unreliable)
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	69	16914	4.08
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	100	17753	5.63
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	17	1824	9.32 (Unreliable)
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	1916	6.26 (Unreliable)
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	4998	3.00 (Unreliable)
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	5108	2.55 (Unreliable)
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	834	11.99 (Unreliable)
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	1982	5.55 (Unreliable)
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	63	14790	4.26
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	67	15600	4.29
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	76	8253	9.21
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	115	8485	13.55
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	43	9492	4.53
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	81	10077	8.04
+	"Missouri"	"29"	"Greene County, MO"	"29077"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	1519	9.22 (Unreliable)
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	21	1398	15.02
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	14	1365	10.26 (Unreliable)
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	2895	4.49 (Unreliable)
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2883	4.16 (Unreliable)
+	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	1983	6.56 (Unreliable)
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	24	1930	12.44
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	16	1954	8.19 (Unreliable)
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	3061	3.92 (Unreliable)
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	18	3399	5.30 (Unreliable)
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	10	1092	9.16 (Unreliable)
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	16	1113	14.38 (Unreliable)
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	14	898	15.59 (Unreliable)
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	14	974	14.37 (Unreliable)
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	91	17673	5.15
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	103	18872	5.46
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Female"	"F"	10	675	14.81 (Unreliable)
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Male"	"M"	10	629	15.90 (Unreliable)
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	18	4807	3.74 (Unreliable)
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	25	5054	4.95
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2992	3.68 (Unreliable)
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	19	3041	6.25 (Unreliable)
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	23	6034	3.81
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	37	6351	5.83
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	19	2331	8.15 (Unreliable)
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	26	2341	11.11
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	40	8784	4.55
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	42	9131	4.60
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	2183	6.87 (Unreliable)
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	2220	6.31 (Unreliable)
+	"New Hampshire"	"33"	"Unidentified Counties, NH"	"33999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	2517	4.37 (Unreliable)
+	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	3384	4.14 (Unreliable)
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	740	14.86 (Unreliable)
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	13	805	16.15 (Unreliable)
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	1902	5.26 (Unreliable)
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2020	6.44 (Unreliable)
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	2196	5.01 (Unreliable)
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	27	2309	11.69
+	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	2973	4.04 (Unreliable)
+	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	3198	4.69 (Unreliable)
+	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	11	606	18.15 (Unreliable)
+	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2453	4.89 (Unreliable)
+	"New Jersey"	"34"	"Union County, NJ"	"34039"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	13	763	17.04 (Unreliable)
+	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	2608	3.83 (Unreliable)
+	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2671	4.49 (Unreliable)
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	18	2967	6.07 (Unreliable)
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	3126	5.44 (Unreliable)
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Female"	"F"	12	1123	10.69 (Unreliable)
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	25	6456	3.87
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	44	6822	6.45
+	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	28	4280	6.54
+	"New York"	"36"	"Bronx County, NY"	"36005"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	29	4617	6.28
+	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	20	4603	4.34
+	"New York"	"36"	"Bronx County, NY"	"36005"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	4753	2.52 (Unreliable)
+	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	3394	3.83 (Unreliable)
+	"New York"	"36"	"Erie County, NY"	"36029"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	3550	3.94 (Unreliable)
+	"New York"	"36"	"Kings County, NY"	"36047"	"Asian"	"A"	"2017"	"2017"	"Female"	"F"	11	2995	3.67 (Unreliable)
+	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	25	4929	5.07
+	"New York"	"36"	"Kings County, NY"	"36047"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	47	5198	9.04
+	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	29	10756	2.70
+	"New York"	"36"	"Kings County, NY"	"36047"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	34	11411	2.98
+	"New York"	"36"	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	22	957	22.99
+	"New York"	"36"	"Monroe County, NY"	"36055"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	17	986	17.24 (Unreliable)
+	"New York"	"36"	"Monroe County, NY"	"36055"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	2742	5.47 (Unreliable)
+	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	5024	2.59 (Unreliable)
+	"New York"	"36"	"Nassau County, NY"	"36059"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	5268	1.90 (Unreliable)
+	"New York"	"36"	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	1398	8.58 (Unreliable)
+	"New York"	"36"	"New York County, NY"	"36061"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	11	1406	7.82 (Unreliable)
+	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	5587	1.79 (Unreliable)
+	"New York"	"36"	"New York County, NY"	"36061"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	20	5808	3.44
+	"New York"	"36"	"Queens County, NY"	"36081"	"Asian"	"A"	"2017"	"2017"	"Female"	"F"	16	4685	3.42 (Unreliable)
+	"New York"	"36"	"Queens County, NY"	"36081"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	18	5126	3.51 (Unreliable)
+	"New York"	"36"	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	2742	4.01 (Unreliable)
+	"New York"	"36"	"Queens County, NY"	"36081"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	21	2842	7.39
+	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	26	6428	4.04
+	"New York"	"36"	"Queens County, NY"	"36081"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	33	6646	4.97
+	"New York"	"36"	"Richmond County, NY"	"36085"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	1995	7.52 (Unreliable)
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	31	6379	4.86
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	19	6434	2.95 (Unreliable)
+	"New York"	"36"	"Westchester County, NY"	"36119"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	980	10.20 (Unreliable)
+	"New York"	"36"	"Westchester County, NY"	"36119"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	3734	2.95 (Unreliable)
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	14	1138	12.30 (Unreliable)
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	82	16815	4.88
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	104	17676	5.88
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	16	1040	15.38 (Unreliable)
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	1096	17.34 (Unreliable)
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	16	775	20.65 (Unreliable)
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	745	13.42 (Unreliable)
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	17	1313	12.95 (Unreliable)
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	22	1399	15.73
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	1395	7.17 (Unreliable)
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1397	7.16 (Unreliable)
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	28	2609	10.73
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	17	2780	6.12 (Unreliable)
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	3626	2.76 (Unreliable)
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	3876	3.35 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	15	1634	9.18 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	1554	12.23 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	3894	2.82 (Unreliable)
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	11	4028	2.73 (Unreliable)
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Male"	"M"	12	778	15.42 (Unreliable)
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	83	7698	10.78
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	98	8157	12.01
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	129	24976	5.16
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	160	26242	6.10
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"More than one race"	"M"	"2017"	"2017"	"Female"	"F"	10	900	11.11 (Unreliable)
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	4056	3.21 (Unreliable)
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	19	4402	4.32 (Unreliable)
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	37	2754	13.44
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	50	2871	17.42
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	3847	3.64 (Unreliable)
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	4031	3.97 (Unreliable)
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	35	2828	12.38
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	39	2889	13.50
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	36	5358	6.72
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	35	5769	6.07
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	18	1687	10.67 (Unreliable)
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	44	1800	24.44
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	15	3235	4.64 (Unreliable)
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	18	3346	5.38 (Unreliable)
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	692	17.34 (Unreliable)
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	15	722	20.78 (Unreliable)
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	20	1903	10.51
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	961	11.45 (Unreliable)
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	930	20.43 (Unreliable)
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2132	5.16 (Unreliable)
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	2342	4.27 (Unreliable)
+	"Ohio"	"39"	"Stark County, OH"	"39151"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	1706	6.45 (Unreliable)
+	"Ohio"	"39"	"Stark County, OH"	"39151"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	20	1757	11.38
+	"Ohio"	"39"	"Summit County, OH"	"39153"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	603	18.24 (Unreliable)
+	"Ohio"	"39"	"Summit County, OH"	"39153"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	2039	4.90 (Unreliable)
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	14	1384	10.12 (Unreliable)
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	19	1398	13.59 (Unreliable)
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	149	28079	5.31
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	175	29351	5.96
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	14	1045	13.40 (Unreliable)
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	16	1079	14.83 (Unreliable)
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	20	3655	5.47
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	24	3970	6.05
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	15	593	25.30 (Unreliable)
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	19	3016	6.30 (Unreliable)
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	21	3255	6.45
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Female"	"F"	17	1843	9.22 (Unreliable)
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Male"	"M"	20	2040	9.80
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	64	9284	6.89
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	82	9924	8.26
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"More than one race"	"M"	"2017"	"2017"	"Female"	"F"	10	1026	9.75 (Unreliable)
+	"Oregon"	"41"	"Lane County, OR"	"41039"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	1575	6.35 (Unreliable)
+	"Oregon"	"41"	"Marion County, OR"	"41047"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	1923	5.72 (Unreliable)
+	"Oregon"	"41"	"Marion County, OR"	"41047"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	1956	6.65 (Unreliable)
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	3257	4.30 (Unreliable)
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	3355	4.47 (Unreliable)
+	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2410	4.56 (Unreliable)
+	"Oregon"	"41"	"Washington County, OR"	"41067"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	2589	6.18 (Unreliable)
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	40	7339	5.45
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	39	7680	5.08
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	18	1318	13.66 (Unreliable)
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	26	1389	18.72
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	4408	2.27 (Unreliable)
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	15	4554	3.29 (Unreliable)
+	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	1878	5.86 (Unreliable)
+	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	2069	7.73 (Unreliable)
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	972	11.32 (Unreliable)
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	3096	4.52 (Unreliable)
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	3303	4.24 (Unreliable)
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	1649	7.28 (Unreliable)
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	1764	7.94 (Unreliable)
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	3349	3.58 (Unreliable)
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	41	4850	8.45
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	64	5005	12.79
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	23	4290	5.36
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	36	4598	7.83
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	10	807	12.39 (Unreliable)
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	14	821	17.05 (Unreliable)
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	93	18059	5.15
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	128	19106	6.70
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	2662	3.76 (Unreliable)
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	18	2596	6.93 (Unreliable)
+	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	699	14.31 (Unreliable)
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	711	16.88 (Unreliable)
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	2416	6.62 (Unreliable)
+	"South Carolina"	"45"	"Richland County, SC"	"45079"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	1272	9.43 (Unreliable)
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	32	5189	6.17
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	68	5326	12.77
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	43	9223	4.66
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	74	9904	7.47
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"American Indian or Alaska Native"	"1002-5"	"2017"	"2017"	"Male"	"M"	11	942	11.68 (Unreliable)
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	24	4515	5.32
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	42	4611	9.11
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	1481	7.43 (Unreliable)
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	22	1530	14.38
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	3096	3.55 (Unreliable)
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	20	3199	6.25
+	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	1457	6.86 (Unreliable)
+	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	1526	7.86 (Unreliable)
+	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2124	5.18 (Unreliable)
+	"Tennessee"	"47"	"Knox County, TN"	"47093"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	2265	6.18 (Unreliable)
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	44	4109	10.71
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	52	4350	11.95
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2007	5.48 (Unreliable)
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2091	6.22 (Unreliable)
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	22	1815	12.12
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	27	1864	14.48
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	116	18700	6.20
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	137	20243	6.77
+	"Texas"	"48"	"Bell County, TX"	"48027"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	10	808	12.38 (Unreliable)
+	"Texas"	"48"	"Bell County, TX"	"48027"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	1905	7.35 (Unreliable)
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	12	1369	8.77 (Unreliable)
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	12	1499	8.01 (Unreliable)
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	72	10940	6.58
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	75	11471	6.54
+	"Texas"	"48"	"Cameron County, TX"	"48061"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	3021	4.30 (Unreliable)
+	"Texas"	"48"	"Cameron County, TX"	"48061"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	20	3174	6.30
+	"Texas"	"48"	"Collin County, TX"	"48085"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	623	16.05 (Unreliable)
+	"Texas"	"48"	"Collin County, TX"	"48085"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	21	3783	5.55
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	33	4337	7.61
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	51	4657	10.95
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	79	13068	6.05
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	73	13508	5.40
+	"Texas"	"48"	"Denton County, TX"	"48121"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	3599	4.72 (Unreliable)
+	"Texas"	"48"	"Denton County, TX"	"48121"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	3698	4.60 (Unreliable)
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	18	5507	3.27 (Unreliable)
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	35	5697	6.14
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	2452	5.30 (Unreliable)
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2510	5.18 (Unreliable)
+	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	59	7656	7.71
+	"Texas"	"48"	"Harris County, TX"	"48201"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	109	7943	13.72
+	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	109	22657	4.81
+	"Texas"	"48"	"Harris County, TX"	"48201"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	125	23837	5.24
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	27	6856	3.94
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	34	6870	4.95
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	11	682	16.13 (Unreliable)
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	10	3091	3.24 (Unreliable)
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	3075	5.53 (Unreliable)
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	23	2708	8.49
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	34	2783	12.22
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	50	9927	5.04
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	67	10352	6.47
+	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	20	5915	3.38
+	"Texas"	"48"	"Travis County, TX"	"48453"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	25	6108	4.09
+	"Texas"	"48"	"Webb County, TX"	"48479"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	17	2403	7.07 (Unreliable)
+	"Texas"	"48"	"Webb County, TX"	"48479"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2448	5.31 (Unreliable)
+	"Texas"	"48"	"Williamson County, TX"	"48491"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2586	4.64 (Unreliable)
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	40	4439	9.01
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	59	4520	13.05
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	212	40963	5.18
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	253	43065	5.87
+	"Utah"	"49"	"Davis County, UT"	"49011"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	2637	6.07 (Unreliable)
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	31	6961	4.45
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	66	7594	8.69
+	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	27	5304	5.09
+	"Utah"	"49"	"Utah County, UT"	"49049"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	26	5615	4.63
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	36	6612	5.44
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	39	7121	5.48
+	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	2609	4.22 (Unreliable)
+	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2665	4.50 (Unreliable)
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"Asian"	"A"	"2017"	"2017"	"Male"	"M"	15	1658	9.05 (Unreliable)
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	4117	2.91 (Unreliable)
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	4339	3.00 (Unreliable)
+	"Virginia"	"51"	"Henrico County, VA"	"51087"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	10	571	17.51 (Unreliable)
+	"Virginia"	"51"	"Prince William County, VA"	"51153"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	15	842	17.81 (Unreliable)
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	69	7549	9.14
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	82	7950	10.31
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	99	20344	4.87
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	133	21656	6.14
+	"Washington"	"53"	"Clark County, WA"	"53011"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	13	2445	5.32 (Unreliable)
+	"Washington"	"53"	"King County, WA"	"53033"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	13	1270	10.24 (Unreliable)
+	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	22	7278	3.02
+	"Washington"	"53"	"King County, WA"	"53033"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	16	7657	2.09 (Unreliable)
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	11	3919	2.81 (Unreliable)
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	10	4190	2.39 (Unreliable)
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	14	3550	3.94 (Unreliable)
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	18	3724	4.83 (Unreliable)
+	"Washington"	"53"	"Spokane County, WA"	"53063"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	14	2645	5.29 (Unreliable)
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	44	10109	4.35
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	39	10493	3.72
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	55	8466	6.50
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	64	8912	7.18
+	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	12	2376	5.05 (Unreliable)
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	"2017"	"2017"	"Female"	"F"	45	2452	18.35
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	41	2512	16.32
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	13	3440	3.78 (Unreliable)
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	20	3524	5.68
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"Black or African American"	"2054-5"	"2017"	"2017"	"Male"	"M"	15	818	18.34 (Unreliable)
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	75	18073	4.15
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	100	19112	5.23
+	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	"White"	"2106-3"	"2017"	"2017"	"Female"	"F"	12	3095	3.88 (Unreliable)
+	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	"White"	"2106-3"	"2017"	"2017"	"Male"	"M"	17	3211	5.29 (Unreliable)
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2017"
+"Query Parameters:"
+"Year of Death: 2017"
+"Group By: State; County; Mother's Single Race; Year of Death; Gender"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Oct 6, 2019 11:57:14 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Oct 6, 2019 11:57:14 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. 'Missing County' appears when county data is not available for a certain year. This occurs because the county did not meet"
+"minimum population standards and thus the data for the county was recoded to the ""Unidentified Counties"" category for the"
+"state of the county. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Missing."
+"4. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"5. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
+"6. County-level data are shown only for counties with populations of 250,000 persons or more. Data for all counties with fewer"
+"than 250,000 persons within a state are combined together under the label ""Unidentified Counties."""
+"7. Single Race categories are not available for births before year 2017. Maternal single race data for years before 2017 are"
+"recoded to the Single Race category ""Not Available"". More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#About-Single-Race."
+"8. Dade county, Florida (FIPS code 12025) was renamed Miami-Dade County (FIPS code 12086) effective November 13, 1997. The area"
+"is coded to Miami-Dade (12086) after 2002 and Dade (12025) for earlier years in other linked-birth datasets."
+"9. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore county (FIPS code 24005)."
+"10. The independent city of St. Louis, Missouri (FIPS code 29510) is reported separately from St. Louis county (FIPS code"
+"29189)."
+"11. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"12. Kings county, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"13. New York county, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"14. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"15. Richmond county, New York (FIPS code 36085) represents Staten Island Borough, New York City."
+"16. As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the data"
+"for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because they did"
+"not meet minimum population standards. Pinal County, AZ (04021); Marin County, CA (06041); Merced County, CA (06047); Placer"
+"County, CA (06061); San Luis Obispo County, CA (06079); Douglas County, CO (08035); Weld County, CO (08123); Lake County, FL"
+"(12069); Leon County, FL (12073); Osceola County, FL (12097); St. Lucie County, FL (12111); Chatham County, GA (13051); Clayton"
+"County, GA (13063); Hamilton County, IN (18057); Howard County, MD (24027); Kalamazoo County, MI (26077); Ottawa County, MI"
+"(26139); Greene County, MO (29077); Durham County, NC (37063); Cleveland County, OK (40027); Horry County, SC (45051); Lexington"
+"County, SC (45063); Rutherford County, TN (47149); Bell County, TX (48027); Brazoria County, TX (48039); Lubbock County, TX"
+"(48303); Webb County, TX (48479); Williamson County, TX (48491); Davis County, UT (49011); Loudoun County, VA (51107); Kitsap"
+"County, WA (53035); Thurston County, WA (53067). <br/> After 2013 the data for the following counties was recoded to the"
+"""Unidentified Counties"" category within the state of the county because they did not meet minimum population standards. Hinds"
+"County, MS (28049); Mahoning County, OH (39099)."
