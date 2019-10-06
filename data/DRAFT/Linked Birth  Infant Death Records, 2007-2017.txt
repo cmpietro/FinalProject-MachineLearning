@@ -1,0 +1,367 @@
+"Notes"	"Census Region"	"Census Region Code"	"State"	"State Code"	"County"	"County Code"	Deaths	Births	Death Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	43	9904	4.34
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	43	9204	4.67
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	49	8641	5.67
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"New London County, CT"	"09011"	11	2603	4.23 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Unidentified Counties, CT"	"09999"	13	4869	2.67 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Cumberland County, ME"	"23005"	14	2733	5.12 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	58	9565	6.06
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	18	5733	3.14 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	36	8655	4.16
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	29	4975	5.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	49	16736	2.93
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	22	7134	3.08
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	19	5189	3.66 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	37	9359	3.95
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	36	8513	4.23
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Unidentified Counties, MA"	"25999"	13	4408	2.95 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	21	4178	5.03
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	11	2669	4.12 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Unidentified Counties, NH"	"33999"	19	5269	3.61 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	49	7173	6.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Unidentified Counties, RI"	"44999"	17	3465	4.91 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	27	5655	4.77
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	20	2804	7.13
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	23	9339	2.46
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	30	4424	6.78
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Camden County, NJ"	"34007"	51	6022	8.47
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	58	10298	5.63
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Gloucester County, NJ"	"34015"	17	2891	5.88 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	42	10165	4.13
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	24	4081	5.88
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	27	9123	2.96
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	17	5737	2.96 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Morris County, NJ"	"34027"	15	4636	3.24 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	20	8597	2.33
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	24	6790	3.53
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Somerset County, NJ"	"34035"	16	3068	5.22 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Union County, NJ"	"34039"	31	6859	4.52
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	35	6416	5.46
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Albany County, NY"	"36001"	17	3083	5.51 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Bronx County, NY"	"36005"	99	20588	4.81
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Dutchess County, NY"	"36027"	11	2604	4.22 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Erie County, NY"	"36029"	47	9870	4.76
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Kings County, NY"	"36047"	155	39192	3.95
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Monroe County, NY"	"36055"	65	7893	8.24
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Nassau County, NY"	"36059"	39	14178	2.75
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"New York County, NY"	"36061"	64	17504	3.66
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Onondaga County, NY"	"36067"	24	5052	4.75
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Orange County, NY"	"36071"	14	5092	2.75 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Queens County, NY"	"36081"	127	29008	4.38
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Richmond County, NY"	"36085"	37	5444	6.80
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Rockland County, NY"	"36087"	17	5481	3.10 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Suffolk County, NY"	"36103"	74	15359	4.82
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Westchester County, NY"	"36119"	36	10400	3.46
+	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Unidentified Counties, NY"	"36999"	226	38989	5.80
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	77	12882	5.98
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	33	4719	6.99
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Bucks County, PA"	"42017"	21	5775	3.64
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Chester County, PA"	"42029"	18	5323	3.38 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Dauphin County, PA"	"42043"	29	3404	8.52
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	41	6576	6.23
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Erie County, PA"	"42049"	23	2994	7.68
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	36	7258	4.96
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	32	4291	7.46
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Luzerne County, PA"	"42079"	20	3284	6.09
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	30	8702	3.45
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Northampton County, PA"	"42095"	11	2789	3.94 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	179	21288	8.41
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"York County, PA"	"42133"	23	4933	4.66
+	"Census Region 1: Northeast"	"CENS-R1"	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	256	40574	6.31
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Cook County, IL"	"17031"	398	64374	6.18
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"DuPage County, IL"	"17043"	37	10337	3.58
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Kane County, IL"	"17089"	19	6339	3.00 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Lake County, IL"	"17097"	36	7607	4.73
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Madison County, IL"	"17119"	22	2892	7.61
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"St. Clair County, IL"	"17163"	41	3221	12.73
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Will County, IL"	"17197"	41	7427	5.52
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Winnebago County, IL"	"17201"	37	3501	10.57
+	"Census Region 2: Midwest"	"CENS-R2"	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	274	40507	6.76
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Allen County, IN"	"18003"	35	5206	6.72
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Hamilton County, IN"	"18057"	24	3835	6.26
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Lake County, IN"	"18089"	52	5601	9.28
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Marion County, IN"	"18097"	108	14389	7.51
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"St. Joseph County, IN"	"18141"	34	3497	9.72
+	"Census Region 2: Midwest"	"CENS-R2"	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	340	49642	6.85
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Genesee County, MI"	"26049"	35	4739	7.39
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Ingham County, MI"	"26065"	15	3237	4.63 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	35	3033	11.54
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Kent County, MI"	"26081"	45	8697	5.17
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Macomb County, MI"	"26099"	67	9240	7.25
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Oakland County, MI"	"26125"	73	13235	5.52
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Ottawa County, MI"	"26139"	12	3264	3.68 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	16	3536	4.52 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Wayne County, MI"	"26163"	243	23279	10.44
+	"Census Region 2: Midwest"	"CENS-R2"	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	213	39166	5.44
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Butler County, OH"	"39017"	25	4466	5.60
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	121	14550	8.32
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Franklin County, OH"	"39049"	156	18886	8.26
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Hamilton County, OH"	"39061"	98	10833	9.05
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Lorain County, OH"	"39093"	21	3183	6.60
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Lucas County, OH"	"39095"	54	5445	9.92
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Montgomery County, OH"	"39113"	53	6730	7.88
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Stark County, OH"	"39151"	35	4025	8.70
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Summit County, OH"	"39153"	41	5904	6.94
+	"Census Region 2: Midwest"	"CENS-R2"	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	379	62810	6.03
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Dane County, WI"	"55025"	27	5883	4.59
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	133	13427	9.91
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	20	3863	5.18
+	"Census Region 2: Midwest"	"CENS-R2"	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	235	41802	5.62
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Polk County, IA"	"19153"	33	6943	4.75
+	"Census Region 2: Midwest"	"CENS-R2"	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	171	31487	5.43
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Johnson County, KS"	"20091"	28	7223	3.88
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	44	6924	6.35
+	"Census Region 2: Midwest"	"CENS-R2"	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	148	22372	6.62
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Anoka County, MN"	"27003"	18	4215	4.27 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Dakota County, MN"	"27037"	22	5147	4.27
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	71	16322	4.35
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	46	7686	5.98
+	"Census Region 2: Midwest"	"CENS-R2"	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	172	35225	4.88
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Greene County, MO"	"29077"	23	3339	6.89
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Jackson County, MO"	"29095"	64	9291	6.89
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"St. Charles County, MO"	"29183"	22	4459	4.93
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"St. Louis County, MO"	"29189"	77	11374	6.77
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"St. Louis city, MO"	"29510"	35	4138	8.46
+	"Census Region 2: Midwest"	"CENS-R2"	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	234	40433	5.79
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Douglas County, NE"	"31055"	54	8305	6.50
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Lancaster County, NE"	"31109"	19	3925	4.84 (Unreliable)
+	"Census Region 2: Midwest"	"CENS-R2"	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	69	13591	5.08
+	"Census Region 2: Midwest"	"CENS-R2"	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	47	10737	4.38
+	"Census Region 2: Midwest"	"CENS-R2"	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	94	12134	7.75
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"New Castle County, DE"	"10003"	48	6431	7.46
+	"Census Region 3: South"	"CENS-R3"	"Delaware"	"10"	"Unidentified Counties, DE"	"10999"	20	4424	4.52
+	"Census Region 3: South"	"CENS-R3"	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	78	9560	8.16
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Brevard County, FL"	"12009"	27	5201	5.19
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Broward County, FL"	"12011"	108	22322	4.84
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Collier County, FL"	"12021"	19	3182	5.97 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Duval County, FL"	"12031"	106	13182	8.04
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Escambia County, FL"	"12033"	29	3954	7.33
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Hillsborough County, FL"	"12057"	115	17416	6.60
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Lake County, FL"	"12069"	22	3265	6.74
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Lee County, FL"	"12071"	33	6681	4.94
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Leon County, FL"	"12073"	20	3132	6.39
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Manatee County, FL"	"12081"	19	3476	5.47 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Marion County, FL"	"12083"	27	3496	7.72
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	164	31818	5.15
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Orange County, FL"	"12095"	121	16890	7.16
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Osceola County, FL"	"12097"	19	4386	4.33 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Palm Beach County, FL"	"12099"	66	15050	4.39
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Pasco County, FL"	"12101"	26	5140	5.06
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Pinellas County, FL"	"12103"	54	8230	6.56
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Polk County, FL"	"12105"	63	7849	8.03
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"St. Lucie County, FL"	"12111"	14	3019	4.64 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Sarasota County, FL"	"12115"	14	2824	4.96 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Seminole County, FL"	"12117"	34	4774	7.12
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Volusia County, FL"	"12127"	30	4986	6.02
+	"Census Region 3: South"	"CENS-R3"	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	231	33357	6.93
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Chatham County, GA"	"13051"	36	3712	9.70
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Clayton County, GA"	"13063"	41	3813	10.75
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Cobb County, GA"	"13067"	60	9588	6.26
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"DeKalb County, GA"	"13089"	89	10933	8.14
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Fulton County, GA"	"13121"	73	13363	5.46
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	69	11442	6.03
+	"Census Region 3: South"	"CENS-R3"	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	559	76392	7.32
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	30	6898	4.35
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	63	9844	6.40
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Howard County, MD"	"24027"	19	3528	5.39 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Montgomery County, MD"	"24031"	59	12681	4.65
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Prince George's County, MD"	"24033"	100	12393	8.07
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Baltimore city, MD"	"24510"	69	7941	8.69
+	"Census Region 3: South"	"CENS-R3"	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	121	18356	6.59
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	56	5506	10.17
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Durham County, NC"	"37063"	21	4181	5.02
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	43	4368	9.84
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Guilford County, NC"	"37081"	64	6218	10.29
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	71	14753	4.81
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Wake County, NC"	"37183"	70	12682	5.52
+	"Census Region 3: South"	"CENS-R3"	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	520	72417	7.18
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Charleston County, SC"	"45019"	19	4803	3.96 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Greenville County, SC"	"45045"	42	6409	6.55
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Horry County, SC"	"45051"	16	3167	5.05 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Lexington County, SC"	"45063"	23	3210	7.17
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Richland County, SC"	"45079"	29	4646	6.24
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Spartanburg County, SC"	"45083"	20	3820	5.24
+	"Census Region 3: South"	"CENS-R3"	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	223	30974	7.20
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	19	3845	4.94 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Fairfax County, VA"	"51059"	57	14220	4.01
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Henrico County, VA"	"51087"	34	3895	8.73
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Loudoun County, VA"	"51107"	17	5067	3.36 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Prince William County, VA"	"51153"	37	6675	5.54
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	25	5710	4.38
+	"Census Region 3: South"	"CENS-R3"	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	402	60979	6.59
+	"Census Region 3: South"	"CENS-R3"	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	130	18675	6.96
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	84	8706	9.65
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Madison County, AL"	"01089"	20	4253	4.70
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Mobile County, AL"	"01097"	40	5607	7.13
+	"Census Region 3: South"	"CENS-R3"	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	291	40375	7.21
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Fayette County, KY"	"21067"	17	3912	4.35 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	65	9908	6.56
+	"Census Region 3: South"	"CENS-R3"	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	279	40932	6.82
+	"Census Region 3: South"	"CENS-R3"	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	326	37357	8.73
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Davidson County, TN"	"47037"	69	10063	6.86
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	34	4235	8.03
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Knox County, TN"	"47093"	31	5211	5.95
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	22	4030	5.46
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Shelby County, TN"	"47157"	125	13163	9.50
+	"Census Region 3: South"	"CENS-R3"	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	310	44314	7.00
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	47	5259	8.94
+	"Census Region 3: South"	"CENS-R3"	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	257	32261	7.97
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	35	3231	10.83
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	50	5975	8.37
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	26	5835	4.46
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Orleans Parish, LA"	"22071"	29	4619	6.28
+	"Census Region 3: South"	"CENS-R3"	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	291	41358	7.04
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	18	2781	6.47 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	91	11554	7.88
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	71	9120	7.79
+	"Census Region 3: South"	"CENS-R3"	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	211	26759	7.89
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Bell County, TX"	"48027"	42	5976	7.03
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Bexar County, TX"	"48029"	181	27014	6.70
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Brazoria County, TX"	"48039"	19	4630	4.10 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Cameron County, TX"	"48061"	34	6276	5.42
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Collin County, TX"	"48085"	55	10919	5.04
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Dallas County, TX"	"48113"	259	39263	6.60
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Denton County, TX"	"48121"	49	9786	5.01
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"El Paso County, TX"	"48141"	59	12013	4.91
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Fort Bend County, TX"	"48157"	45	9627	4.67
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Galveston County, TX"	"48167"	16	3995	4.01 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Harris County, TX"	"48201"	426	68422	6.23
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Hidalgo County, TX"	"48215"	63	14108	4.47
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Jefferson County, TX"	"48245"	32	3475	9.21
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Lubbock County, TX"	"48303"	15	4017	3.73 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Montgomery County, TX"	"48339"	35	7139	4.90
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Nueces County, TX"	"48355"	17	4520	3.76 (Unreliable)
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Tarrant County, TX"	"48439"	185	27820	6.65
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Travis County, TX"	"48453"	62	15142	4.09
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Webb County, TX"	"48479"	30	4872	6.16
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Williamson County, TX"	"48491"	22	6432	3.42
+	"Census Region 3: South"	"CENS-R3"	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	587	96604	6.08
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	311	52633	5.91
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Pima County, AZ"	"04019"	41	10983	3.73
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Pinal County, AZ"	"04021"	25	4392	5.69
+	"Census Region 4: West"	"CENS-R4"	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	90	13864	6.49
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Adams County, CO"	"08001"	35	6610	5.30
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	37	7574	4.89
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Denver County, CO"	"08031"	32	9594	3.34
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Douglas County, CO"	"08035"	12	3368	3.56 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"El Paso County, CO"	"08041"	58	9493	6.11
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Jefferson County, CO"	"08059"	22	5819	3.78
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Larimer County, CO"	"08069"	12	3313	3.62 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Weld County, CO"	"08123"	21	4250	4.94
+	"Census Region 4: West"	"CENS-R4"	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	51	11734	4.35
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Ada County, ID"	"16001"	20	4842	4.13
+	"Census Region 4: West"	"CENS-R4"	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	81	17339	4.67
+	"Census Region 4: West"	"CENS-R4"	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	65	11799	5.51
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Clark County, NV"	"32003"	152	26949	5.64
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Washoe County, NV"	"32031"	34	5210	6.53
+	"Census Region 4: West"	"CENS-R4"	"Nevada"	"32"	"Unidentified Counties, NV"	"32999"	23	3597	6.39
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	40	7436	5.38
+	"Census Region 4: West"	"CENS-R4"	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	99	16331	6.06
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Davis County, UT"	"49011"	27	5481	4.93
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Salt Lake County, UT"	"49035"	119	16754	7.10
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Utah County, UT"	"49049"	59	11618	5.08
+	"Census Region 4: West"	"CENS-R4"	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	81	14732	5.50
+	"Census Region 4: West"	"CENS-R4"	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	32	6903	4.64
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	23	4136	5.56
+	"Census Region 4: West"	"CENS-R4"	"Alaska"	"02"	"Unidentified Counties, AK"	"02999"	37	6309	5.86
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Alameda County, CA"	"06001"	73	18888	3.86
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Contra Costa County, CA"	"06013"	41	12180	3.37
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Fresno County, CA"	"06019"	100	14541	6.88
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Kern County, CA"	"06029"	79	13326	5.93
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Los Angeles County, CA"	"06037"	469	116950	4.01
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Merced County, CA"	"06047"	16	4202	3.81 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Monterey County, CA"	"06053"	25	5810	4.30
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Orange County, CA"	"06059"	117	37369	3.13
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Riverside County, CA"	"06065"	140	29857	4.69
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Sacramento County, CA"	"06067"	87	19202	4.53
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"San Bernardino County, CA"	"06071"	163	29643	5.50
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"San Diego County, CA"	"06073"	153	41230	3.71
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"San Francisco County, CA"	"06075"	22	8947	2.46
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"San Joaquin County, CA"	"06077"	54	9928	5.44
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"San Luis Obispo County, CA"	"06079"	11	2550	4.31 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"San Mateo County, CA"	"06081"	25	8585	2.91
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Santa Barbara County, CA"	"06083"	28	5531	5.06
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Santa Clara County, CA"	"06085"	70	22133	3.16
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Santa Cruz County, CA"	"06087"	10	2658	3.76 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Solano County, CA"	"06095"	31	5131	6.04
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Sonoma County, CA"	"06097"	16	4642	3.45 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Stanislaus County, CA"	"06099"	26	7441	3.49
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Tulare County, CA"	"06107"	44	7130	6.17
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Ventura County, CA"	"06111"	47	9318	5.04
+	"Census Region 4: West"	"CENS-R4"	"California"	"06"	"Unidentified Counties, CA"	"06999"	125	28540	4.38
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	70	12487	5.61
+	"Census Region 4: West"	"CENS-R4"	"Hawaii"	"15"	"Unidentified Counties, HI"	"15999"	25	5030	4.97
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Clackamas County, OR"	"41005"	16	3999	4.00 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Lane County, OR"	"41039"	19	3459	5.49 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Marion County, OR"	"41047"	26	4467	5.82
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Multnomah County, OR"	"41051"	42	8573	4.90
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Washington County, OR"	"41067"	38	6570	5.78
+	"Census Region 4: West"	"CENS-R4"	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	92	16563	5.55
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Clark County, WA"	"53011"	25	5520	4.53
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"King County, WA"	"53033"	82	25300	3.24
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Kitsap County, WA"	"53035"	12	2979	4.03 (Unreliable)
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Pierce County, WA"	"53053"	48	11297	4.25
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Snohomish County, WA"	"53061"	42	9883	4.25
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Spokane County, WA"	"53063"	22	5895	3.73
+	"Census Region 4: West"	"CENS-R4"	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	101	23621	4.28
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2017"
+"Query Parameters:"
+"Year of Death: 2017"
+"Group By: Census Region; State; County"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Oct 6, 2019 11:53:57 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Oct 6, 2019 11:53:57 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. 'Missing County' appears when county data is not available for a certain year. This occurs because the county did not meet"
+"minimum population standards and thus the data for the county was recoded to the ""Unidentified Counties"" category for the"
+"state of the county. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Missing."
+"4. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"5. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
+"6. County-level data are shown only for counties with populations of 250,000 persons or more. Data for all counties with fewer"
+"than 250,000 persons within a state are combined together under the label ""Unidentified Counties."""
+"7. Dade county, Florida (FIPS code 12025) was renamed Miami-Dade County (FIPS code 12086) effective November 13, 1997. The area"
+"is coded to Miami-Dade (12086) after 2002 and Dade (12025) for earlier years in other linked-birth datasets."
+"8. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore county (FIPS code 24005)."
+"9. The independent city of St. Louis, Missouri (FIPS code 29510) is reported separately from St. Louis county (FIPS code 29189)."
+"10. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"11. Kings county, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"12. New York county, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"13. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"14. Richmond county, New York (FIPS code 36085) represents Staten Island Borough, New York City."
+"15. As a result of population changes the following counties do not have data available for all years.<br/> Before 2014 the data"
+"for the following counties was recoded to the ""Unidentified Counties"" category within the state of the county because they did"
+"not meet minimum population standards. Pinal County, AZ (04021); Marin County, CA (06041); Merced County, CA (06047); Placer"
+"County, CA (06061); San Luis Obispo County, CA (06079); Douglas County, CO (08035); Weld County, CO (08123); Lake County, FL"
+"(12069); Leon County, FL (12073); Osceola County, FL (12097); St. Lucie County, FL (12111); Chatham County, GA (13051); Clayton"
+"County, GA (13063); Hamilton County, IN (18057); Howard County, MD (24027); Kalamazoo County, MI (26077); Ottawa County, MI"
+"(26139); Greene County, MO (29077); Durham County, NC (37063); Cleveland County, OK (40027); Horry County, SC (45051); Lexington"
+"County, SC (45063); Rutherford County, TN (47149); Bell County, TX (48027); Brazoria County, TX (48039); Lubbock County, TX"
+"(48303); Webb County, TX (48479); Williamson County, TX (48491); Davis County, UT (49011); Loudoun County, VA (51107); Kitsap"
+"County, WA (53035); Thurston County, WA (53067). <br/> After 2013 the data for the following counties was recoded to the"
+"""Unidentified Counties"" category within the state of the county because they did not meet minimum population standards. Hinds"
+"County, MS (28049); Mahoning County, OH (39099)."
