@@ -18,7 +18,7 @@ def index():
 if __name__ == '__main__':
     app.run(debug=True)
 
-@app.route('/predict',methods=['POST'])
-def predict():
-    df.pd.read_csv("read csv")
-    
+#@app.route('/static',methods=['POST'])
+#def predict():
+ #   df = pd.read_csv("Infant Mortality Rates by State 2017.csv")
+
