@@ -1,42 +1,42 @@
-"Census Region"	"Census Region Code"	"State"	"State Code"	"County"	"County Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
-"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2017"	"2017"	43	9904	4.34
-"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2017"	"2017"	43	9204	4.67
-"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2017"	"2017"	49	8641	5.67
-"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"New London County, CT"	"09011"	"2017"	"2017"	11	2603	4.23 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Unidentified Counties, CT"	"09999"	"2017"	"2017"	13	4869	2.67 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"2017"	"2017"	14	2733	5.12 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"2017"	"2017"	58	9565	6.06
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"2017"	"2017"	18	5733	3.14 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"2017"	"2017"	36	8655	4.16
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"2017"	"2017"	29	4975	5.83
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"2017"	"2017"	49	16736	2.93
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"2017"	"2017"	22	7134	3.08
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"2017"	"2017"	19	5189	3.66 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"2017"	"2017"	37	9359	3.95
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"2017"	"2017"	36	8513	4.23
-"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Unidentified Counties, MA"	"25999"	"2017"	"2017"	13	4408	2.95 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"2017"	"2017"	21	4178	5.03
-"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"2017"	"2017"	11	2669	4.12 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Unidentified Counties, NH"	"33999"	"2017"	"2017"	19	5269	3.61 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"2017"	"2017"	49	7173	6.83
-"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Unidentified Counties, RI"	"44999"	"2017"	"2017"	17	3465	4.91 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	"2017"	"2017"	27	5655	4.77
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"2017"	"2017"	20	2804	7.13
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"2017"	"2017"	23	9339	2.46
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	"2017"	"2017"	30	4424	6.78
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"2017"	"2017"	51	6022	8.47
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"2017"	"2017"	58	10298	5.63
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Gloucester County, NJ"	"34015"	"2017"	"2017"	17	2891	5.88 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"2017"	"2017"	42	10165	4.13
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"2017"	"2017"	24	4081	5.88
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"2017"	"2017"	27	9123	2.96
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"2017"	"2017"	17	5737	2.96 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Morris County, NJ"	"34027"	"2017"	"2017"	15	4636	3.24 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"2017"	"2017"	20	8597	2.33
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	"2017"	"2017"	24	6790	3.53
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Somerset County, NJ"	"34035"	"2017"	"2017"	16	3068	5.22 (Unreliable)
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Union County, NJ"	"34039"	"2017"	"2017"	31	6859	4.52
-"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"2017"	"2017"	35	6416	5.46
+"notes"	"Census Region"	"Census Region Code"	"State"	"State Code"	"County"	"County Code"	"Year of Death"	"Year of Death Code"	Deaths	Births	Death Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2017"	"2017"	43	9904	4.34
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2017"	"2017"	43	9204	4.67
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2017"	"2017"	49	8641	5.67
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"New London County, CT"	"09011"	"2017"	"2017"	11	2603	4.23 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Connecticut"	"09"	"Unidentified Counties, CT"	"09999"	"2017"	"2017"	13	4869	2.67 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Cumberland County, ME"	"23005"	"2017"	"2017"	14	2733	5.12 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"2017"	"2017"	58	9565	6.06
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"2017"	"2017"	18	5733	3.14 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"2017"	"2017"	36	8655	4.16
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"2017"	"2017"	29	4975	5.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"2017"	"2017"	49	16736	2.93
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"2017"	"2017"	22	7134	3.08
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"2017"	"2017"	19	5189	3.66 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"2017"	"2017"	37	9359	3.95
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"2017"	"2017"	36	8513	4.23
+	"Census Region 1: Northeast"	"CENS-R1"	"Massachusetts"	"25"	"Unidentified Counties, MA"	"25999"	"2017"	"2017"	13	4408	2.95 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"2017"	"2017"	21	4178	5.03
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"2017"	"2017"	11	2669	4.12 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Hampshire"	"33"	"Unidentified Counties, NH"	"33999"	"2017"	"2017"	19	5269	3.61 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"2017"	"2017"	49	7173	6.83
+	"Census Region 1: Northeast"	"CENS-R1"	"Rhode Island"	"44"	"Unidentified Counties, RI"	"44999"	"2017"	"2017"	17	3465	4.91 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	"2017"	"2017"	27	5655	4.77
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"2017"	"2017"	20	2804	7.13
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"2017"	"2017"	23	9339	2.46
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	"2017"	"2017"	30	4424	6.78
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"2017"	"2017"	51	6022	8.47
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"2017"	"2017"	58	10298	5.63
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Gloucester County, NJ"	"34015"	"2017"	"2017"	17	2891	5.88 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"2017"	"2017"	42	10165	4.13
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"2017"	"2017"	24	4081	5.88
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"2017"	"2017"	27	9123	2.96
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"2017"	"2017"	17	5737	2.96 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Morris County, NJ"	"34027"	"2017"	"2017"	15	4636	3.24 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"2017"	"2017"	20	8597	2.33
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	"2017"	"2017"	24	6790	3.53
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Somerset County, NJ"	"34035"	"2017"	"2017"	16	3068	5.22 (Unreliable)
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Union County, NJ"	"34039"	"2017"	"2017"	31	6859	4.52
+	"Census Region 1: Northeast"	"CENS-R1"	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"2017"	"2017"	35	6416	5.46
 	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Albany County, NY"	"36001"	"2017"	"2017"	17	3083	5.51 (Unreliable)
 	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Bronx County, NY"	"36005"	"2017"	"2017"	99	20588	4.81
 	"Census Region 1: Northeast"	"CENS-R1"	"New York"	"36"	"Dutchess County, NY"	"36027"	"2017"	"2017"	11	2604	4.22 (Unreliable)
