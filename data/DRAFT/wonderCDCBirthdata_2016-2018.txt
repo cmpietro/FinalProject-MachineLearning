@@ -1,0 +1,725 @@
+"Notes"	"State of Residence"	"State of Residence Code"	"County of Residence"	"County of Residence Code"	"2013 Metro/Nonmetro"	"2013 Metro/Nonmetro Code"	Births	% of Total Births	Average Age of Mother (years)	Average OE Gestational Age (weeks)	Average Birth Weight (grams)	Average Pre-pregnancy BMI	Average Number of Prenatal Visits	Average Interval Since Last Other Pregnancy Outcome (months)
+	"Alabama"	"01"	"Baldwin County, AL"	"01003"	"Metro"	"Metro"	2290	0.06%	28.01	38.23	3258.78	27.28	11.41	45.87
+	"Alabama"	"01"	"Calhoun County, AL"	"01015"	"Metro"	"Metro"	1265	0.03%	26.67	38.11	3168.14	28.85	10.45	41.11
+	"Alabama"	"01"	"Etowah County, AL"	"01055"	"Metro"	"Metro"	1191	0.03%	26.51	38.22	3190.27	28.85	9.62	48.44
+	"Alabama"	"01"	"Houston County, AL"	"01069"	"Metro"	"Metro"	1368	0.04%	27.04	38.29	3206.84	29.33	11.29	38.53
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"Metro"	"Metro"	8437	0.22%	28.44	38.24	3161.29	27.67	10.27	52.84
+	"Alabama"	"01"	"Lee County, AL"	"01081"	"Metro"	"Metro"	1810	0.05%	28.18	38.24	3218.48	27.38	12.89	41.63
+	"Alabama"	"01"	"Madison County, AL"	"01089"	"Metro"	"Metro"	4262	0.11%	28.65	38.02	3180.03	27.65	9.80	42.10
+	"Alabama"	"01"	"Mobile County, AL"	"01097"	"Metro"	"Metro"	5549	0.15%	27.25	37.95	3129.31	28.05	10.87	45.30
+	"Alabama"	"01"	"Montgomery County, AL"	"01101"	"Metro"	"Metro"	3139	0.08%	27.48	37.90	3083.55	28.68	10.06	55.67
+	"Alabama"	"01"	"Morgan County, AL"	"01103"	"Metro"	"Metro"	1432	0.04%	26.91	38.14	3205.34	28.04	10.65	43.11
+	"Alabama"	"01"	"Shelby County, AL"	"01117"	"Metro"	"Metro"	2250	0.06%	29.45	38.46	3284.24	27.38	10.42	47.14
+	"Alabama"	"01"	"Tuscaloosa County, AL"	"01125"	"Metro"	"Metro"	2406	0.06%	27.43	38.23	3193.12	28.09	9.79	46.45
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"Metro"	"Metro"	9386	0.25%	26.99	38.20	3220.36	28.28	10.78	49.17
+	"Alabama"	"01"	"Unidentified Counties, AL"	"01999"	"Nonmetro"	"Nonmetro"	12976	0.34%	26.42	38.15	3182.33	28.62	10.35	48.27
+	"Alaska"	"02"	"Anchorage Borough, AK"	"02020"	"Metro"	"Metro"	3975	0.10%	29.11	38.54	3361.20	27.62	11.10	47.59
+	"Alaska"	"02"	"Unidentified Counties, AK"	"02999"	"Metro"	"Metro"	2918	0.08%	28.19	38.74	3417.14	27.01	11.02	46.06
+	"Alaska"	"02"	"Unidentified Counties, AK"	"02999"	"Nonmetro"	"Nonmetro"	3193	0.08%	28.21	38.51	3433.24	27.26	10.19	51.87
+	"Arizona"	"04"	"Cochise County, AZ"	"04003"	"Metro"	"Metro"	1354	0.04%	27.34	38.59	3247.36	27.28	8.71	53.08
+	"Arizona"	"04"	"Coconino County, AZ"	"04005"	"Metro"	"Metro"	1506	0.04%	28.18	38.50	3226.70	26.93	10.51	52.91
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"Metro"	"Metro"	51854	1.37%	28.69	38.44	3281.98	27.06	11.09	53.02
+	"Arizona"	"04"	"Mohave County, AZ"	"04015"	"Metro"	"Metro"	1796	0.05%	27.09	38.52	3289.40	27.61	10.66	53.57
+	"Arizona"	"04"	"Navajo County, AZ"	"04017"	"Nonmetro"	"Nonmetro"	1381	0.04%	27.14	38.35	3211.44	28.43	9.74	57.99
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"Metro"	"Metro"	10671	0.28%	28.36	38.48	3244.32	27.16	9.56	55.82
+	"Arizona"	"04"	"Pinal County, AZ"	"04021"	"Metro"	"Metro"	4498	0.12%	27.81	38.48	3310.29	28.09	11.67	56.48
+	"Arizona"	"04"	"Yavapai County, AZ"	"04025"	"Metro"	"Metro"	1772	0.05%	27.70	38.53	3260.13	26.50	11.43	55.69
+	"Arizona"	"04"	"Yuma County, AZ"	"04027"	"Metro"	"Metro"	3034	0.08%	27.06	38.57	3336.28	28.52	9.70	52.68
+	"Arizona"	"04"	"Unidentified Counties, AZ"	"04999"	"Nonmetro"	"Nonmetro"	2857	0.08%	27.14	38.29	3249.31	27.89	9.09	52.55
+	"Arkansas"	"05"	"Benton County, AR"	"05007"	"Metro"	"Metro"	3778	0.10%	28.32	38.31	3291.23	27.05	11.37	46.74
+	"Arkansas"	"05"	"Faulkner County, AR"	"05045"	"Metro"	"Metro"	1467	0.04%	27.73	38.33	3297.10	28.69	11.46	49.57
+	"Arkansas"	"05"	"Pulaski County, AR"	"05119"	"Metro"	"Metro"	5123	0.14%	28.06	38.17	3172.79	28.02	10.28	51.34
+	"Arkansas"	"05"	"Saline County, AR"	"05125"	"Metro"	"Metro"	1339	0.04%	27.95	38.28	3288.69	27.65	10.78	50.64
+	"Arkansas"	"05"	"Sebastian County, AR"	"05131"	"Metro"	"Metro"	1662	0.04%	26.81	38.37	3268.50	28.35	9.51	53.07
+	"Arkansas"	"05"	"Washington County, AR"	"05143"	"Metro"	"Metro"	3227	0.09%	27.89	38.28	3249.12	27.24	10.57	40.66
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"Metro"	"Metro"	7471	0.20%	26.56	38.15	3196.53	28.49	10.29	47.54
+	"Arkansas"	"05"	"Unidentified Counties, AR"	"05999"	"Nonmetro"	"Nonmetro"	12951	0.34%	26.15	38.26	3226.20	28.47	10.43	46.86
+	"California"	"06"	"Alameda County, CA"	"06001"	"Metro"	"Metro"	18240	0.48%	31.61	38.65	3280.05	25.93	10.68	37.20
+	"California"	"06"	"Butte County, CA"	"06007"	"Metro"	"Metro"	2430	0.06%	28.78	38.76	3344.58	27.39	11.14	36.92
+	"California"	"06"	"Contra Costa County, CA"	"06013"	"Metro"	"Metro"	12002	0.32%	31.06	38.64	3310.89	26.90	11.82	39.23
+	"California"	"06"	"El Dorado County, CA"	"06017"	"Metro"	"Metro"	1674	0.04%	30.50	38.74	3331.94	25.83	10.69	36.86
+	"California"	"06"	"Fresno County, CA"	"06019"	"Metro"	"Metro"	14465	0.38%	28.43	38.49	3276.69	28.21	12.78	44.28
+	"California"	"06"	"Humboldt County, CA"	"06023"	"Nonmetro"	"Nonmetro"	1364	0.04%	29.38	38.85	3386.42	27.51	12.38	39.09
+	"California"	"06"	"Imperial County, CA"	"06025"	"Metro"	"Metro"	2629	0.07%	27.91	38.65	3320.75	27.98	9.44	46.88
+	"California"	"06"	"Kern County, CA"	"06029"	"Metro"	"Metro"	12916	0.34%	27.84	38.51	3278.08	28.47	11.58	46.41
+	"California"	"06"	"Kings County, CA"	"06031"	"Metro"	"Metro"	2262	0.06%	27.68	38.50	3320.51	28.75	12.75	41.62
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"Metro"	"Metro"	110271	2.91%	30.40	38.54	3260.45	26.60	12.19	41.82
+	"California"	"06"	"Madera County, CA"	"06039"	"Metro"	"Metro"	2079	0.05%	28.23	38.58	3298.49	28.71	11.16	43.79
+	"California"	"06"	"Marin County, CA"	"06041"	"Metro"	"Metro"	2127	0.06%	33.34	38.89	3373.09	24.97	10.28	31.91
+	"California"	"06"	"Merced County, CA"	"06047"	"Metro"	"Metro"	3875	0.10%	27.98	38.50	3309.74	29.14	10.50	42.18
+	"California"	"06"	"Monterey County, CA"	"06053"	"Metro"	"Metro"	5895	0.16%	28.87	38.68	3318.25	27.98	12.25	43.99
+	"California"	"06"	"Napa County, CA"	"06055"	"Metro"	"Metro"	1204	0.03%	30.83	38.67	3346.47	26.91	12.24	43.79
+	"California"	"06"	"Orange County, CA"	"06059"	"Metro"	"Metro"	35679	0.94%	30.98	38.63	3291.59	25.34	12.58	40.57
+	"California"	"06"	"Placer County, CA"	"06061"	"Metro"	"Metro"	3663	0.10%	30.99	38.78	3373.06	25.99	12.16	40.82
+	"California"	"06"	"Riverside County, CA"	"06065"	"Metro"	"Metro"	28725	0.76%	28.93	38.54	3288.23	27.29	11.37	44.54
+	"California"	"06"	"Sacramento County, CA"	"06067"	"Metro"	"Metro"	19102	0.50%	29.60	38.66	3328.53	27.33	11.49	42.12
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"Metro"	"Metro"	28994	0.76%	28.67	38.42	3246.52	27.49	11.23	45.28
+	"California"	"06"	"San Diego County, CA"	"06073"	"Metro"	"Metro"	40070	1.06%	30.31	38.64	3300.06	26.06	11.86	40.96
+	"California"	"06"	"San Francisco County, CA"	"06075"	"Metro"	"Metro"	8697	0.23%	33.31	38.75	3272.53	24.07	11.12	32.12
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"Metro"	"Metro"	9841	0.26%	28.89	38.55	3288.08	27.94	13.12	45.28
+	"California"	"06"	"San Luis Obispo County, CA"	"06079"	"Metro"	"Metro"	2445	0.06%	30.08	38.64	3354.12	26.48	12.84	40.70
+	"California"	"06"	"San Mateo County, CA"	"06081"	"Metro"	"Metro"	8330	0.22%	32.38	38.65	3292.79	25.10	11.57	33.27
+	"California"	"06"	"Santa Barbara County, CA"	"06083"	"Metro"	"Metro"	5268	0.14%	29.15	38.60	3310.64	26.99	13.14	44.42
+	"California"	"06"	"Santa Clara County, CA"	"06085"	"Metro"	"Metro"	21292	0.56%	31.69	38.62	3262.08	25.44	11.92	33.81
+	"California"	"06"	"Santa Cruz County, CA"	"06087"	"Metro"	"Metro"	2449	0.06%	30.64	38.81	3345.75	26.59	12.74	44.67
+	"California"	"06"	"Shasta County, CA"	"06089"	"Metro"	"Metro"	1966	0.05%	28.45	38.79	3334.30	26.86	11.11	44.27
+	"California"	"06"	"Solano County, CA"	"06095"	"Metro"	"Metro"	5033	0.13%	29.57	38.68	3330.54	27.67	11.36	43.72
+	"California"	"06"	"Sonoma County, CA"	"06097"	"Metro"	"Metro"	4526	0.12%	30.73	38.83	3361.32	26.98	11.41	43.73
+	"California"	"06"	"Stanislaus County, CA"	"06099"	"Metro"	"Metro"	7364	0.19%	28.52	38.60	3334.05	28.31	13.14	46.24
+	"California"	"06"	"Tulare County, CA"	"06107"	"Metro"	"Metro"	6905	0.18%	27.82	38.51	3304.18	28.53	11.33	44.77
+	"California"	"06"	"Ventura County, CA"	"06111"	"Metro"	"Metro"	9065	0.24%	30.08	38.64	3321.65	26.94	12.38	48.17
+	"California"	"06"	"Yolo County, CA"	"06113"	"Metro"	"Metro"	2135	0.06%	30.25	38.72	3367.47	27.38	12.16	39.79
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"Metro"	"Metro"	3148	0.08%	28.61	38.65	3310.38	27.79	11.21	43.93
+	"California"	"06"	"Unidentified Counties, CA"	"06999"	"Nonmetro"	"Nonmetro"	6790	0.18%	28.61	38.70	3331.43	27.19	11.28	42.75
+	"Colorado"	"08"	"Adams County, CO"	"08001"	"Metro"	"Metro"	6293	0.17%	28.81	38.60	3199.97	27.48	10.33	45.64
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"Metro"	"Metro"	7401	0.20%	29.85	38.52	3181.65	26.40	10.19	42.79
+	"Colorado"	"08"	"Boulder County, CO"	"08013"	"Metro"	"Metro"	2560	0.07%	31.26	38.80	3232.47	25.15	10.76	37.76
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"Metro"	"Metro"	9424	0.25%	30.26	38.63	3177.99	25.93	10.62	41.28
+	"Colorado"	"08"	"Douglas County, CO"	"08035"	"Metro"	"Metro"	3395	0.09%	31.38	38.51	3198.69	25.10	11.04	41.60
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"Metro"	"Metro"	9107	0.24%	28.47	38.42	3167.07	26.80	9.52	46.24
+	"Colorado"	"08"	"Jefferson County, CO"	"08059"	"Metro"	"Metro"	5654	0.15%	30.80	38.75	3213.86	25.40	10.32	37.73
+	"Colorado"	"08"	"Larimer County, CO"	"08069"	"Metro"	"Metro"	3219	0.08%	30.10	38.54	3209.08	25.75	12.35	52.67
+	"Colorado"	"08"	"Mesa County, CO"	"08077"	"Metro"	"Metro"	1655	0.04%	27.89	38.55	3194.48	26.89	10.81	39.44
+	"Colorado"	"08"	"Pueblo County, CO"	"08101"	"Metro"	"Metro"	1829	0.05%	27.24	38.12	3078.05	27.45	9.96	44.57
+	"Colorado"	"08"	"Weld County, CO"	"08123"	"Metro"	"Metro"	4243	0.11%	28.46	38.59	3230.20	27.08	11.61	50.96
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"Metro"	"Metro"	1239	0.03%	30.67	38.66	3166.86	25.60	10.39	40.27
+	"Colorado"	"08"	"Unidentified Counties, CO"	"08999"	"Nonmetro"	"Nonmetro"	6866	0.18%	28.70	38.53	3154.26	26.46	10.63	48.10
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"Metro"	"Metro"	9726	0.26%	31.50	38.66	3313.46	25.85	12.46	51.57
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"Metro"	"Metro"	9239	0.24%	30.06	38.42	3257.06	27.22	11.74	51.20
+	"Connecticut"	"09"	"Litchfield County, CT"	"09005"	"Nonmetro"	"Nonmetro"	1364	0.04%	30.58	38.69	3352.57	27.00	12.77	51.46
+	"Connecticut"	"09"	"Middlesex County, CT"	"09007"	"Metro"	"Metro"	1244	0.03%	31.01	38.64	3327.77	26.59	13.36	53.45
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"Metro"	"Metro"	8519	0.22%	30.06	38.57	3280.80	27.47	13.18	45.66
+	"Connecticut"	"09"	"New London County, CT"	"09011"	"Metro"	"Metro"	2457	0.06%	29.74	38.64	3332.75	27.30	12.54	50.60
+	"Connecticut"	"09"	"Tolland County, CT"	"09013"	"Metro"	"Metro"	1114	0.03%	30.85	38.54	3325.25	26.25	12.38	56.23
+	"Connecticut"	"09"	"Windham County, CT"	"09015"	"Metro"	"Metro"	1062	0.03%	29.25	38.38	3275.46	27.60	11.58	53.99
+	"Delaware"	"10"	"Kent County, DE"	"10001"	"Metro"	"Metro"	2145	0.06%	28.26	38.45	3257.33	27.60	10.29	50.25
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"Metro"	"Metro"	6179	0.16%	29.45	38.42	3241.04	27.73	10.60	51.13
+	"Delaware"	"10"	"Sussex County, DE"	"10005"	"Metro"	"Metro"	2297	0.06%	28.47	38.47	3269.44	27.28	9.78	47.44
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"Metro"	"Metro"	9212	0.24%	30.85	38.51	3205.47	25.88	10.28	45.21
+	"Florida"	"12"	"Alachua County, FL"	"12001"	"Metro"	"Metro"	2733	0.07%	29.17	38.26	3189.99	26.97	10.74	45.38
+	"Florida"	"12"	"Bay County, FL"	"12005"	"Metro"	"Metro"	2187	0.06%	27.70	38.38	3285.23	27.52	10.14	47.43
+	"Florida"	"12"	"Brevard County, FL"	"12009"	"Metro"	"Metro"	5309	0.14%	28.86	38.39	3270.87	26.87	10.43	49.77
+	"Florida"	"12"	"Broward County, FL"	"12011"	"Metro"	"Metro"	21928	0.58%	30.35	38.31	3197.63	26.43	10.38	52.70
+	"Florida"	"12"	"Charlotte County, FL"	"12015"	"Metro"	"Metro"	1040	0.03%	28.04	38.32	3213.50	27.61	9.35	55.12
+	"Florida"	"12"	"Citrus County, FL"	"12017"	"Metro"	"Metro"	1025	0.03%	27.49	38.37	3266.28	27.98	10.36	57.28
+	"Florida"	"12"	"Clay County, FL"	"12019"	"Metro"	"Metro"	2182	0.06%	28.37	38.30	3252.32	27.52	10.66	48.04
+	"Florida"	"12"	"Collier County, FL"	"12021"	"Metro"	"Metro"	3199	0.08%	29.43	38.37	3282.32	26.92	10.53	60.93
+	"Florida"	"12"	"Duval County, FL"	"12031"	"Metro"	"Metro"	12973	0.34%	28.45	38.26	3195.52	27.54	9.84	45.37
+	"Florida"	"12"	"Escambia County, FL"	"12033"	"Metro"	"Metro"	3733	0.10%	27.59	38.22	3220.72	27.70	10.48	49.26
+	"Florida"	"12"	"Hernando County, FL"	"12053"	"Metro"	"Metro"	1617	0.04%	27.94	38.38	3272.60	26.67	11.21	60.88
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"Metro"	"Metro"	17126	0.45%	28.97	38.41	3230.36	26.75	10.64	54.33
+	"Florida"	"12"	"Indian River County, FL"	"12061"	"Metro"	"Metro"	1294	0.03%	28.79	38.44	3272.38	27.53	12.65	51.70
+	"Florida"	"12"	"Lake County, FL"	"12069"	"Metro"	"Metro"	3368	0.09%	28.48	38.35	3249.44	27.28	9.83	53.93
+	"Florida"	"12"	"Lee County, FL"	"12071"	"Metro"	"Metro"	6793	0.18%	28.57	38.37	3254.16	27.25	10.09	52.41
+	"Florida"	"12"	"Leon County, FL"	"12073"	"Metro"	"Metro"	2915	0.08%	28.73	38.40	3215.33	27.49	11.28	55.82
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"Metro"	"Metro"	3452	0.09%	28.56	38.50	3293.64	27.28	11.04	59.43
+	"Florida"	"12"	"Marion County, FL"	"12083"	"Metro"	"Metro"	3476	0.09%	27.38	38.43	3236.22	27.69	10.27	50.19
+	"Florida"	"12"	"Martin County, FL"	"12085"	"Metro"	"Metro"	1251	0.03%	29.61	38.53	3287.78	26.18	11.64	52.42
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"Metro"	"Metro"	31032	0.82%	30.24	38.34	3227.87	25.84	11.90	52.68
+	"Florida"	"12"	"Okaloosa County, FL"	"12091"	"Metro"	"Metro"	2717	0.07%	28.22	38.28	3267.95	26.76	12.24	48.23
+	"Florida"	"12"	"Orange County, FL"	"12095"	"Metro"	"Metro"	16919	0.45%	29.65	38.34	3232.26	26.61	9.27	55.78
+	"Florida"	"12"	"Osceola County, FL"	"12097"	"Metro"	"Metro"	4437	0.12%	28.64	38.30	3231.13	27.08	11.40	52.49
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"Metro"	"Metro"	15066	0.40%	30.06	38.41	3227.61	26.49	10.93	54.86
+	"Florida"	"12"	"Pasco County, FL"	"12101"	"Metro"	"Metro"	5084	0.13%	28.62	38.44	3275.23	27.09	10.88	53.87
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"Metro"	"Metro"	8126	0.21%	29.36	38.51	3279.11	26.44	11.14	55.69
+	"Florida"	"12"	"Polk County, FL"	"12105"	"Metro"	"Metro"	7847	0.21%	27.65	38.39	3256.08	28.09	10.65	52.65
+	"Florida"	"12"	"St. Johns County, FL"	"12109"	"Metro"	"Metro"	2242	0.06%	30.81	38.57	3333.85	25.95	11.58	48.64
+	"Florida"	"12"	"St. Lucie County, FL"	"12111"	"Metro"	"Metro"	3123	0.08%	28.60	38.38	3237.11	27.47	10.15	56.50
+	"Florida"	"12"	"Santa Rosa County, FL"	"12113"	"Metro"	"Metro"	1953	0.05%	28.60	38.33	3295.36	26.44	11.53	47.85
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"Metro"	"Metro"	2878	0.08%	29.30	38.60	3308.35	26.04	11.61	61.90
+	"Florida"	"12"	"Seminole County, FL"	"12117"	"Metro"	"Metro"	4663	0.12%	29.95	38.47	3289.91	26.78	9.91	53.89
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"Metro"	"Metro"	4863	0.13%	28.21	38.44	3264.54	27.05	11.19	53.10
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"Metro"	"Metro"	5313	0.14%	27.72	38.35	3242.40	27.61	10.62	48.42
+	"Florida"	"12"	"Unidentified Counties, FL"	"12999"	"Nonmetro"	"Nonmetro"	7678	0.20%	27.02	38.33	3249.68	28.13	10.21	53.26
+	"Georgia"	"13"	"Bartow County, GA"	"13015"	"Metro"	"Metro"	1173	0.03%	27.39	38.38	3284.58	28.54	12.26	49.01
+	"Georgia"	"13"	"Bibb County, GA"	"13021"	"Metro"	"Metro"	2063	0.05%	26.92	37.93	3078.70	28.48	12.17	42.70
+	"Georgia"	"13"	"Carroll County, GA"	"13045"	"Metro"	"Metro"	1540	0.04%	27.20	38.50	3253.35	27.98	10.75	48.38
+	"Georgia"	"13"	"Chatham County, GA"	"13051"	"Metro"	"Metro"	3557	0.09%	28.56	38.15	3182.22	28.38	9.80	52.35
+	"Georgia"	"13"	"Cherokee County, GA"	"13057"	"Metro"	"Metro"	2562	0.07%	29.75	38.46	3319.59	26.94	11.79	41.90
+	"Georgia"	"13"	"Clarke County, GA"	"13059"	"Metro"	"Metro"	1351	0.04%	28.68	38.29	3180.32	27.73	10.01	53.40
+	"Georgia"	"13"	"Clayton County, GA"	"13063"	"Metro"	"Metro"	3773	0.10%	27.77	38.20	3117.13	28.55	9.55	56.24
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"Metro"	"Metro"	8927	0.24%	30.23	38.39	3241.79	26.67	12.73	47.20
+	"Georgia"	"13"	"Columbia County, GA"	"13073"	"Metro"	"Metro"	1817	0.05%	29.54	38.49	3322.10	27.06	11.06	48.48
+	"Georgia"	"13"	"Coweta County, GA"	"13077"	"Metro"	"Metro"	1575	0.04%	28.65	38.17	3241.87	27.42	11.62	45.22
+	"Georgia"	"13"	"DeKalb County, GA"	"13089"	"Metro"	"Metro"	10785	0.28%	29.56	38.43	3177.76	26.61	10.65	44.27
+	"Georgia"	"13"	"Douglas County, GA"	"13097"	"Metro"	"Metro"	1700	0.04%	28.58	38.15	3157.22	28.31	12.02	59.42
+	"Georgia"	"13"	"Fayette County, GA"	"13113"	"Metro"	"Metro"	867	0.02%	30.32	38.25	3233.16	26.56	12.01	44.98
+	"Georgia"	"13"	"Forsyth County, GA"	"13117"	"Metro"	"Metro"	2306	0.06%	31.08	38.41	3285.43	26.10	12.66	43.65
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"Metro"	"Metro"	12652	0.33%	30.02	38.30	3152.20	26.43	10.98	46.21
+	"Georgia"	"13"	"Gwinnett County, GA"	"13135"	"Metro"	"Metro"	10855	0.29%	29.89	38.34	3209.30	26.73	12.24	49.06
+	"Georgia"	"13"	"Hall County, GA"	"13139"	"Metro"	"Metro"	2496	0.07%	27.87	38.46	3317.75	27.25	12.36	39.89
+	"Georgia"	"13"	"Henry County, GA"	"13151"	"Metro"	"Metro"	2705	0.07%	28.65	38.11	3158.09	28.03	10.65	47.62
+	"Georgia"	"13"	"Houston County, GA"	"13153"	"Metro"	"Metro"	1967	0.05%	27.65	38.23	3226.07	28.15	10.91	42.44
+	"Georgia"	"13"	"Lowndes County, GA"	"13185"	"Metro"	"Metro"	1656	0.04%	27.20	38.03	3159.95	28.62	12.12	43.00
+	"Georgia"	"13"	"Muscogee County, GA"	"13215"	"Metro"	"Metro"	2864	0.08%	27.32	38.07	3148.08	27.32	11.53	47.90
+	"Georgia"	"13"	"Paulding County, GA"	"13223"	"Metro"	"Metro"	1763	0.05%	28.73	38.35	3298.26	28.02	13.25	52.59
+	"Georgia"	"13"	"Richmond County, GA"	"13245"	"Metro"	"Metro"	2918	0.08%	27.22	38.19	3127.80	27.73	10.32	48.02
+	"Georgia"	"13"	"Whitfield County, GA"	"13313"	"Metro"	"Metro"	1300	0.03%	27.32	38.41	3281.02	28.93	12.17	39.88
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"Metro"	"Metro"	20303	0.54%	27.29	38.17	3205.85	28.18	11.29	47.19
+	"Georgia"	"13"	"Unidentified Counties, GA"	"13999"	"Nonmetro"	"Nonmetro"	20697	0.55%	26.67	38.16	3188.41	28.73	11.18	47.92
+	"Hawaii"	"15"	"Hawaii County, HI"	"15001"	"Nonmetro"	"Nonmetro"	2227	0.06%	28.77	38.45	3214.59	26.77	10.44	56.07
+	"Hawaii"	"15"	"Honolulu County, HI"	"15003"	"Metro"	"Metro"	12168	0.32%	29.70	38.38	3226.58	26.83	9.99	57.91
+	"Hawaii"	"15"	"Maui County, HI"	"15009"	"Metro"	"Metro"	1828	0.05%	29.61	38.61	3235.27	26.02	11.96	56.15
+	"Hawaii"	"15"	"Unidentified Counties, HI"	"15999"	"Nonmetro"	"Nonmetro"	749	0.02%	29.78	38.61	3202.40	25.73	11.71	69.71
+	"Idaho"	"16"	"Ada County, ID"	"16001"	"Metro"	"Metro"	4861	0.13%	29.60	38.58	3311.90	26.00	12.12	47.12
+	"Idaho"	"16"	"Bonneville County, ID"	"16019"	"Metro"	"Metro"	1815	0.05%	27.92	38.32	3203.52	27.51	11.90	38.47
+	"Idaho"	"16"	"Canyon County, ID"	"16027"	"Metro"	"Metro"	2918	0.08%	27.71	38.47	3302.05	27.78	10.79	51.98
+	"Idaho"	"16"	"Kootenai County, ID"	"16055"	"Metro"	"Metro"	1732	0.05%	28.46	38.71	3372.60	26.41	12.68	47.72
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"Metro"	"Metro"	2611	0.07%	27.69	38.42	3255.79	27.37	11.61	46.94
+	"Idaho"	"16"	"Unidentified Counties, ID"	"16999"	"Nonmetro"	"Nonmetro"	7466	0.20%	27.43	38.58	3280.57	26.92	11.42	45.90
+	"Illinois"	"17"	"Champaign County, IL"	"17019"	"Metro"	"Metro"	2254	0.06%	28.91	38.27	3252.19	27.72	12.77	36.65
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"Metro"	"Metro"	61797	1.63%	30.05	38.38	3230.21	27.13	10.88	44.91
+	"Illinois"	"17"	"DeKalb County, IL"	"17037"	"Metro"	"Metro"	1092	0.03%	28.74	38.20	3274.78	28.15	11.93	51.04
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"Metro"	"Metro"	10298	0.27%	31.20	38.49	3303.16	26.23	12.24	43.46
+	"Illinois"	"17"	"Kane County, IL"	"17089"	"Metro"	"Metro"	6337	0.17%	29.63	38.29	3288.64	27.56	11.43	43.32
+	"Illinois"	"17"	"Kankakee County, IL"	"17091"	"Metro"	"Metro"	1237	0.03%	27.94	38.32	3221.41	28.13	10.92	38.00
+	"Illinois"	"17"	"Kendall County, IL"	"17093"	"Metro"	"Metro"	1516	0.04%	30.76	38.25	3312.65	27.94	12.02	39.23
+	"Illinois"	"17"	"Lake County, IL"	"17097"	"Metro"	"Metro"	7095	0.19%	30.20	38.48	3304.09	27.31	11.81	44.87
+	"Illinois"	"17"	"LaSalle County, IL"	"17099"	"Nonmetro"	"Nonmetro"	1092	0.03%	28.35	38.40	3312.87	28.61	12.65	50.36
+	"Illinois"	"17"	"McHenry County, IL"	"17111"	"Metro"	"Metro"	2987	0.08%	30.35	38.49	3337.50	27.57	11.76	48.31
+	"Illinois"	"17"	"McLean County, IL"	"17113"	"Metro"	"Metro"	1817	0.05%	29.06	38.45	3326.32	27.81	11.93	40.89
+	"Illinois"	"17"	"Macon County, IL"	"17115"	"Metro"	"Metro"	1269	0.03%	27.05	38.27	3249.77	28.98	11.32	53.01
+	"Illinois"	"17"	"Madison County, IL"	"17119"	"Metro"	"Metro"	2865	0.08%	28.42	38.15	3227.49	28.46	10.87	45.13
+	"Illinois"	"17"	"Peoria County, IL"	"17143"	"Metro"	"Metro"	2504	0.07%	27.86	38.25	3232.15	28.43	11.43	43.66
+	"Illinois"	"17"	"Rock Island County, IL"	"17161"	"Metro"	"Metro"	1731	0.05%	28.17	38.44	3298.36	28.43	11.64	47.94
+	"Illinois"	"17"	"St. Clair County, IL"	"17163"	"Metro"	"Metro"	3109	0.08%	28.05	38.18	3189.87	28.67	10.39	48.00
+	"Illinois"	"17"	"Sangamon County, IL"	"17167"	"Metro"	"Metro"	2240	0.06%	28.62	38.03	3178.69	28.67	11.33	43.33
+	"Illinois"	"17"	"Tazewell County, IL"	"17179"	"Metro"	"Metro"	1391	0.04%	28.63	38.54	3379.54	28.11	12.09	41.38
+	"Illinois"	"17"	"Will County, IL"	"17197"	"Metro"	"Metro"	7318	0.19%	30.01	38.31	3289.24	27.33	11.18	45.32
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"Metro"	"Metro"	3497	0.09%	27.92	38.21	3247.24	28.86	13.07	41.84
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"Metro"	"Metro"	6952	0.18%	28.19	38.30	3280.04	28.43	12.16	45.65
+	"Illinois"	"17"	"Unidentified Counties, IL"	"17999"	"Nonmetro"	"Nonmetro"	14417	0.38%	27.42	38.31	3296.51	28.54	12.09	44.75
+	"Indiana"	"18"	"Allen County, IN"	"18003"	"Metro"	"Metro"	5240	0.14%	27.89	38.50	3248.63	27.80	11.53	45.08
+	"Indiana"	"18"	"Clark County, IN"	"18019"	"Metro"	"Metro"	1396	0.04%	27.93	38.37	3290.45	27.98	10.88	39.79
+	"Indiana"	"18"	"Delaware County, IN"	"18035"	"Metro"	"Metro"	1072	0.03%	27.40	38.30	3286.31	28.30	11.60	44.50
+	"Indiana"	"18"	"Elkhart County, IN"	"18039"	"Metro"	"Metro"	3117	0.08%	27.28	38.67	3331.83	27.70	11.09	48.95
+	"Indiana"	"18"	"Hamilton County, IN"	"18057"	"Metro"	"Metro"	3724	0.10%	31.16	38.50	3346.55	26.21	12.38	44.65
+	"Indiana"	"18"	"Hendricks County, IN"	"18063"	"Metro"	"Metro"	1619	0.04%	29.53	38.48	3365.23	27.41	12.23	48.28
+	"Indiana"	"18"	"Johnson County, IN"	"18081"	"Metro"	"Metro"	1877	0.05%	28.27	38.46	3319.68	27.76	11.95	47.05
+	"Indiana"	"18"	"Lake County, IN"	"18089"	"Metro"	"Metro"	5785	0.15%	28.12	38.41	3243.64	28.19	10.72	50.39
+	"Indiana"	"18"	"La Porte County, IN"	"18091"	"Metro"	"Metro"	1271	0.03%	27.51	38.38	3233.37	28.93	10.48	52.82
+	"Indiana"	"18"	"Madison County, IN"	"18095"	"Metro"	"Metro"	1409	0.04%	26.67	38.23	3243.34	28.26	11.37	47.61
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"Metro"	"Metro"	14036	0.37%	28.20	38.33	3228.69	28.33	10.78	48.67
+	"Indiana"	"18"	"Monroe County, IN"	"18105"	"Metro"	"Metro"	1246	0.03%	29.24	38.52	3304.60	27.36	12.91	46.74
+	"Indiana"	"18"	"Porter County, IN"	"18127"	"Metro"	"Metro"	1677	0.04%	28.86	38.53	3343.58	28.05	10.74	45.92
+	"Indiana"	"18"	"St. Joseph County, IN"	"18141"	"Metro"	"Metro"	3538	0.09%	27.85	38.37	3251.52	27.63	11.00	47.15
+	"Indiana"	"18"	"Tippecanoe County, IN"	"18157"	"Metro"	"Metro"	2158	0.06%	28.31	38.43	3280.27	27.31	10.97	43.76
+	"Indiana"	"18"	"Vanderburgh County, IN"	"18163"	"Metro"	"Metro"	2115	0.06%	27.25	38.22	3226.00	27.58	11.76	43.02
+	"Indiana"	"18"	"Vigo County, IN"	"18167"	"Metro"	"Metro"	1131	0.03%	26.84	38.21	3261.14	27.86	11.41	40.08
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"Metro"	"Metro"	11267	0.30%	27.73	38.45	3320.50	27.92	11.72	45.00
+	"Indiana"	"18"	"Unidentified Counties, IN"	"18999"	"Nonmetro"	"Nonmetro"	17968	0.47%	27.00	38.47	3304.16	28.01	11.29	46.55
+	"Iowa"	"19"	"Black Hawk County, IA"	"19013"	"Metro"	"Metro"	1632	0.04%	28.31	38.43	3304.43	27.82	11.09	50.44
+	"Iowa"	"19"	"Johnson County, IA"	"19103"	"Metro"	"Metro"	1735	0.05%	30.63	38.55	3339.94	26.11	11.09	37.57
+	"Iowa"	"19"	"Linn County, IA"	"19113"	"Metro"	"Metro"	2731	0.07%	28.89	38.41	3333.72	27.65	12.46	50.59
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"Metro"	"Metro"	6655	0.18%	28.96	38.44	3332.34	27.06	11.93	45.01
+	"Iowa"	"19"	"Scott County, IA"	"19163"	"Metro"	"Metro"	2096	0.06%	28.55	38.41	3308.58	27.69	12.81	52.67
+	"Iowa"	"19"	"Woodbury County, IA"	"19193"	"Metro"	"Metro"	1393	0.04%	27.55	38.36	3270.87	27.84	11.79	49.12
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"Metro"	"Metro"	7020	0.19%	28.84	38.46	3346.76	27.42	12.20	43.58
+	"Iowa"	"19"	"Unidentified Counties, IA"	"19999"	"Nonmetro"	"Nonmetro"	14523	0.38%	27.93	38.49	3350.04	28.02	11.54	46.11
+	"Kansas"	"20"	"Douglas County, KS"	"20045"	"Metro"	"Metro"	1116	0.03%	29.43	38.44	3277.79	27.26	11.73	41.29
+	"Kansas"	"20"	"Johnson County, KS"	"20091"	"Metro"	"Metro"	7140	0.19%	30.65	38.54	3350.41	26.17	11.77	39.06
+	"Kansas"	"20"	"Sedgwick County, KS"	"20173"	"Metro"	"Metro"	6733	0.18%	27.98	38.35	3288.15	27.57	10.89	49.42
+	"Kansas"	"20"	"Shawnee County, KS"	"20177"	"Metro"	"Metro"	2123	0.06%	27.65	38.24	3281.15	28.26	11.22	51.12
+	"Kansas"	"20"	"Wyandotte County, KS"	"20209"	"Metro"	"Metro"	2614	0.07%	27.26	38.33	3218.73	28.42	10.25	43.27
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"Metro"	"Metro"	4850	0.13%	28.14	38.46	3333.87	27.50	11.20	43.65
+	"Kansas"	"20"	"Unidentified Counties, KS"	"20999"	"Nonmetro"	"Nonmetro"	11685	0.31%	27.28	38.42	3286.40	28.02	10.93	43.89
+	"Kentucky"	"21"	"Boone County, KY"	"21015"	"Metro"	"Metro"	1695	0.04%	29.21	38.40	3321.63	26.75	11.65	47.89
+	"Kentucky"	"21"	"Fayette County, KY"	"21067"	"Metro"	"Metro"	3921	0.10%	29.16	38.23	3237.39	26.95	12.33	43.77
+	"Kentucky"	"21"	"Hardin County, KY"	"21093"	"Metro"	"Metro"	1431	0.04%	27.33	38.28	3284.02	28.61	9.92	40.34
+	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"Metro"	"Metro"	9584	0.25%	28.60	38.29	3248.57	27.20	11.77	49.39
+	"Kentucky"	"21"	"Kenton County, KY"	"21117"	"Metro"	"Metro"	2191	0.06%	28.58	38.38	3284.94	27.32	11.50	48.91
+	"Kentucky"	"21"	"Warren County, KY"	"21227"	"Metro"	"Metro"	1732	0.05%	27.85	38.33	3302.90	26.79	10.46	45.06
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"Metro"	"Metro"	12119	0.32%	27.35	38.25	3281.31	27.90	11.84	44.89
+	"Kentucky"	"21"	"Unidentified Counties, KY"	"21999"	"Nonmetro"	"Nonmetro"	21249	0.56%	26.38	38.17	3245.28	28.45	11.98	45.28
+	"Louisiana"	"22"	"Ascension Parish, LA"	"22005"	"Metro"	"Metro"	1687	0.04%	28.77	38.17	3220.11	27.91	11.06	46.31
+	"Louisiana"	"22"	"Bossier Parish, LA"	"22015"	"Metro"	"Metro"	1693	0.04%	27.67	37.95	3181.81	27.55	11.62	46.99
+	"Louisiana"	"22"	"Caddo Parish, LA"	"22017"	"Metro"	"Metro"	3072	0.08%	26.99	37.79	3098.81	28.45	11.36	48.75
+	"Louisiana"	"22"	"Calcasieu Parish, LA"	"22019"	"Metro"	"Metro"	3057	0.08%	26.98	38.04	3167.82	27.17	9.95	51.45
+	"Louisiana"	"22"	"East Baton Rouge Parish, LA"	"22033"	"Metro"	"Metro"	5780	0.15%	28.15	38.01	3121.64	27.91	10.40	45.90
+	"Louisiana"	"22"	"Jefferson Parish, LA"	"22051"	"Metro"	"Metro"	5649	0.15%	28.55	38.20	3174.65	27.72	11.91	47.39
+	"Louisiana"	"22"	"Lafayette Parish, LA"	"22055"	"Metro"	"Metro"	3242	0.09%	28.42	38.24	3235.51	27.11	13.86	45.64
+	"Louisiana"	"22"	"Livingston Parish, LA"	"22063"	"Metro"	"Metro"	1771	0.05%	27.37	38.20	3252.71	27.81	11.20	38.11
+	"Louisiana"	"22"	"Orleans Parish, LA"	"22071"	"Metro"	"Metro"	4656	0.12%	29.09	38.09	3107.58	27.08	11.23	46.99
+	"Louisiana"	"22"	"Ouachita Parish, LA"	"22073"	"Metro"	"Metro"	2063	0.05%	27.10	37.82	3093.91	29.12	11.60	48.22
+	"Louisiana"	"22"	"Rapides Parish, LA"	"22079"	"Metro"	"Metro"	1717	0.05%	26.85	38.07	3153.45	28.03	10.82	51.47
+	"Louisiana"	"22"	"St. Tammany Parish, LA"	"22103"	"Metro"	"Metro"	2932	0.08%	29.12	38.31	3263.36	27.00	11.29	46.10
+	"Louisiana"	"22"	"Tangipahoa Parish, LA"	"22105"	"Metro"	"Metro"	1916	0.05%	26.97	38.39	3187.49	28.42	11.22	44.31
+	"Louisiana"	"22"	"Terrebonne Parish, LA"	"22109"	"Metro"	"Metro"	1506	0.04%	26.95	37.97	3181.47	29.48	12.79	51.71
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"Metro"	"Metro"	9347	0.25%	27.22	38.01	3182.68	28.54	12.27	47.54
+	"Louisiana"	"22"	"Unidentified Counties, LA"	"22999"	"Nonmetro"	"Nonmetro"	9527	0.25%	26.34	37.96	3154.85	28.55	11.59	46.22
+	"Maine"	"23"	"Androscoggin County, ME"	"23001"	"Metro"	"Metro"	1240	0.03%	28.50	38.68	3310.37	28.74	12.14	51.97
+	"Maine"	"23"	"Cumberland County, ME"	"23005"	"Metro"	"Metro"	2717	0.07%	31.20	38.68	3348.32	26.70	14.13	45.34
+	"Maine"	"23"	"Kennebec County, ME"	"23011"	"Nonmetro"	"Nonmetro"	1161	0.03%	28.47	38.71	3319.15	28.81	12.96	47.62
+	"Maine"	"23"	"Penobscot County, ME"	"23019"	"Metro"	"Metro"	1376	0.04%	28.48	38.54	3350.69	28.53	13.95	47.81
+	"Maine"	"23"	"York County, ME"	"23031"	"Metro"	"Metro"	1865	0.05%	29.47	38.63	3341.72	27.55	13.30	46.80
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"Metro"	"Metro"	308	0.01%	29.62	38.66	3382.31	27.90	12.44	43.46
+	"Maine"	"23"	"Unidentified Counties, ME"	"23999"	"Nonmetro"	"Nonmetro"	3644	0.10%	27.97	38.69	3336.84	28.36	13.08	46.46
+	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"Metro"	"Metro"	6781	0.18%	30.55	38.51	3295.17	26.93	10.57	43.29
+	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"Metro"	"Metro"	9787	0.26%	29.92	38.36	3233.33	27.32	10.93	44.50
+	"Maryland"	"24"	"Carroll County, MD"	"24013"	"Metro"	"Metro"	1776	0.05%	30.19	38.71	3395.24	26.98	10.83	40.33
+	"Maryland"	"24"	"Cecil County, MD"	"24015"	"Metro"	"Metro"	1155	0.03%	28.22	38.35	3293.06	27.86	10.62	54.16
+	"Maryland"	"24"	"Charles County, MD"	"24017"	"Metro"	"Metro"	1863	0.05%	29.47	38.46	3224.94	28.14	10.25	57.59
+	"Maryland"	"24"	"Frederick County, MD"	"24021"	"Metro"	"Metro"	2969	0.08%	30.26	38.50	3322.29	26.61	10.91	40.46
+	"Maryland"	"24"	"Harford County, MD"	"24025"	"Metro"	"Metro"	2638	0.07%	30.15	38.42	3323.43	27.41	11.36	49.28
+	"Maryland"	"24"	"Howard County, MD"	"24027"	"Metro"	"Metro"	3405	0.09%	31.64	38.42	3240.04	25.95	10.55	40.30
+	"Maryland"	"24"	"Montgomery County, MD"	"24031"	"Metro"	"Metro"	12401	0.33%	31.77	38.56	3293.84	25.84	11.23	44.15
+	"Maryland"	"24"	"Prince George's County, MD"	"24033"	"Metro"	"Metro"	12159	0.32%	29.66	38.38	3213.53	27.94	10.19	52.87
+	"Maryland"	"24"	"St. Mary's County, MD"	"24037"	"Metro"	"Metro"	1328	0.04%	29.27	38.65	3343.41	27.49	11.63	51.01
+	"Maryland"	"24"	"Washington County, MD"	"24043"	"Metro"	"Metro"	1686	0.04%	28.24	38.48	3282.91	27.49	11.07	42.61
+	"Maryland"	"24"	"Baltimore city, MD"	"24510"	"Metro"	"Metro"	7681	0.20%	28.47	38.23	3137.87	27.88	10.30	45.86
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"Metro"	"Metro"	3913	0.10%	28.73	38.60	3315.21	27.53	11.24	45.67
+	"Maryland"	"24"	"Unidentified Counties, MD"	"24999"	"Nonmetro"	"Nonmetro"	1538	0.04%	28.09	38.48	3289.01	28.21	12.77	54.13
+	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	"Metro"	"Metro"	1496	0.04%	30.74	38.78	3371.01	26.36	11.16	41.70
+	"Massachusetts"	"25"	"Berkshire County, MA"	"25003"	"Metro"	"Metro"	1002	0.03%	29.46	38.75	3287.72	26.99	11.98	41.51
+	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	"Metro"	"Metro"	5487	0.14%	29.56	38.62	3266.89	27.33	12.43	43.66
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	"Metro"	"Metro"	8377	0.22%	30.39	38.65	3306.77	26.58	11.62	41.02
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	"Metro"	"Metro"	4926	0.13%	28.55	38.57	3281.32	27.89	11.30	49.10
+	"Massachusetts"	"25"	"Hampshire County, MA"	"25015"	"Metro"	"Metro"	948	0.03%	31.45	38.78	3346.87	26.50	12.38	42.96
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	"Metro"	"Metro"	16603	0.44%	32.15	38.69	3302.67	25.38	11.88	36.46
+	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	"Metro"	"Metro"	7033	0.19%	32.39	38.69	3323.12	25.32	12.11	38.73
+	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	"Metro"	"Metro"	5028	0.13%	31.18	38.67	3341.90	26.56	12.33	40.09
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	"Metro"	"Metro"	9072	0.24%	31.15	38.59	3244.73	26.04	11.85	44.15
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"Metro"	"Metro"	8335	0.22%	30.11	38.59	3289.90	27.08	11.56	36.71
+	"Massachusetts"	"25"	"Unidentified Counties, MA"	"25999"	"Nonmetro"	"Nonmetro"	802	0.02%	30.54	39.02	3402.09	26.37	13.41	32.11
+	"Michigan"	"26"	"Allegan County, MI"	"26005"	"Nonmetro"	"Nonmetro"	1416	0.04%	28.46	38.58	3392.26	27.94	12.04	44.25
+	"Michigan"	"26"	"Bay County, MI"	"26017"	"Metro"	"Metro"	947	0.02%	27.83	38.78	3342.42	28.54	13.91	38.06
+	"Michigan"	"26"	"Berrien County, MI"	"26021"	"Metro"	"Metro"	1674	0.04%	28.10	38.63	3291.82	28.37	11.52	48.37
+	"Michigan"	"26"	"Calhoun County, MI"	"26025"	"Metro"	"Metro"	1537	0.04%	27.20	38.69	3292.08	28.11	13.95	53.57
+	"Michigan"	"26"	"Eaton County, MI"	"26045"	"Metro"	"Metro"	1106	0.03%	28.38	38.79	3349.34	28.17	14.55	36.61
+	"Michigan"	"26"	"Genesee County, MI"	"26049"	"Metro"	"Metro"	4558	0.12%	27.60	38.27	3205.51	27.94	11.95	46.70
+	"Michigan"	"26"	"Ingham County, MI"	"26065"	"Metro"	"Metro"	3049	0.08%	28.66	38.52	3262.53	27.69	14.06	38.35
+	"Michigan"	"26"	"Jackson County, MI"	"26075"	"Metro"	"Metro"	1741	0.05%	27.34	38.50	3267.48	28.20	12.11	44.01
+	"Michigan"	"26"	"Kalamazoo County, MI"	"26077"	"Metro"	"Metro"	3074	0.08%	28.68	38.68	3336.49	27.82	15.95	53.82
+	"Michigan"	"26"	"Kent County, MI"	"26081"	"Metro"	"Metro"	8648	0.23%	28.88	38.54	3306.64	27.77	11.67	42.08
+	"Michigan"	"26"	"Livingston County, MI"	"26093"	"Metro"	"Metro"	1704	0.04%	30.34	38.64	3369.81	26.89	14.39	46.87
+	"Michigan"	"26"	"Macomb County, MI"	"26099"	"Metro"	"Metro"	9171	0.24%	29.26	38.40	3256.85	27.55	12.59	44.86
+	"Michigan"	"26"	"Monroe County, MI"	"26115"	"Metro"	"Metro"	1468	0.04%	28.51	38.44	3331.18	28.17	13.01	43.04
+	"Michigan"	"26"	"Muskegon County, MI"	"26121"	"Metro"	"Metro"	2051	0.05%	26.91	38.15	3218.18	28.37	11.03	37.87
+	"Michigan"	"26"	"Oakland County, MI"	"26125"	"Metro"	"Metro"	13182	0.35%	30.57	38.57	3291.98	26.28	13.08	46.14
+	"Michigan"	"26"	"Ottawa County, MI"	"26139"	"Metro"	"Metro"	3138	0.08%	29.15	38.56	3376.78	27.31	11.10	37.60
+	"Michigan"	"26"	"Saginaw County, MI"	"26145"	"Metro"	"Metro"	2182	0.06%	27.41	38.75	3226.90	28.85	11.58	43.95
+	"Michigan"	"26"	"St. Clair County, MI"	"26147"	"Metro"	"Metro"	1543	0.04%	28.00	38.41	3325.95	28.16	11.22	49.49
+	"Michigan"	"26"	"Washtenaw County, MI"	"26161"	"Metro"	"Metro"	3527	0.09%	30.93	38.60	3287.95	26.29	15.39	45.64
+	"Michigan"	"26"	"Wayne County, MI"	"26163"	"Metro"	"Metro"	22910	0.60%	28.23	38.29	3175.08	28.20	11.57	47.24
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"Metro"	"Metro"	5138	0.14%	28.26	38.59	3346.21	27.97	12.96	43.84
+	"Michigan"	"26"	"Unidentified Counties, MI"	"26999"	"Nonmetro"	"Nonmetro"	16268	0.43%	27.69	38.66	3342.71	28.03	11.63	44.75
+	"Minnesota"	"27"	"Anoka County, MN"	"27003"	"Metro"	"Metro"	4241	0.11%	30.08	38.63	3362.99	27.55	11.49	45.25
+	"Minnesota"	"27"	"Dakota County, MN"	"27037"	"Metro"	"Metro"	5140	0.14%	30.60	38.67	3351.95	27.28	12.52	48.65
+	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"Metro"	"Metro"	15845	0.42%	30.91	38.71	3315.62	26.51	12.00	46.12
+	"Minnesota"	"27"	"Olmsted County, MN"	"27109"	"Metro"	"Metro"	2035	0.05%	30.36	38.83	3354.74	26.61	9.47	44.19
+	"Minnesota"	"27"	"Ramsey County, MN"	"27123"	"Metro"	"Metro"	7517	0.20%	29.62	38.65	3281.27	27.13	11.33	47.37
+	"Minnesota"	"27"	"St. Louis County, MN"	"27137"	"Metro"	"Metro"	1813	0.05%	29.09	38.72	3364.07	27.37	11.76	50.01
+	"Minnesota"	"27"	"Scott County, MN"	"27139"	"Metro"	"Metro"	1717	0.05%	30.74	38.63	3364.07	27.07	12.24	44.33
+	"Minnesota"	"27"	"Stearns County, MN"	"27145"	"Metro"	"Metro"	2057	0.05%	29.17	38.61	3371.25	27.36	11.47	48.22
+	"Minnesota"	"27"	"Washington County, MN"	"27163"	"Metro"	"Metro"	2732	0.07%	30.79	38.56	3342.47	27.15	11.76	43.30
+	"Minnesota"	"27"	"Wright County, MN"	"27171"	"Metro"	"Metro"	1767	0.05%	29.86	38.63	3423.11	27.30	11.57	46.42
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"Metro"	"Metro"	8397	0.22%	29.57	38.61	3384.35	27.74	11.46	44.56
+	"Minnesota"	"27"	"Unidentified Counties, MN"	"27999"	"Nonmetro"	"Nonmetro"	14083	0.37%	28.43	38.57	3370.33	28.12	11.32	45.42
+	"Mississippi"	"28"	"DeSoto County, MS"	"28033"	"Metro"	"Metro"	2139	0.06%	28.02	38.31	3245.95	28.09	10.85	37.53
+	"Mississippi"	"28"	"Harrison County, MS"	"28047"	"Metro"	"Metro"	2662	0.07%	27.52	38.13	3184.96	27.42	11.62	42.95
+	"Mississippi"	"28"	"Hinds County, MS"	"28049"	"Metro"	"Metro"	3041	0.08%	27.07	37.74	3031.87	28.86	13.24	40.33
+	"Mississippi"	"28"	"Jackson County, MS"	"28059"	"Metro"	"Metro"	1606	0.04%	27.47	38.10	3192.64	27.73	11.81	37.35
+	"Mississippi"	"28"	"Rankin County, MS"	"28121"	"Metro"	"Metro"	1744	0.05%	28.51	37.88	3226.85	28.44	12.60	44.04
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"Metro"	"Metro"	5841	0.15%	27.17	37.94	3136.78	28.51	12.01	38.94
+	"Mississippi"	"28"	"Unidentified Counties, MS"	"28999"	"Nonmetro"	"Nonmetro"	19967	0.53%	26.43	37.91	3125.51	29.05	11.50	40.75
+	"Missouri"	"29"	"Boone County, MO"	"29019"	"Metro"	"Metro"	2050	0.05%	29.19	38.41	3251.52	26.87	11.25	42.17
+	"Missouri"	"29"	"Clay County, MO"	"29047"	"Metro"	"Metro"	3105	0.08%	29.08	38.46	3311.04	27.17	11.30	47.52
+	"Missouri"	"29"	"Franklin County, MO"	"29071"	"Metro"	"Metro"	1174	0.03%	27.89	38.43	3322.01	27.98	11.79	44.76
+	"Missouri"	"29"	"Greene County, MO"	"29077"	"Metro"	"Metro"	3309	0.09%	27.63	38.49	3329.12	27.16	11.48	43.61
+	"Missouri"	"29"	"Jackson County, MO"	"29095"	"Metro"	"Metro"	9065	0.24%	28.11	38.39	3231.80	27.49	10.53	50.78
+	"Missouri"	"29"	"Jasper County, MO"	"29097"	"Metro"	"Metro"	1570	0.04%	26.73	38.30	3270.21	27.42	10.97	47.54
+	"Missouri"	"29"	"Jefferson County, MO"	"29099"	"Metro"	"Metro"	2545	0.07%	28.36	38.22	3296.25	27.48	11.02	41.35
+	"Missouri"	"29"	"St. Charles County, MO"	"29183"	"Metro"	"Metro"	4306	0.11%	30.18	38.37	3327.59	26.64	11.74	41.39
+	"Missouri"	"29"	"St. Louis County, MO"	"29189"	"Metro"	"Metro"	11368	0.30%	29.63	38.24	3217.56	26.95	11.03	42.14
+	"Missouri"	"29"	"St. Louis city, MO"	"29510"	"Metro"	"Metro"	4127	0.11%	28.67	38.15	3124.88	27.27	9.79	42.18
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"Metro"	"Metro"	12450	0.33%	27.70	38.48	3308.87	27.44	11.23	43.15
+	"Missouri"	"29"	"Unidentified Counties, MO"	"29999"	"Nonmetro"	"Nonmetro"	18200	0.48%	26.80	38.38	3275.60	27.72	10.93	42.97
+	"Montana"	"30"	"Missoula County, MT"	"30063"	"Metro"	"Metro"	1063	0.03%	29.63	38.57	3275.99	25.97	10.98	53.71
+	"Montana"	"30"	"Yellowstone County, MT"	"30111"	"Metro"	"Metro"	1808	0.05%	28.39	38.56	3298.63	27.54	12.14	50.80
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"Metro"	"Metro"	1161	0.03%	27.76	38.51	3269.26	26.75	10.54	54.62
+	"Montana"	"30"	"Unidentified Counties, MT"	"30999"	"Nonmetro"	"Nonmetro"	7481	0.20%	28.49	38.56	3289.09	26.78	10.92	49.94
+	"Nebraska"	"31"	"Douglas County, NE"	"31055"	"Metro"	"Metro"	8342	0.22%	29.26	38.27	3277.48	26.90	12.17	45.39
+	"Nebraska"	"31"	"Lancaster County, NE"	"31109"	"Metro"	"Metro"	3893	0.10%	29.37	38.45	3319.78	26.65	10.42	41.29
+	"Nebraska"	"31"	"Sarpy County, NE"	"31153"	"Metro"	"Metro"	2386	0.06%	29.43	38.30	3344.03	26.98	12.40	42.08
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"Metro"	"Metro"	2602	0.07%	28.46	38.43	3332.69	27.33	10.87	49.27
+	"Nebraska"	"31"	"Unidentified Counties, NE"	"31999"	"Nonmetro"	"Nonmetro"	8265	0.22%	28.07	38.57	3323.45	27.56	11.24	43.72
+	"Nevada"	"32"	"Clark County, NV"	"32003"	"Metro"	"Metro"	26773	0.71%	28.85	38.40	3219.97	26.66	11.89	56.29
+	"Nevada"	"32"	"Washoe County, NV"	"32031"	"Metro"	"Metro"	5399	0.14%	28.84	38.46	3237.18	27.00	9.96	45.46
+	"Nevada"	"32"	"Unidentified Counties, NV"	"32999"	"Metro"	"Metro"	611	0.02%	28.32	38.18	3169.97	27.47	10.14	49.27
+	"Nevada"	"32"	"Unidentified Counties, NV"	"32999"	"Nonmetro"	"Nonmetro"	2899	0.08%	27.43	38.41	3219.73	27.67	10.34	46.96
+	"New Hampshire"	"33"	"Hillsborough County, NH"	"33011"	"Metro"	"Metro"	4144	0.11%	29.85	38.73	3340.67	27.28	12.59	46.35
+	"New Hampshire"	"33"	"Merrimack County, NH"	"33013"	"Nonmetro"	"Nonmetro"	1305	0.03%	29.88	38.84	3349.48	27.49	13.11	38.77
+	"New Hampshire"	"33"	"Rockingham County, NH"	"33015"	"Metro"	"Metro"	2650	0.07%	30.93	38.70	3350.58	26.23	12.68	43.60
+	"New Hampshire"	"33"	"Strafford County, NH"	"33017"	"Metro"	"Metro"	1143	0.03%	29.53	38.75	3350.23	27.39	12.67	49.84
+	"New Hampshire"	"33"	"Unidentified Counties, NH"	"33999"	"Nonmetro"	"Nonmetro"	2753	0.07%	28.99	38.82	3365.34	27.44	12.50	45.95
+	"New Jersey"	"34"	"Atlantic County, NJ"	"34001"	"Metro"	"Metro"	2797	0.07%	28.97	38.56	3268.27	27.25	9.96	57.69
+	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"Metro"	"Metro"	9152	0.24%	32.25	38.47	3244.59	25.39	11.35	51.68
+	"New Jersey"	"34"	"Burlington County, NJ"	"34005"	"Metro"	"Metro"	4365	0.12%	30.53	38.54	3294.48	27.24	10.28	53.03
+	"New Jersey"	"34"	"Camden County, NJ"	"34007"	"Metro"	"Metro"	6157	0.16%	29.59	38.50	3254.00	28.04	10.07	50.39
+	"New Jersey"	"34"	"Cumberland County, NJ"	"34011"	"Metro"	"Metro"	1917	0.05%	27.81	38.35	3203.61	28.70	9.66	45.68
+	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"Metro"	"Metro"	10425	0.27%	30.31	38.37	3206.80	27.06	9.68	52.18
+	"New Jersey"	"34"	"Gloucester County, NJ"	"34015"	"Metro"	"Metro"	2762	0.07%	30.34	38.64	3326.53	27.95	10.53	43.19
+	"New Jersey"	"34"	"Hudson County, NJ"	"34017"	"Metro"	"Metro"	10234	0.27%	31.08	38.45	3206.60	25.47	10.26	48.84
+	"New Jersey"	"34"	"Hunterdon County, NJ"	"34019"	"Metro"	"Metro"	968	0.03%	32.36	38.62	3334.07	25.71	12.15	43.19
+	"New Jersey"	"34"	"Mercer County, NJ"	"34021"	"Metro"	"Metro"	3999	0.11%	30.22	38.49	3239.26	26.91	10.59	45.70
+	"New Jersey"	"34"	"Middlesex County, NJ"	"34023"	"Metro"	"Metro"	8872	0.23%	30.80	38.50	3238.65	26.51	10.69	47.62
+	"New Jersey"	"34"	"Monmouth County, NJ"	"34025"	"Metro"	"Metro"	5888	0.16%	31.58	38.51	3276.40	25.97	11.06	50.58
+	"New Jersey"	"34"	"Morris County, NJ"	"34027"	"Metro"	"Metro"	4487	0.12%	32.39	38.70	3324.28	25.59	11.27	47.93
+	"New Jersey"	"34"	"Ocean County, NJ"	"34029"	"Metro"	"Metro"	9015	0.24%	29.58	38.88	3344.46	25.40	10.96	48.05
+	"New Jersey"	"34"	"Passaic County, NJ"	"34031"	"Metro"	"Metro"	6542	0.17%	29.52	38.33	3219.19	26.67	10.75	58.62
+	"New Jersey"	"34"	"Somerset County, NJ"	"34035"	"Metro"	"Metro"	3210	0.08%	31.77	38.54	3269.56	25.95	11.16	51.62
+	"New Jersey"	"34"	"Sussex County, NJ"	"34037"	"Metro"	"Metro"	1203	0.03%	30.90	38.73	3352.11	27.02	11.18	55.16
+	"New Jersey"	"34"	"Union County, NJ"	"34039"	"Metro"	"Metro"	6777	0.18%	30.84	38.55	3259.09	26.66	10.43	50.06
+	"New Jersey"	"34"	"Warren County, NJ"	"34041"	"Metro"	"Metro"	1020	0.03%	30.30	38.56	3296.84	27.25	12.05	46.58
+	"New Jersey"	"34"	"Unidentified Counties, NJ"	"34999"	"Metro"	"Metro"	1433	0.04%	28.52	38.67	3315.64	27.56	9.91	44.88
+	"New Mexico"	"35"	"Bernalillo County, NM"	"35001"	"Metro"	"Metro"	7078	0.19%	28.67	38.36	3174.73	26.78	9.88	47.79
+	"New Mexico"	"35"	"Dona Ana County, NM"	"35013"	"Metro"	"Metro"	2587	0.07%	27.04	38.45	3232.69	27.53	11.29	51.49
+	"New Mexico"	"35"	"Sandoval County, NM"	"35043"	"Metro"	"Metro"	1390	0.04%	28.62	38.29	3172.09	27.51	9.88	51.05
+	"New Mexico"	"35"	"San Juan County, NM"	"35045"	"Metro"	"Metro"	1444	0.04%	27.50	38.62	3236.43	28.31	9.67	42.67
+	"New Mexico"	"35"	"Santa Fe County, NM"	"35049"	"Metro"	"Metro"	1180	0.03%	28.78	38.45	3117.33	26.22	10.03	55.50
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"Metro"	"Metro"	965	0.03%	27.27	38.32	3159.37	27.67	9.30	46.63
+	"New Mexico"	"35"	"Unidentified Counties, NM"	"35999"	"Nonmetro"	"Nonmetro"	8395	0.22%	26.89	38.44	3179.25	27.72	10.07	49.35
+	"New York"	"36"	"Albany County, NY"	"36001"	"Metro"	"Metro"	2886	0.08%	30.10	38.69	3301.69	27.55	12.13	43.63
+	"New York"	"36"	"Bronx County, NY"	"36005"	"Metro"	"Metro"	20121	0.53%	29.22	38.54	3194.43	27.29	10.16	52.54
+	"New York"	"36"	"Broome County, NY"	"36007"	"Metro"	"Metro"	1877	0.05%	28.53	38.51	3305.40	28.21	11.58	43.69
+	"New York"	"36"	"Chautauqua County, NY"	"36013"	"Nonmetro"	"Nonmetro"	1299	0.03%	27.28	38.47	3263.74	28.05	10.90	41.93
+	"New York"	"36"	"Dutchess County, NY"	"36027"	"Metro"	"Metro"	2549	0.07%	30.54	38.64	3328.57	27.83	12.01	38.18
+	"New York"	"36"	"Erie County, NY"	"36029"	"Metro"	"Metro"	9812	0.26%	29.56	38.46	3262.80	27.76	10.80	37.48
+	"New York"	"36"	"Jefferson County, NY"	"36045"	"Metro"	"Metro"	1864	0.05%	26.74	38.62	3341.79	27.65	11.97	40.61
+	"New York"	"36"	"Kings County, NY"	"36047"	"Metro"	"Metro"	38574	1.02%	30.39	38.68	3236.79	25.04	10.96	46.00
+	"New York"	"36"	"Monroe County, NY"	"36055"	"Metro"	"Metro"	7772	0.20%	29.45	38.57	3285.96	27.56	10.85	41.10
+	"New York"	"36"	"Nassau County, NY"	"36059"	"Metro"	"Metro"	14128	0.37%	31.75	38.58	3261.27	25.99	11.96	48.46
+	"New York"	"36"	"New York County, NY"	"36061"	"Metro"	"Metro"	17020	0.45%	32.55	38.63	3224.47	24.02	11.63	38.06
+	"New York"	"36"	"Niagara County, NY"	"36063"	"Metro"	"Metro"	2100	0.06%	28.89	38.41	3265.76	28.42	10.18	44.76
+	"New York"	"36"	"Oneida County, NY"	"36065"	"Metro"	"Metro"	2500	0.07%	28.51	38.70	3321.31	28.11	12.18	44.89
+	"New York"	"36"	"Onondaga County, NY"	"36067"	"Metro"	"Metro"	5236	0.14%	29.37	38.68	3306.46	27.90	12.72	37.13
+	"New York"	"36"	"Ontario County, NY"	"36069"	"Metro"	"Metro"	966	0.03%	29.62	38.60	3351.26	27.30	10.99	42.72
+	"New York"	"36"	"Orange County, NY"	"36071"	"Metro"	"Metro"	5065	0.13%	29.74	38.83	3305.78	26.85	9.79	52.76
+	"New York"	"36"	"Oswego County, NY"	"36075"	"Metro"	"Metro"	1217	0.03%	28.14	38.81	3399.00	29.51	12.62	47.24
+	"New York"	"36"	"Queens County, NY"	"36081"	"Metro"	"Metro"	28042	0.74%	30.72	38.58	3216.82	25.57	11.15	45.99
+	"New York"	"36"	"Rensselaer County, NY"	"36083"	"Metro"	"Metro"	1591	0.04%	29.56	38.71	3329.82	28.08	12.21	43.70
+	"New York"	"36"	"Richmond County, NY"	"36085"	"Metro"	"Metro"	5186	0.14%	30.78	38.61	3234.07	26.01	12.89	50.08
+	"New York"	"36"	"Rockland County, NY"	"36087"	"Metro"	"Metro"	5719	0.15%	29.94	39.09	3333.35	25.56	11.02	53.43
+	"New York"	"36"	"St. Lawrence County, NY"	"36089"	"Nonmetro"	"Nonmetro"	1080	0.03%	27.85	38.70	3361.77	29.35	10.58	44.62
+	"New York"	"36"	"Saratoga County, NY"	"36091"	"Metro"	"Metro"	2022	0.05%	30.74	38.82	3376.45	27.25	12.02	45.83
+	"New York"	"36"	"Schenectady County, NY"	"36093"	"Metro"	"Metro"	1840	0.05%	29.35	38.57	3267.93	28.38	11.49	40.79
+	"New York"	"36"	"Suffolk County, NY"	"36103"	"Metro"	"Metro"	15278	0.40%	30.85	38.47	3266.46	26.97	10.94	46.58
+	"New York"	"36"	"Tompkins County, NY"	"36109"	"Metro"	"Metro"	735	0.02%	30.49	38.80	3330.20	26.35	11.97	42.19
+	"New York"	"36"	"Ulster County, NY"	"36111"	"Metro"	"Metro"	1546	0.04%	29.83	38.85	3344.49	27.78	10.92	50.72
+	"New York"	"36"	"Westchester County, NY"	"36119"	"Metro"	"Metro"	10091	0.27%	31.86	38.54	3259.86	26.05	11.19	51.14
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"Metro"	"Metro"	6961	0.18%	28.82	38.69	3351.48	28.17	11.72	43.73
+	"New York"	"36"	"Unidentified Counties, NY"	"36999"	"Nonmetro"	"Nonmetro"	11161	0.29%	28.25	38.73	3344.86	28.64	11.36	45.55
+	"North Carolina"	"37"	"Alamance County, NC"	"37001"	"Metro"	"Metro"	1958	0.05%	28.35	38.41	3259.31	28.78	10.92	56.09
+	"North Carolina"	"37"	"Brunswick County, NC"	"37019"	"Metro"	"Metro"	987	0.03%	28.21	38.34	3258.77	27.53	11.18	58.21
+	"North Carolina"	"37"	"Buncombe County, NC"	"37021"	"Metro"	"Metro"	2482	0.07%	29.69	38.50	3264.10	25.97	14.01	63.65
+	"North Carolina"	"37"	"Cabarrus County, NC"	"37025"	"Metro"	"Metro"	2509	0.07%	29.44	38.39	3243.32	27.72	11.83	47.81
+	"North Carolina"	"37"	"Catawba County, NC"	"37035"	"Metro"	"Metro"	1693	0.04%	27.68	38.55	3293.78	27.52	13.68	49.00
+	"North Carolina"	"37"	"Craven County, NC"	"37049"	"Metro"	"Metro"	1337	0.04%	26.94	38.50	3257.81	27.84	12.56	38.86
+	"North Carolina"	"37"	"Cumberland County, NC"	"37051"	"Metro"	"Metro"	5401	0.14%	27.22	38.32	3217.31	27.46	11.45	46.29
+	"North Carolina"	"37"	"Davidson County, NC"	"37057"	"Metro"	"Metro"	1751	0.05%	27.41	38.21	3227.17	28.02	13.24	55.19
+	"North Carolina"	"37"	"Durham County, NC"	"37063"	"Metro"	"Metro"	4152	0.11%	29.91	38.52	3252.58	26.94	13.53	48.90
+	"North Carolina"	"37"	"Forsyth County, NC"	"37067"	"Metro"	"Metro"	4330	0.11%	28.67	38.27	3211.02	27.62	13.61	44.35
+	"North Carolina"	"37"	"Gaston County, NC"	"37071"	"Metro"	"Metro"	2525	0.07%	27.85	38.60	3249.57	27.72	11.63	51.28
+	"North Carolina"	"37"	"Guilford County, NC"	"37081"	"Metro"	"Metro"	6115	0.16%	28.82	38.37	3223.01	27.99	11.69	47.15
+	"North Carolina"	"37"	"Harnett County, NC"	"37085"	"Nonmetro"	"Nonmetro"	1845	0.05%	28.40	38.36	3274.44	27.36	10.83	50.89
+	"North Carolina"	"37"	"Henderson County, NC"	"37089"	"Metro"	"Metro"	1093	0.03%	28.24	38.52	3294.30	27.05	13.42	49.93
+	"North Carolina"	"37"	"Iredell County, NC"	"37097"	"Metro"	"Metro"	1891	0.05%	28.62	38.42	3266.94	27.29	11.58	50.39
+	"North Carolina"	"37"	"Johnston County, NC"	"37101"	"Metro"	"Metro"	2299	0.06%	28.84	38.45	3294.02	28.11	12.31	48.94
+	"North Carolina"	"37"	"Mecklenburg County, NC"	"37119"	"Metro"	"Metro"	14650	0.39%	29.70	38.52	3220.41	26.32	12.06	49.16
+	"North Carolina"	"37"	"New Hanover County, NC"	"37129"	"Metro"	"Metro"	2145	0.06%	29.64	38.34	3261.81	25.96	12.22	45.01
+	"North Carolina"	"37"	"Onslow County, NC"	"37133"	"Metro"	"Metro"	3923	0.10%	26.26	38.61	3331.49	26.39	12.30	41.47
+	"North Carolina"	"37"	"Orange County, NC"	"37135"	"Metro"	"Metro"	1134	0.03%	31.20	38.68	3286.37	25.46	11.69	37.40
+	"North Carolina"	"37"	"Pitt County, NC"	"37147"	"Metro"	"Metro"	2085	0.05%	28.41	38.09	3184.18	28.72	11.76	45.57
+	"North Carolina"	"37"	"Randolph County, NC"	"37151"	"Metro"	"Metro"	1520	0.04%	27.65	38.42	3286.17	28.12	11.21	44.79
+	"North Carolina"	"37"	"Robeson County, NC"	"37155"	"Nonmetro"	"Nonmetro"	1699	0.04%	26.36	38.35	3161.59	28.57	9.70	53.92
+	"North Carolina"	"37"	"Rowan County, NC"	"37159"	"Metro"	"Metro"	1593	0.04%	27.61	38.24	3213.00	28.61	11.08	47.68
+	"North Carolina"	"37"	"Union County, NC"	"37179"	"Metro"	"Metro"	2456	0.06%	29.74	38.53	3321.01	27.10	12.38	54.98
+	"North Carolina"	"37"	"Wake County, NC"	"37183"	"Metro"	"Metro"	12578	0.33%	30.60	38.62	3293.31	26.25	12.68	47.48
+	"North Carolina"	"37"	"Wayne County, NC"	"37191"	"Metro"	"Metro"	1639	0.04%	27.29	38.53	3284.48	28.14	10.65	44.53
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"Metro"	"Metro"	11062	0.29%	27.82	38.40	3254.64	28.15	12.33	49.83
+	"North Carolina"	"37"	"Unidentified Counties, NC"	"37999"	"Nonmetro"	"Nonmetro"	20102	0.53%	27.35	38.32	3223.26	28.34	11.72	49.59
+	"North Dakota"	"38"	"Cass County, ND"	"38017"	"Metro"	"Metro"	2453	0.06%	29.49	38.61	3337.67	27.40	11.03	37.74
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"Metro"	"Metro"	2735	0.07%	28.67	38.37	3319.41	28.03	11.28	42.42
+	"North Dakota"	"38"	"Unidentified Counties, ND"	"38999"	"Nonmetro"	"Nonmetro"	5448	0.14%	28.06	38.46	3365.23	28.30	10.19	41.77
+	"Ohio"	"39"	"Allen County, OH"	"39003"	"Metro"	"Metro"	1248	0.03%	27.23	38.12	3234.87	28.01	11.88	42.73
+	"Ohio"	"39"	"Ashtabula County, OH"	"39007"	"Nonmetro"	"Nonmetro"	1108	0.03%	27.11	38.39	3279.16	27.81	10.02	45.21
+	"Ohio"	"39"	"Butler County, OH"	"39017"	"Metro"	"Metro"	4472	0.12%	28.60	38.35	3276.42	27.54	11.80	40.79
+	"Ohio"	"39"	"Clark County, OH"	"39023"	"Metro"	"Metro"	1552	0.04%	26.53	38.28	3264.25	28.58	10.24	41.23
+	"Ohio"	"39"	"Clermont County, OH"	"39025"	"Metro"	"Metro"	2310	0.06%	28.51	38.47	3315.47	27.52	12.21	42.87
+	"Ohio"	"39"	"Columbiana County, OH"	"39029"	"Nonmetro"	"Nonmetro"	982	0.03%	27.03	38.34	3266.69	28.10	12.74	38.68
+	"Ohio"	"39"	"Cuyahoga County, OH"	"39035"	"Metro"	"Metro"	13870	0.37%	28.86	38.26	3182.93	27.50	11.74	47.00
+	"Ohio"	"39"	"Delaware County, OH"	"39041"	"Metro"	"Metro"	2106	0.06%	31.54	38.54	3343.93	25.81	11.93	45.95
+	"Ohio"	"39"	"Fairfield County, OH"	"39045"	"Metro"	"Metro"	1669	0.04%	28.73	38.41	3282.31	27.00	11.48	48.08
+	"Ohio"	"39"	"Franklin County, OH"	"39049"	"Metro"	"Metro"	18338	0.48%	29.25	38.42	3235.98	26.76	10.91	48.54
+	"Ohio"	"39"	"Greene County, OH"	"39057"	"Metro"	"Metro"	1720	0.05%	28.81	38.46	3325.44	27.44	11.99	42.41
+	"Ohio"	"39"	"Hamilton County, OH"	"39061"	"Metro"	"Metro"	10835	0.29%	28.80	38.36	3229.20	27.00	11.43	43.10
+	"Ohio"	"39"	"Lake County, OH"	"39085"	"Metro"	"Metro"	2212	0.06%	29.41	38.53	3289.25	26.93	12.07	41.21
+	"Ohio"	"39"	"Licking County, OH"	"39089"	"Metro"	"Metro"	1991	0.05%	28.35	38.39	3274.49	27.53	10.75	49.58
+	"Ohio"	"39"	"Lorain County, OH"	"39093"	"Metro"	"Metro"	3199	0.08%	28.35	38.38	3261.47	27.42	11.72	39.66
+	"Ohio"	"39"	"Lucas County, OH"	"39095"	"Metro"	"Metro"	5418	0.14%	27.71	38.28	3209.38	27.80	12.54	45.00
+	"Ohio"	"39"	"Mahoning County, OH"	"39099"	"Metro"	"Metro"	2344	0.06%	27.90	38.09	3158.59	27.56	12.94	37.77
+	"Ohio"	"39"	"Medina County, OH"	"39103"	"Metro"	"Metro"	1675	0.04%	30.06	38.77	3382.42	26.64	12.14	42.15
+	"Ohio"	"39"	"Miami County, OH"	"39109"	"Metro"	"Metro"	1180	0.03%	28.09	38.60	3365.25	27.98	11.31	38.25
+	"Ohio"	"39"	"Montgomery County, OH"	"39113"	"Metro"	"Metro"	6480	0.17%	27.96	38.33	3260.13	28.32	11.33	43.05
+	"Ohio"	"39"	"Portage County, OH"	"39133"	"Metro"	"Metro"	1392	0.04%	28.97	38.55	3314.97	27.25	12.28	42.49
+	"Ohio"	"39"	"Richland County, OH"	"39139"	"Metro"	"Metro"	1353	0.04%	26.86	38.46	3276.86	27.55	11.40	44.01
+	"Ohio"	"39"	"Stark County, OH"	"39151"	"Metro"	"Metro"	4075	0.11%	27.87	38.48	3269.12	27.87	10.94	40.93
+	"Ohio"	"39"	"Summit County, OH"	"39153"	"Metro"	"Metro"	5934	0.16%	28.62	38.48	3256.73	27.23	11.72	41.69
+	"Ohio"	"39"	"Trumbull County, OH"	"39155"	"Metro"	"Metro"	2069	0.05%	27.29	38.40	3265.53	27.79	12.05	45.03
+	"Ohio"	"39"	"Warren County, OH"	"39165"	"Metro"	"Metro"	2306	0.06%	29.88	38.46	3328.96	26.51	11.98	37.33
+	"Ohio"	"39"	"Wayne County, OH"	"39169"	"Nonmetro"	"Nonmetro"	1447	0.04%	28.33	38.72	3366.91	27.37	10.31	45.48
+	"Ohio"	"39"	"Wood County, OH"	"39173"	"Metro"	"Metro"	1267	0.03%	28.83	38.40	3316.79	27.36	12.75	41.40
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"Metro"	"Metro"	7036	0.19%	27.92	38.42	3295.42	27.58	11.50	43.56
+	"Ohio"	"39"	"Unidentified Counties, OH"	"39999"	"Nonmetro"	"Nonmetro"	23546	0.62%	27.15	38.42	3305.73	27.91	11.56	41.42
+	"Oklahoma"	"40"	"Canadian County, OK"	"40017"	"Metro"	"Metro"	1864	0.05%	28.34	38.27	3302.66	27.54	10.80	44.55
+	"Oklahoma"	"40"	"Cleveland County, OK"	"40027"	"Metro"	"Metro"	2833	0.07%	28.40	38.18	3279.99	27.52	10.96	39.39
+	"Oklahoma"	"40"	"Comanche County, OK"	"40031"	"Metro"	"Metro"	1681	0.04%	26.46	38.36	3258.82	27.63	10.57	44.21
+	"Oklahoma"	"40"	"Oklahoma County, OK"	"40109"	"Metro"	"Metro"	11255	0.30%	28.07	38.21	3226.00	27.53	10.60	45.05
+	"Oklahoma"	"40"	"Tulsa County, OK"	"40143"	"Metro"	"Metro"	8933	0.24%	28.13	38.18	3243.39	27.58	11.04	49.52
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"Metro"	"Metro"	6849	0.18%	27.07	38.18	3276.26	27.93	10.76	44.70
+	"Oklahoma"	"40"	"Unidentified Counties, OK"	"40999"	"Nonmetro"	"Nonmetro"	16385	0.43%	26.51	38.24	3271.81	28.11	10.84	43.17
+	"Oregon"	"41"	"Clackamas County, OR"	"41005"	"Metro"	"Metro"	3886	0.10%	30.22	38.82	3393.70	26.84	11.74	47.80
+	"Oregon"	"41"	"Deschutes County, OR"	"41017"	"Metro"	"Metro"	1827	0.05%	30.01	39.03	3306.90	25.95	10.62	53.12
+	"Oregon"	"41"	"Douglas County, OR"	"41019"	"Nonmetro"	"Nonmetro"	1054	0.03%	27.61	38.70	3323.12	27.79	13.42	47.82
+	"Oregon"	"41"	"Jackson County, OR"	"41029"	"Metro"	"Metro"	2199	0.06%	28.72	38.67	3335.41	26.84	11.64	48.74
+	"Oregon"	"41"	"Lane County, OR"	"41039"	"Metro"	"Metro"	3327	0.09%	29.10	38.71	3347.40	27.11	11.92	49.06
+	"Oregon"	"41"	"Linn County, OR"	"41043"	"Metro"	"Metro"	1518	0.04%	28.03	38.77	3390.79	28.03	11.66	48.75
+	"Oregon"	"41"	"Marion County, OR"	"41047"	"Metro"	"Metro"	4183	0.11%	28.32	38.64	3348.20	28.09	12.10	53.21
+	"Oregon"	"41"	"Multnomah County, OR"	"41051"	"Metro"	"Metro"	8211	0.22%	30.86	38.77	3334.10	26.27	11.46	49.65
+	"Oregon"	"41"	"Washington County, OR"	"41067"	"Metro"	"Metro"	6425	0.17%	30.49	38.81	3319.43	26.61	11.29	47.75
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"Metro"	"Metro"	3865	0.10%	29.03	38.69	3363.15	27.33	12.54	47.91
+	"Oregon"	"41"	"Unidentified Counties, OR"	"41999"	"Nonmetro"	"Nonmetro"	5693	0.15%	27.87	38.72	3318.75	27.85	11.42	48.67
+	"Pennsylvania"	"42"	"Adams County, PA"	"42001"	"Metro"	"Metro"	916	0.02%	28.48	38.73	3372.70	27.55	12.23	39.04
+	"Pennsylvania"	"42"	"Allegheny County, PA"	"42003"	"Metro"	"Metro"	12822	0.34%	30.12	38.54	3257.64	26.39	12.97	38.14
+	"Pennsylvania"	"42"	"Beaver County, PA"	"42007"	"Metro"	"Metro"	1575	0.04%	28.86	38.61	3293.48	27.22	11.44	34.28
+	"Pennsylvania"	"42"	"Berks County, PA"	"42011"	"Metro"	"Metro"	4602	0.12%	28.25	38.45	3278.70	27.46	14.78	39.98
+	"Pennsylvania"	"42"	"Blair County, PA"	"42013"	"Metro"	"Metro"	1206	0.03%	27.90	38.65	3304.40	26.86	11.19	39.65
+	"Pennsylvania"	"42"	"Bucks County, PA"	"42017"	"Metro"	"Metro"	5714	0.15%	31.02	38.62	3325.60	26.08	11.11	44.28
+	"Pennsylvania"	"42"	"Butler County, PA"	"42019"	"Metro"	"Metro"	1809	0.05%	29.93	38.64	3336.00	26.53	12.59	41.68
+	"Pennsylvania"	"42"	"Cambria County, PA"	"42021"	"Metro"	"Metro"	1219	0.03%	28.08	38.39	3253.18	27.53	11.05	35.78
+	"Pennsylvania"	"42"	"Centre County, PA"	"42027"	"Metro"	"Metro"	1171	0.03%	30.06	38.97	3368.83	26.07	12.88	47.91
+	"Pennsylvania"	"42"	"Chester County, PA"	"42029"	"Metro"	"Metro"	5370	0.14%	31.29	38.77	3361.66	25.50	9.90	42.28
+	"Pennsylvania"	"42"	"Cumberland County, PA"	"42041"	"Metro"	"Metro"	2597	0.07%	29.40	38.74	3342.85	26.85	10.69	37.93
+	"Pennsylvania"	"42"	"Dauphin County, PA"	"42043"	"Metro"	"Metro"	3397	0.09%	28.70	38.50	3249.03	27.65	10.53	37.25
+	"Pennsylvania"	"42"	"Delaware County, PA"	"42045"	"Metro"	"Metro"	6453	0.17%	30.41	38.59	3279.35	26.68	10.56	43.08
+	"Pennsylvania"	"42"	"Erie County, PA"	"42049"	"Metro"	"Metro"	2788	0.07%	27.96	38.28	3241.33	27.24	10.78	50.40
+	"Pennsylvania"	"42"	"Fayette County, PA"	"42051"	"Metro"	"Metro"	1326	0.03%	27.28	38.44	3256.16	27.97	12.37	34.80
+	"Pennsylvania"	"42"	"Franklin County, PA"	"42055"	"Metro"	"Metro"	1745	0.05%	28.21	38.52	3316.95	27.32	11.07	39.73
+	"Pennsylvania"	"42"	"Lackawanna County, PA"	"42069"	"Metro"	"Metro"	2033	0.05%	28.94	38.48	3275.38	27.00	11.32	35.78
+	"Pennsylvania"	"42"	"Lancaster County, PA"	"42071"	"Metro"	"Metro"	6975	0.18%	28.83	38.70	3364.83	26.38	10.77	47.00
+	"Pennsylvania"	"42"	"Lebanon County, PA"	"42075"	"Metro"	"Metro"	1562	0.04%	27.94	38.55	3292.37	27.22	11.61	37.74
+	"Pennsylvania"	"42"	"Lehigh County, PA"	"42077"	"Metro"	"Metro"	4352	0.11%	28.76	38.63	3275.38	27.26	12.51	36.61
+	"Pennsylvania"	"42"	"Luzerne County, PA"	"42079"	"Metro"	"Metro"	3310	0.09%	28.20	38.48	3250.38	27.41	11.87	41.66
+	"Pennsylvania"	"42"	"Lycoming County, PA"	"42081"	"Metro"	"Metro"	1202	0.03%	27.79	38.34	3283.35	27.55	11.55	40.02
+	"Pennsylvania"	"42"	"Mercer County, PA"	"42085"	"Metro"	"Metro"	1078	0.03%	27.85	38.44	3254.28	27.28	10.85	43.02
+	"Pennsylvania"	"42"	"Monroe County, PA"	"42089"	"Metro"	"Metro"	1518	0.04%	29.09	38.58	3260.31	27.68	12.44	41.37
+	"Pennsylvania"	"42"	"Montgomery County, PA"	"42091"	"Metro"	"Metro"	8515	0.22%	31.35	38.70	3319.72	26.04	11.28	37.33
+	"Pennsylvania"	"42"	"Northampton County, PA"	"42095"	"Metro"	"Metro"	2909	0.08%	29.59	38.72	3289.97	27.24	13.91	42.46
+	"Pennsylvania"	"42"	"Philadelphia County, PA"	"42101"	"Metro"	"Metro"	20691	0.55%	28.82	38.35	3178.56	27.21	10.26	38.64
+	"Pennsylvania"	"42"	"Schuylkill County, PA"	"42107"	"Nonmetro"	"Nonmetro"	1272	0.03%	27.87	38.50	3292.76	27.70	11.58	41.75
+	"Pennsylvania"	"42"	"Washington County, PA"	"42125"	"Metro"	"Metro"	2063	0.05%	29.33	38.56	3292.87	27.00	11.60	45.62
+	"Pennsylvania"	"42"	"Westmoreland County, PA"	"42129"	"Metro"	"Metro"	2849	0.08%	29.20	38.56	3298.60	27.11	13.49	38.08
+	"Pennsylvania"	"42"	"York County, PA"	"42133"	"Metro"	"Metro"	4707	0.12%	28.48	38.49	3296.10	27.61	11.72	40.78
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"Metro"	"Metro"	3013	0.08%	28.33	38.54	3310.96	27.74	11.75	42.52
+	"Pennsylvania"	"42"	"Unidentified Counties, PA"	"42999"	"Nonmetro"	"Nonmetro"	12914	0.34%	27.71	38.63	3310.39	27.75	10.97	42.89
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"Metro"	"Metro"	1502	0.04%	30.25	38.64	3346.98	27.07	12.11	45.73
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"Metro"	"Metro"	7119	0.19%	29.27	38.52	3270.49	27.11	11.33	46.57
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"Metro"	"Metro"	870	0.02%	31.09	38.75	3366.33	25.98	12.78	46.21
+	"Rhode Island"	"44"	"Unidentified Counties, RI"	"44999"	"Metro"	"Metro"	1015	0.03%	30.95	38.79	3348.45	26.09	12.49	37.81
+	"South Carolina"	"45"	"Aiken County, SC"	"45003"	"Metro"	"Metro"	1897	0.05%	27.81	38.24	3213.45	28.03	10.85	43.84
+	"South Carolina"	"45"	"Anderson County, SC"	"45007"	"Metro"	"Metro"	2256	0.06%	27.42	38.21	3230.55	28.09	13.51	36.90
+	"South Carolina"	"45"	"Beaufort County, SC"	"45013"	"Metro"	"Metro"	1912	0.05%	28.42	38.44	3257.45	26.93	11.71	54.21
+	"South Carolina"	"45"	"Berkeley County, SC"	"45015"	"Metro"	"Metro"	2801	0.07%	28.43	38.29	3256.49	28.20	10.86	44.72
+	"South Carolina"	"45"	"Charleston County, SC"	"45019"	"Metro"	"Metro"	4861	0.13%	30.02	38.30	3228.74	26.50	10.69	47.55
+	"South Carolina"	"45"	"Dorchester County, SC"	"45035"	"Metro"	"Metro"	1843	0.05%	28.55	38.39	3271.10	28.41	11.04	45.67
+	"South Carolina"	"45"	"Florence County, SC"	"45041"	"Metro"	"Metro"	1616	0.04%	27.62	38.07	3124.04	29.29	12.65	44.17
+	"South Carolina"	"45"	"Greenville County, SC"	"45045"	"Metro"	"Metro"	6225	0.16%	28.92	38.37	3269.86	27.26	12.52	37.58
+	"South Carolina"	"45"	"Horry County, SC"	"45051"	"Metro"	"Metro"	3153	0.08%	28.08	38.24	3264.39	27.77	12.62	44.55
+	"South Carolina"	"45"	"Lexington County, SC"	"45063"	"Metro"	"Metro"	3224	0.09%	28.41	38.29	3263.56	28.38	11.41	47.65
+	"South Carolina"	"45"	"Pickens County, SC"	"45077"	"Metro"	"Metro"	1145	0.03%	27.11	38.50	3318.96	27.91	12.87	43.58
+	"South Carolina"	"45"	"Richland County, SC"	"45079"	"Metro"	"Metro"	4693	0.12%	28.81	38.12	3173.16	28.78	11.68	47.00
+	"South Carolina"	"45"	"Spartanburg County, SC"	"45083"	"Metro"	"Metro"	3855	0.10%	27.69	38.25	3245.29	27.86	13.29	43.52
+	"South Carolina"	"45"	"Sumter County, SC"	"45085"	"Metro"	"Metro"	1346	0.04%	27.27	38.20	3212.61	29.34	11.77	48.49
+	"South Carolina"	"45"	"York County, SC"	"45091"	"Metro"	"Metro"	2921	0.08%	29.02	38.53	3267.49	27.31	12.27	52.92
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"Metro"	"Metro"	5142	0.14%	27.05	38.17	3184.43	28.97	11.95	46.03
+	"South Carolina"	"45"	"Unidentified Counties, SC"	"45999"	"Nonmetro"	"Nonmetro"	7779	0.21%	26.73	38.10	3145.27	29.32	12.04	46.51
+	"South Dakota"	"46"	"Minnehaha County, SD"	"46099"	"Metro"	"Metro"	2891	0.08%	28.93	38.64	3314.61	26.76	11.36	45.57
+	"South Dakota"	"46"	"Pennington County, SD"	"46103"	"Metro"	"Metro"	1542	0.04%	27.95	38.39	3298.78	26.56	10.39	46.67
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"Metro"	"Metro"	1506	0.04%	29.42	38.61	3328.32	26.47	11.62	41.28
+	"South Dakota"	"46"	"Unidentified Counties, SD"	"46999"	"Nonmetro"	"Nonmetro"	5954	0.16%	27.97	38.53	3351.62	27.28	10.00	42.35
+	"Tennessee"	"47"	"Blount County, TN"	"47009"	"Metro"	"Metro"	1306	0.03%	27.63	38.26	3282.33	27.01	12.79	44.41
+	"Tennessee"	"47"	"Davidson County, TN"	"47037"	"Metro"	"Metro"	9984	0.26%	29.23	38.45	3244.13	26.31	10.19	47.00
+	"Tennessee"	"47"	"Hamilton County, TN"	"47065"	"Metro"	"Metro"	4249	0.11%	28.47	38.39	3233.99	26.69	11.33	38.87
+	"Tennessee"	"47"	"Knox County, TN"	"47093"	"Metro"	"Metro"	5156	0.14%	28.73	38.38	3272.29	26.71	12.86	41.15
+	"Tennessee"	"47"	"Montgomery County, TN"	"47125"	"Metro"	"Metro"	3513	0.09%	27.10	38.32	3274.52	26.71	11.89	51.49
+	"Tennessee"	"47"	"Rutherford County, TN"	"47149"	"Metro"	"Metro"	4148	0.11%	28.61	38.07	3233.74	27.44	10.91	52.63
+	"Tennessee"	"47"	"Shelby County, TN"	"47157"	"Metro"	"Metro"	13124	0.35%	27.70	38.17	3131.92	27.59	9.91	45.88
+	"Tennessee"	"47"	"Sullivan County, TN"	"47163"	"Metro"	"Metro"	1506	0.04%	27.36	38.46	3283.37	27.58	10.66	37.86
+	"Tennessee"	"47"	"Sumner County, TN"	"47165"	"Metro"	"Metro"	2150	0.06%	28.53	38.38	3315.76	27.01	10.39	39.29
+	"Tennessee"	"47"	"Washington County, TN"	"47179"	"Metro"	"Metro"	1247	0.03%	28.00	38.33	3280.67	26.96	11.54	40.72
+	"Tennessee"	"47"	"Williamson County, TN"	"47187"	"Metro"	"Metro"	2322	0.06%	31.54	38.49	3344.05	24.68	11.21	43.56
+	"Tennessee"	"47"	"Wilson County, TN"	"47189"	"Metro"	"Metro"	1651	0.04%	28.94	38.34	3287.09	26.71	11.79	55.74
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"Metro"	"Metro"	14063	0.37%	26.99	38.28	3252.99	27.71	11.66	45.75
+	"Tennessee"	"47"	"Unidentified Counties, TN"	"47999"	"Nonmetro"	"Nonmetro"	16332	0.43%	26.60	38.24	3253.83	27.89	11.27	46.41
+	"Texas"	"48"	"Bell County, TX"	"48027"	"Metro"	"Metro"	5889	0.16%	27.13	38.35	3229.86	27.31	11.49	46.83
+	"Texas"	"48"	"Bexar County, TX"	"48029"	"Metro"	"Metro"	26562	0.70%	28.25	38.18	3226.31	27.75	10.75	49.75
+	"Texas"	"48"	"Brazoria County, TX"	"48039"	"Metro"	"Metro"	4734	0.12%	28.98	38.19	3252.07	27.64	10.81	49.25
+	"Texas"	"48"	"Brazos County, TX"	"48041"	"Metro"	"Metro"	2584	0.07%	28.32	38.33	3263.53	27.13	9.89	52.69
+	"Texas"	"48"	"Cameron County, TX"	"48061"	"Metro"	"Metro"	6306	0.17%	26.83	38.03	3192.97	28.50	11.11	49.93
+	"Texas"	"48"	"Collin County, TX"	"48085"	"Metro"	"Metro"	11147	0.29%	30.65	38.38	3267.70	25.83	11.10	45.99
+	"Texas"	"48"	"Comal County, TX"	"48091"	"Metro"	"Metro"	1526	0.04%	28.89	38.26	3258.32	26.51	10.26	49.47
+	"Texas"	"48"	"Dallas County, TX"	"48113"	"Metro"	"Metro"	38182	1.01%	28.48	38.40	3235.31	25.92	9.77	53.34
+	"Texas"	"48"	"Denton County, TX"	"48121"	"Metro"	"Metro"	9857	0.26%	30.03	38.44	3291.52	26.38	10.85	46.53
+	"Texas"	"48"	"Ector County, TX"	"48135"	"Metro"	"Metro"	3000	0.08%	26.45	37.93	3151.47	27.35	9.26	52.15
+	"Texas"	"48"	"Ellis County, TX"	"48139"	"Metro"	"Metro"	2214	0.06%	28.08	38.35	3293.55	27.89	10.17	51.22
+	"Texas"	"48"	"El Paso County, TX"	"48141"	"Metro"	"Metro"	11721	0.31%	27.09	38.32	3194.88	27.04	9.84	51.84
+	"Texas"	"48"	"Fort Bend County, TX"	"48157"	"Metro"	"Metro"	9375	0.25%	30.91	38.24	3227.68	26.37	9.84	52.48
+	"Texas"	"48"	"Galveston County, TX"	"48167"	"Metro"	"Metro"	3957	0.10%	28.54	38.15	3231.83	27.50	11.00	54.32
+	"Texas"	"48"	"Grayson County, TX"	"48181"	"Metro"	"Metro"	1662	0.04%	26.72	38.27	3239.68	27.59	11.48	52.88
+	"Texas"	"48"	"Gregg County, TX"	"48183"	"Metro"	"Metro"	1644	0.04%	26.73	38.07	3213.49	27.94	11.26	49.65
+	"Texas"	"48"	"Guadalupe County, TX"	"48187"	"Metro"	"Metro"	1848	0.05%	28.66	38.19	3269.54	27.74	10.51	53.75
+	"Texas"	"48"	"Harris County, TX"	"48201"	"Metro"	"Metro"	67095	1.77%	28.82	38.19	3203.57	27.27	9.86	50.67
+	"Texas"	"48"	"Hays County, TX"	"48209"	"Metro"	"Metro"	2572	0.07%	29.41	38.35	3307.68	27.08	10.98	57.01
+	"Texas"	"48"	"Hidalgo County, TX"	"48215"	"Metro"	"Metro"	14185	0.37%	26.99	37.90	3167.70	28.38	10.94	49.61
+	"Texas"	"48"	"Jefferson County, TX"	"48245"	"Metro"	"Metro"	3468	0.09%	27.02	38.19	3186.60	27.73	10.37	48.15
+	"Texas"	"48"	"Johnson County, TX"	"48251"	"Metro"	"Metro"	2110	0.06%	27.36	38.43	3313.48	27.78	9.35	57.35
+	"Texas"	"48"	"Kaufman County, TX"	"48257"	"Metro"	"Metro"	1786	0.05%	28.40	38.25	3261.59	27.42	10.41	50.03
+	"Texas"	"48"	"Lubbock County, TX"	"48303"	"Metro"	"Metro"	3896	0.10%	27.34	38.33	3220.78	27.81	10.60	48.81
+	"Texas"	"48"	"McLennan County, TX"	"48309"	"Metro"	"Metro"	3460	0.09%	27.49	38.39	3286.53	27.86	11.01	57.01
+	"Texas"	"48"	"Midland County, TX"	"48329"	"Metro"	"Metro"	3011	0.08%	27.56	38.17	3204.86	27.11	11.00	48.80
+	"Texas"	"48"	"Montgomery County, TX"	"48339"	"Metro"	"Metro"	7355	0.19%	28.95	38.43	3289.31	26.92	10.05	49.58
+	"Texas"	"48"	"Nueces County, TX"	"48355"	"Metro"	"Metro"	4569	0.12%	27.57	38.15	3212.21	28.37	8.92	58.22
+	"Texas"	"48"	"Parker County, TX"	"48367"	"Metro"	"Metro"	1537	0.04%	28.62	38.42	3316.58	26.80	10.77	56.45
+	"Texas"	"48"	"Potter County, TX"	"48375"	"Metro"	"Metro"	1638	0.04%	26.66	38.33	3170.00	27.74	10.34	50.68
+	"Texas"	"48"	"Randall County, TX"	"48381"	"Metro"	"Metro"	1645	0.04%	28.16	38.48	3237.86	27.14	11.21	49.20
+	"Texas"	"48"	"Smith County, TX"	"48423"	"Metro"	"Metro"	2922	0.08%	27.72	38.43	3292.30	27.82	10.79	50.86
+	"Texas"	"48"	"Tarrant County, TX"	"48439"	"Metro"	"Metro"	27280	0.72%	28.67	38.30	3240.75	27.36	9.35	53.71
+	"Texas"	"48"	"Taylor County, TX"	"48441"	"Metro"	"Metro"	2044	0.05%	26.95	38.15	3226.55	27.49	9.72	46.06
+	"Texas"	"48"	"Tom Green County, TX"	"48451"	"Metro"	"Metro"	1473	0.04%	27.03	38.12	3210.23	28.24	11.58	48.83
+	"Texas"	"48"	"Travis County, TX"	"48453"	"Metro"	"Metro"	15125	0.40%	30.06	38.46	3274.50	25.96	12.26	53.72
+	"Texas"	"48"	"Webb County, TX"	"48479"	"Metro"	"Metro"	4693	0.12%	26.67	38.11	3218.08	27.77	8.94	56.39
+	"Texas"	"48"	"Wichita County, TX"	"48485"	"Metro"	"Metro"	1607	0.04%	26.77	38.35	3286.32	27.52	11.65	53.58
+	"Texas"	"48"	"Williamson County, TX"	"48491"	"Metro"	"Metro"	6650	0.18%	30.19	38.46	3310.30	26.51	12.66	51.29
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"Metro"	"Metro"	19357	0.51%	27.37	38.25	3263.34	27.84	10.59	50.71
+	"Texas"	"48"	"Unidentified Counties, TX"	"48999"	"Nonmetro"	"Nonmetro"	36938	0.97%	26.64	38.27	3239.83	28.02	10.49	49.84
+	"Utah"	"49"	"Cache County, UT"	"49005"	"Metro"	"Metro"	2114	0.06%	28.15	38.34	3305.43	26.42	11.53	46.53
+	"Utah"	"49"	"Davis County, UT"	"49011"	"Metro"	"Metro"	5302	0.14%	29.18	38.34	3277.75	26.28	11.40	44.04
+	"Utah"	"49"	"Salt Lake County, UT"	"49035"	"Metro"	"Metro"	15998	0.42%	29.02	38.41	3242.21	26.34	11.01	46.74
+	"Utah"	"49"	"Utah County, UT"	"49049"	"Metro"	"Metro"	11514	0.30%	28.43	38.45	3306.59	25.60	11.25	45.09
+	"Utah"	"49"	"Washington County, UT"	"49053"	"Metro"	"Metro"	2184	0.06%	28.32	38.48	3302.56	25.79	11.35	46.16
+	"Utah"	"49"	"Weber County, UT"	"49057"	"Metro"	"Metro"	3637	0.10%	27.78	38.39	3244.37	27.05	10.93	43.91
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"Metro"	"Metro"	2066	0.05%	28.07	38.32	3241.86	27.06	10.92	47.98
+	"Utah"	"49"	"Unidentified Counties, UT"	"49999"	"Nonmetro"	"Nonmetro"	4394	0.12%	28.04	38.34	3229.08	26.18	11.23	48.70
+	"Vermont"	"50"	"Chittenden County, VT"	"50007"	"Metro"	"Metro"	1392	0.04%	30.92	38.87	3363.30	26.13	12.59	37.70
+	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	"Metro"	"Metro"	644	0.02%	28.84	38.86	3372.83	29.13	12.93	40.55
+	"Vermont"	"50"	"Unidentified Counties, VT"	"50999"	"Nonmetro"	"Nonmetro"	3396	0.09%	29.35	38.71	3330.52	28.03	12.90	43.54
+	"Virginia"	"51"	"Arlington County, VA"	"51013"	"Metro"	"Metro"	2937	0.08%	32.60	38.74	3334.08	24.63	10.80	39.73
+	"Virginia"	"51"	"Chesterfield County, VA"	"51041"	"Metro"	"Metro"	3841	0.10%	29.93	38.43	3289.78	27.67	11.34	52.19
+	"Virginia"	"51"	"Fairfax County, VA"	"51059"	"Metro"	"Metro"	13841	0.37%	31.72	38.57	3296.82	25.66	11.61	51.43
+	"Virginia"	"51"	"Henrico County, VA"	"51087"	"Metro"	"Metro"	3911	0.10%	30.10	38.49	3268.36	26.96	11.79	45.42
+	"Virginia"	"51"	"Loudoun County, VA"	"51107"	"Metro"	"Metro"	5224	0.14%	31.94	38.48	3295.43	25.62	11.90	52.43
+	"Virginia"	"51"	"Prince William County, VA"	"51153"	"Metro"	"Metro"	6484	0.17%	30.11	38.50	3291.91	27.02	10.78	57.54
+	"Virginia"	"51"	"Spotsylvania County, VA"	"51177"	"Metro"	"Metro"	1503	0.04%	29.06	38.42	3299.24	27.77	11.22	53.29
+	"Virginia"	"51"	"Stafford County, VA"	"51179"	"Metro"	"Metro"	1745	0.05%	29.48	38.57	3330.93	27.49	11.33	51.03
+	"Virginia"	"51"	"Alexandria city, VA"	"51510"	"Metro"	"Metro"	2590	0.07%	31.92	38.73	3306.87	25.61	11.69	46.49
+	"Virginia"	"51"	"Chesapeake city, VA"	"51550"	"Metro"	"Metro"	2928	0.08%	29.09	38.32	3274.07	27.38	12.28	54.75
+	"Virginia"	"51"	"Hampton city, VA"	"51650"	"Metro"	"Metro"	1645	0.04%	27.73	38.37	3204.05	28.44	12.11	55.39
+	"Virginia"	"51"	"Newport News city, VA"	"51700"	"Metro"	"Metro"	2677	0.07%	27.74	38.39	3210.86	28.22	11.92	47.57
+	"Virginia"	"51"	"Norfolk city, VA"	"51710"	"Metro"	"Metro"	3452	0.09%	27.65	38.23	3190.78	27.74	11.76	49.39
+	"Virginia"	"51"	"Richmond city, VA"	"51760"	"Metro"	"Metro"	3139	0.08%	28.57	38.37	3180.66	27.67	10.28	52.41
+	"Virginia"	"51"	"Virginia Beach city, VA"	"51810"	"Metro"	"Metro"	5618	0.15%	29.21	38.42	3264.02	26.80	12.22	54.03
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"Metro"	"Metro"	28271	0.75%	28.75	38.54	3288.23	27.75	11.43	49.11
+	"Virginia"	"51"	"Unidentified Counties, VA"	"51999"	"Nonmetro"	"Nonmetro"	10037	0.26%	27.36	38.38	3242.97	28.89	11.22	47.50
+	"Washington"	"53"	"Benton County, WA"	"53005"	"Metro"	"Metro"	2552	0.07%	28.53	38.55	3329.61	27.41	11.32	45.81
+	"Washington"	"53"	"Clark County, WA"	"53011"	"Metro"	"Metro"	5482	0.14%	29.21	38.77	3339.43	26.80	11.11	50.72
+	"Washington"	"53"	"Cowlitz County, WA"	"53015"	"Metro"	"Metro"	1235	0.03%	27.54	38.64	3360.75	27.97	12.12	44.43
+	"Washington"	"53"	"King County, WA"	"53033"	"Metro"	"Metro"	24347	0.64%	31.57	38.73	3317.72	25.58	11.34	43.22
+	"Washington"	"53"	"Kitsap County, WA"	"53035"	"Metro"	"Metro"	2994	0.08%	28.93	38.70	3382.16	26.90	10.22	44.60
+	"Washington"	"53"	"Pierce County, WA"	"53053"	"Metro"	"Metro"	11478	0.30%	28.85	38.63	3337.81	27.62	11.08	42.09
+	"Washington"	"53"	"Skagit County, WA"	"53057"	"Metro"	"Metro"	1386	0.04%	28.91	38.79	3402.03	27.84	10.09	47.16
+	"Washington"	"53"	"Snohomish County, WA"	"53061"	"Metro"	"Metro"	9763	0.26%	30.32	38.72	3359.32	26.47	10.93	45.65
+	"Washington"	"53"	"Spokane County, WA"	"53063"	"Metro"	"Metro"	5737	0.15%	28.63	38.60	3303.00	27.08	11.51	45.37
+	"Washington"	"53"	"Thurston County, WA"	"53067"	"Metro"	"Metro"	3108	0.08%	29.13	38.75	3372.72	27.17	11.40	50.21
+	"Washington"	"53"	"Whatcom County, WA"	"53073"	"Metro"	"Metro"	2161	0.06%	29.66	38.84	3405.00	26.40	10.40	43.97
+	"Washington"	"53"	"Yakima County, WA"	"53077"	"Metro"	"Metro"	3690	0.10%	27.93	38.48	3310.34	28.66	11.36	43.66
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"Metro"	"Metro"	4386	0.12%	28.45	38.65	3346.16	27.39	11.27	48.88
+	"Washington"	"53"	"Unidentified Counties, WA"	"53999"	"Nonmetro"	"Nonmetro"	7766	0.20%	28.16	38.63	3367.25	27.77	10.76	46.81
+	"West Virginia"	"54"	"Berkeley County, WV"	"54003"	"Metro"	"Metro"	1487	0.04%	27.56	38.49	3312.52	28.56	11.14	41.82
+	"West Virginia"	"54"	"Kanawha County, WV"	"54039"	"Metro"	"Metro"	1864	0.05%	27.29	37.95	3216.66	27.70	10.70	56.23
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"Metro"	"Metro"	8085	0.21%	27.45	38.21	3249.53	27.93	11.87	44.23
+	"West Virginia"	"54"	"Unidentified Counties, WV"	"54999"	"Nonmetro"	"Nonmetro"	6812	0.18%	26.61	38.23	3221.94	28.40	11.35	44.90
+	"Wisconsin"	"55"	"Brown County, WI"	"55009"	"Metro"	"Metro"	3158	0.08%	28.95	38.40	3313.53	27.82	13.58	39.75
+	"Wisconsin"	"55"	"Dane County, WI"	"55025"	"Metro"	"Metro"	5753	0.15%	30.79	38.60	3334.70	26.29	12.81	38.66
+	"Wisconsin"	"55"	"Fond du Lac County, WI"	"55039"	"Metro"	"Metro"	1073	0.03%	28.62	38.41	3327.55	28.46	11.28	42.44
+	"Wisconsin"	"55"	"Kenosha County, WI"	"55059"	"Metro"	"Metro"	1788	0.05%	28.61	38.52	3296.49	28.36	11.56	43.79
+	"Wisconsin"	"55"	"La Crosse County, WI"	"55063"	"Metro"	"Metro"	1176	0.03%	29.47	38.97	3388.84	27.64	11.69	38.04
+	"Wisconsin"	"55"	"Marathon County, WI"	"55073"	"Metro"	"Metro"	1561	0.04%	28.86	38.58	3346.37	28.55	11.19	38.46
+	"Wisconsin"	"55"	"Milwaukee County, WI"	"55079"	"Metro"	"Metro"	13032	0.34%	28.53	38.23	3174.61	28.23	11.80	48.53
+	"Wisconsin"	"55"	"Outagamie County, WI"	"55087"	"Metro"	"Metro"	2215	0.06%	29.47	38.35	3351.32	27.68	13.91	39.97
+	"Wisconsin"	"55"	"Racine County, WI"	"55101"	"Metro"	"Metro"	2271	0.06%	28.30	38.29	3253.09	28.36	11.24	43.80
+	"Wisconsin"	"55"	"Rock County, WI"	"55105"	"Metro"	"Metro"	1869	0.05%	27.95	38.32	3285.34	28.45	11.79	43.48
+	"Wisconsin"	"55"	"Sheboygan County, WI"	"55117"	"Metro"	"Metro"	1270	0.03%	28.86	38.61	3338.49	27.69	12.27	40.45
+	"Wisconsin"	"55"	"Walworth County, WI"	"55127"	"Nonmetro"	"Nonmetro"	942	0.02%	29.17	38.63	3373.17	27.79	12.11	45.43
+	"Wisconsin"	"55"	"Washington County, WI"	"55131"	"Metro"	"Metro"	1300	0.03%	30.32	38.39	3335.41	27.40	13.03	38.88
+	"Wisconsin"	"55"	"Waukesha County, WI"	"55133"	"Metro"	"Metro"	3918	0.10%	31.16	38.49	3364.92	26.47	13.35	39.94
+	"Wisconsin"	"55"	"Winnebago County, WI"	"55139"	"Metro"	"Metro"	1798	0.05%	29.27	38.34	3329.99	28.31	13.65	44.23
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"Metro"	"Metro"	6751	0.18%	29.65	38.62	3377.64	27.84	12.26	43.26
+	"Wisconsin"	"55"	"Unidentified Counties, WI"	"55999"	"Nonmetro"	"Nonmetro"	14223	0.38%	28.53	38.62	3376.72	28.39	11.35	44.95
+	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	"Metro"	"Metro"	2245	0.06%	27.69	38.48	3146.87	26.82	9.76	47.41
+	"Wyoming"	"56"	"Unidentified Counties, WY"	"56999"	"Nonmetro"	"Nonmetro"	4317	0.11%	28.26	38.44	3186.83	26.62	10.81	43.71
+"---"
+"Dataset: Natality, 2016-2018 expanded"
+"Query Parameters:"
+"Title: wonderCDCBirthdata"
+"Year: 2018"
+"Group By: State of Residence; County of Residence; 2013 Metro/Nonmetro"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 8, 2019 10:22:04 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2018, on CDC"
+"WONDER Online Database, September 2019. Accessed at http://wonder.cdc.gov/natality-expanded-current.html on Oct 8, 2019 10:22:04"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Assurance of Confidentiality."
+"2. Each birth record represents one living baby."
+"3. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""
+"4. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"5. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", and ""Not on Certificate"" from the denominator when calculating percentages."
+"6. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth"
+"Weight"" measure."
+"7. Records where the gestation age is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Gestational"
+"Age"" measure."
+"8. Records where the ""BMI"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Pre-pregnancy"
+"BMI"" measure."
+"9. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."
+"10. Records where the ""Interval Since Last Other Pregnancy Outcome"" is ""Unknown or Not Stated"" or ""Zero to 3 months"" are"
+"not included in the calculation of the ""Average Interval Since Last Other Pregnancy Outcome"" measure."
+"11. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore County (FIPS code"
+"24005)."
+"12. The independent city of St. Louis, Missouri (FIPS code 29510) is reported separately from St. Louis County (FIPS code"
+"29189)."
+"13. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"14. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"15. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"16. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"17. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."
