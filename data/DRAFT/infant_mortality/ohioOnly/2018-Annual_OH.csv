@@ -1,0 +1,767 @@
+Edition,Report Type,Measure Name,State Name,Rank,Value,Score,Lower CI,Upper CI,Source,Source Year
+2018,2018 Annual,Adverse Childhood Experiences,Ohio,43,27.1,1.35,,,"Child and Adolescent Health Measurement Initiative (CAHMI), National Survey of Children's Health Indicator Data Set, Data Resource Center for Child and Adolescent Health supported by the U.S. HHS, HRSA, Maternal and Child Health Bureau (MCHB)",2016
+2018,2018 Annual,Adverse Childhood Experiences,Ohio,43,27.1,1.35,,,"Child and Adolescent Health Measurement Initiative (CAHMI), National Survey of Children's Health Indicator Data Set, Data Resource Center for Child and Adolescent Health supported by the U.S. HHS, HRSA, Maternal and Child Health Bureau (MCHB)",2016
+2018,2018 Annual,Air Pollution,Ohio,46,9,0.44,,,"U.S. Environmental Protection Agency; U.S. Census Bureau, Annual Estimates of the Resident Population: April 1, 2010 to July 1 2017",2015-2017
+2018,2018 Annual,All Determinants,Ohio,37,-0.251,-0.251,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,All Outcomes,Ohio,40,-0.172,-0.172,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Behaviors,Ohio,47,-0.211,-0.211,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Binge Drinking,Ohio,40,18.9,0.56,20.1,17.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Binge Drinking - $25-$49,999",Ohio,39,16.9,0.63,19.4,14.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Binge Drinking - $50-$74,999",Ohio,33,18.4,0.14,21.5,15.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Binge Drinking - $75,000 or More",Ohio,43,23.7,0.96,26.1,21.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Ages 18-44,Ohio,41,28.3,1,30.6,26.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Ages 45-64,Ohio,41,16.2,0.74,17.7,14.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Ages 65+,Ohio,23,4.7,-0.3,5.6,3.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - American Indian/Alaskan Native,Ohio,,,,43.4,3.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Asian,Ohio,,,,24.9,5.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Black,Ohio,,16.7,,20.2,13.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - College Grad,Ohio,35,18.1,0.58,19.9,16.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Female,Ohio,28,12.5,0.14,13.8,11.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Hawaiian/Pacific Islander,Ohio,,,,103.4,4.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - High School Grad,Ohio,33,17,0.54,19,15,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Hispanic,Ohio,,23.3,,31.7,14.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Binge Drinking - Less Than $25,000",Ohio,45,14.5,0.81,16.8,12.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Less than High School,Ohio,,15.6,,19.9,11.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Male,Ohio,45,26,1.18,27.9,24.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Multiracial,Ohio,,18.7,,27,10.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Other Race,Ohio,,,,12.9,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Rural,Ohio,,9.6,,11.3,7.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Some College,Ohio,37,18.3,0.54,20.5,16.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Suburban,Ohio,,8.8,,10.5,7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - Urban,Ohio,,10.2,,12.5,7.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Binge Drinking - White,Ohio,37,19.2,0.47,20.4,17.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cancer Deaths,Ohio,41,210.3,1.13,211.8,208.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - American Indian/Alaska Native,Ohio,,62.7,,81.1,47.6,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Asian/Pacific Islander,Ohio,,103.4,,113.1,93.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Black/African American,Ohio,,235.3,,240.4,230.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Crude Rate,Ohio,45,224.9,1.18,226.4,223.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Female,Ohio,0,179.3,0,181.1,177.4,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Hispanic/Latino,Ohio,,108.5,,117.7,99.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Male,Ohio,0,253.2,0,255.7,250.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - Standard Age Adjustment,Ohio,42,180,1.16,181.3,178.7,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cancer Deaths - White,Ohio,,209.3,,210.9,207.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths,Ohio,39,286.5,0.76,288.2,284.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - American Indian/Alaska Native,Ohio,,96.4,,120.5,76.1,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - Asian/Pacific Islander,Ohio,,134.6,,146.8,122.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - Black/African American,Ohio,,343.3,,349.5,337.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - Female,Ohio,0,237.9,0,239.9,235.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - Hispanic/Latino,Ohio,,147.4,,158.6,136.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - Male,Ohio,0,346.8,0,349.8,343.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Cardiovascular Deaths - White,Ohio,,281.6,,283.4,279.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Children in Poverty,Ohio,35,20.1,0.36,,,"U.S. Census Bureau, American Community Survey",2017
+2018,2018 Annual,Chlamydia,Ohio,37,520.9,0.22,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - American Indian/Alaska Native,Ohio,0,235,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - Asian,Ohio,0,96.7,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - Black/African American,Ohio,0,1544.1,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - Female,Ohio,36,705.2,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - Hispanic/Latino,Ohio,0,295.2,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - Male,Ohio,32,328.8,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Chlamydia - Multiracial,Ohio,0,473,0,0,0,AHR data,
+2018,2018 Annual,Chlamydia - Native Hawaiian/ PI,Ohio,0,519.7,0,0,0,AHR data,
+2018,2018 Annual,Chlamydia - White,Ohio,0,207.2,0,0,0,"CDC, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention Atlas",2016
+2018,2018 Annual,Cholesterol Check,Ohio,29,85.3,-0.18,86.4,84.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Cholesterol Check - $25-$49,999",Ohio,21,86.9,-0.05,89,84.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Cholesterol Check - $50-$74,999",Ohio,38,86.6,-0.76,89.2,83.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Cholesterol Check - $75,000 or More",Ohio,36,90.2,-0.85,92,88.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Ages 18-44,Ohio,24,75.3,-0.45,77.5,73.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Ages 45-64,Ohio,40,89.8,-1.09,91.1,88.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Ages 65+,Ohio,36,96.4,-0.55,97.2,95.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - American Indian/Alaskan Native,Ohio,,84.1,,95.3,73,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Asian,Ohio,,82.6,,91.3,73.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Black,Ohio,,88.1,,91.1,85.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - College Grad,Ohio,33,90.7,-0.7,92.1,89.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Female,Ohio,32,87.1,-0.62,88.5,85.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Hawaiian/Pacific Islander,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - High School Grad,Ohio,30,86,-0.42,87.8,84.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Hispanic,Ohio,,75.8,,84.2,67.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Cholesterol Check - Less than $25,000",Ohio,23,85.6,-0.15,87.9,83.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Less than High School,Ohio,30,82.8,-0.17,87.2,78.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Male,Ohio,25,83.5,-0.27,85.1,81.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Multiracial,Ohio,,68.3,,79.5,57.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Other Race,Ohio,,,,102,27.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Rural,Ohio,,89.1,,91.3,86.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Some College,Ohio,29,88.1,-0.51,90,86.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Suburban,Ohio,,92.6,,94.5,90.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - Urban,Ohio,42,91.2,-1.02,93.4,89,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Cholesterol Check - White,Ohio,33,85.7,-0.51,86.8,84.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking,Ohio,39,7.1,0.69,7.8,6.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Chronic Drinking - $25-$49,999",Ohio,33,6.7,0.51,8.3,5.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Chronic Drinking - $50-$74,999",Ohio,,6.5,,8.2,4.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Chronic Drinking - $75,000 or More",Ohio,41,8.9,0.83,10.5,7.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Ages 18-44,Ohio,43,8.9,1.25,10.3,7.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Ages 45-64,Ohio,36,7.2,0.74,8.2,6.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Ages 65+,Ohio,11,3.3,-0.85,4.1,2.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - American Indian/Alaskan Native,Ohio,,,,42.8,2.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Asian,Ohio,,,,14.9,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Black,Ohio,,4.7,,6.6,2.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - College Grad,Ohio,27,6.2,0.17,7.3,5.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Female,Ohio,22,5.7,0,6.6,4.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Hawaiian/Pacific Islander,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - High School Grad,Ohio,37,7.6,0.86,9,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Hispanic,Ohio,,,,13.9,3.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Chronic Drinking - Less Than $25,000",Ohio,,5.8,,7.3,4.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Less than High School,Ohio,,7.6,,10.5,4.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Male,Ohio,43,8.5,1.27,9.7,7.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Multiracial,Ohio,,,,13.5,2.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Other Race,Ohio,,,,3.3,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Rural,Ohio,,3.2,,4.2,2.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Some College,Ohio,17,6,-0.28,7.3,4.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Suburban,Ohio,,5.4,,6.8,4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - Urban,Ohio,,5.4,,7.1,3.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Chronic Drinking - White,Ohio,25,7.3,0.14,8.1,6.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Clinical Care,Ohio,34,-0.043,-0.043,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Colorectal Cancer Screening,Ohio,27,66.9,-0.17,68.7,65.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Colorectal Cancer Screening - $25-$49,999",Ohio,34,63.6,-0.54,67.4,59.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Colorectal Cancer Screening - $50-$74,999",Ohio,40,67.3,-0.8,72.1,62.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Colorectal Cancer Screening - $75,000 or More",Ohio,33,73.2,-0.35,76.4,69.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - American Indian/Alaskan Native,Ohio,,62.1,,88.5,35.8,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Asian,Ohio,,,,100.9,72.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Black,Ohio,,61.3,,68.2,54.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - College Grad,Ohio,30,74.4,-0.31,77.2,71.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Female,Ohio,24,69.2,-0.04,71.5,66.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Hawaiian/Pacific Islander,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - High School Grad,Ohio,28,63.8,-0.16,66.8,60.8,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Hispanic,Ohio,,68.9,,85.5,52.2,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Colorectal Cancer Screening - Less than $25,000",Ohio,12,61.4,0.82,65.5,57.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Less than High School,Ohio,7,60.8,1.05,68.2,53.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Male,Ohio,32,64.4,-0.31,67.2,61.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Multiracial,Ohio,,78.6,,90.5,66.7,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Other Race,Ohio,,,,89.9,29,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Rural,Ohio,,65.5,,68.8,62.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Some College,Ohio,31,67.3,-0.53,70.6,63.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Suburban,Ohio,,72,,75.6,68.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - Urban,Ohio,43,69.3,-0.77,72.7,65.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Colorectal Cancer Screening - White,Ohio,33,67.2,-0.7,69.1,65.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Community & Environment,Ohio,32,-0.007,-0.007,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Concentrated Disadvantage,Ohio,33,23.1,-0.07,,,"U.S. Census Bureau, American Community Survey",2012-2016
+2018,2018 Annual,Concentrated Disadvantage,Ohio,33,23.1,-0.07,,,"U.S. Census Bureau, American Community Survey",2012-2016
+2018,2018 Annual,"Dedicated HC Provider - $25-$49,999",Ohio,12,82.7,0.85,85.1,80.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Dedicated HC Provider - $50-$74,999",Ohio,17,84.2,0.52,87.1,81.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Dedicated HC Provider - $75,000 or More",Ohio,22,85.4,0,87.4,83.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - 18-44,Ohio,16,69.5,0.66,71.7,67.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - 45-64,Ohio,20,86.8,0.39,88.3,85.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - 65+,Ohio,7,95.8,0.77,96.6,95,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - American Indian/Alaskan Native,Ohio,,69.2,,85.4,52.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Asian,Ohio,,64.8,,76,53.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Black,Ohio,,78,,81.8,74.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - College Grad,Ohio,18,86.6,0.41,88.2,84.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Female,Ohio,11,88.1,1.1,89.3,86.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Hawaiian/Pacific Islander,Ohio,,,,106.5,5.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - High School Grad,Ohio,22,80.9,0.42,82.9,78.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Hispanic,Ohio,,61.5,,70.8,52.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Dedicated HC Provider - Less than $25,000",Ohio,10,81.3,1.13,83.8,78.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Less than High School,Ohio,7,81,1.38,85.2,76.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Male,Ohio,21,73.8,0.31,75.7,72,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Multiracial,Ohio,,73.9,,84.6,63.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Other Race,Ohio,,,,74.7,13.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Rural,Ohio,,90,,92.3,87.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Some College,Ohio,20,84.2,0.46,86.3,82.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Suburban,Ohio,,92.2,,94.1,90.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - Urban,Ohio,25,89,0,91.4,86.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated HC Provider - White,Ohio,20,83.2,0.23,84.4,82,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Dedicated Health Care Provider,Ohio,17,81.2,0.64,82.3,80.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Dental Visit - $25-$49,999",Ohio,19,62,0.4,64.8,59.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Dental Visit - $50-$74,999",Ohio,15,74.4,0.77,77.6,71.2,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Dental Visit - $75,000 or More",Ohio,12,84.7,0.97,86.6,82.8,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Ages 18-44,Ohio,13,67.9,0.79,70.2,65.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Ages 45-64,Ohio,23,69,0.3,71,67.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Ages 65+,Ohio,29,66.1,-0.13,68.1,64,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - American Indian/Alaskan Native,Ohio,,66.2,,81.2,51.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Asian,Ohio,,69.5,,80.1,58.8,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Black,Ohio,,62.8,,67.3,58.2,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - College Grad,Ohio,17,82.2,0.66,83.9,80.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Female,Ohio,15,71.8,0.6,73.5,70.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Hawaiian/Pacific Islander,Ohio,,,,118.1,45.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - High School Grad,Ohio,15,62,0.59,64.3,59.8,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Hispanic,Ohio,,65,,74.7,55.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Dental Visit - Less Than $25,000",Ohio,7,52.5,1.04,55.6,49.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Less than High School,Ohio,16,45.6,0.34,51,40.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Male,Ohio,23,63.7,0.17,65.7,61.7,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Multiracial,Ohio,,64.4,,75.3,53.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Other Race,Ohio,,,,77.1,32.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Rural,Ohio,,64.7,,67.3,62,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Some College,Ohio,15,71.2,0.79,73.5,68.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Suburban,Ohio,,72.6,,75.3,70,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - Urban,Ohio,30,70.5,0.03,73,68,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dental Visit - White,Ohio,24,69,0,70.4,67.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Dental Visit, Annual",Ohio,19,67.9,0.28,69.2,66.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Dentists,Ohio,33,52.7,-0.77,,,American Dental Association,2017
+2018,2018 Annual,Diabetes,Ohio,36,11.3,0.43,12,10.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Diabetes - $25-$49,999",Ohio,25,13.3,-0.1,15,11.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Diabetes - $50-$74,999",Ohio,30,10.4,0.09,12.3,8.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Diabetes - $75,000 or More",Ohio,19,6.5,-0.47,7.6,5.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Ages 18-44,Ohio,35,3.3,0.51,4.1,2.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Ages 45-64,Ohio,29,14.2,-0.11,15.6,12.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Ages 65+,Ohio,33,22.9,0.1,24.6,21.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - American Indian/Alaskan Native,Ohio,,,,29.9,0.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Asian,Ohio,,,,5,0.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Black,Ohio,,14.3,,16.9,11.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - College Grad,Ohio,36,8.4,0.7,9.5,7.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Female,Ohio,39,11.4,0.43,12.4,10.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Hawaiian/Pacific Islander,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - High School Grad,Ohio,30,14.4,0.14,15.8,13,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Hispanic,Ohio,,9.6,,14.2,5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Diabetes - Less Than $25,000",Ohio,34,18.6,0.15,20.6,16.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Less than High School,Ohio,,17.9,,21.7,14.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Male,Ohio,30,11.2,0,12.2,10.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Multiracial,Ohio,,6.9,,10.4,3.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Other Race,Ohio,,,,25.5,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Rural,Ohio,,16.5,,18.4,14.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Some College,Ohio,29,12.5,0.11,13.9,11.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Suburban,Ohio,,15.1,,17.1,13.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - Urban,Ohio,39,18.1,0.45,20.6,15.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Diabetes - White,Ohio,38,11.1,0.5,11.9,10.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Disconnected Youth,Ohio,22,11.1,-0.22,0,0,"Measure of America, Promising Gains, Persistent Gaps Youth Disconnection in America 2018 Report",2016
+2018,2018 Annual,Disparity in Health Status,Ohio,24,27.6,-0.46,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Drug Deaths,Ohio,48,30.4,1.96,31,29.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Ages 15-24,Ohio,,18.4,,19.6,17.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Ages 25-34,Ohio,,61.5,,63.8,59.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Ages 35-44,Ohio,,62.3,,64.7,59.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Ages 45-54,Ohio,,50.1,,52.1,48.1,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Ages 55-64,Ohio,,31,,32.6,29.4,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Ages 65-74,Ohio,,7.7,,8.6,6.7,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - American Indian/Alaska Native,Ohio,,,,15.5,4.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Asian/Pacific Islander,Ohio,,3,,4.4,1.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Black/African American,Ohio,,23.5,,24.9,22,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Female,Ohio,,20.6,,21.2,19.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Hispanic/Latino,Ohio,,14.5,,16.8,12.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - Male,Ohio,,40.3,,41.3,39.4,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Drug Deaths - White,Ohio,,32.7,,33.4,32.1,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Excessive Drinking,Ohio,37,20.2,0.43,21.4,19,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Excessive Drinking - $25-$49,999",Ohio,36,18,0.44,20.4,15.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Excessive Drinking - $50-$74,999",Ohio,30,19.9,0.08,23,16.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Excessive Drinking - $75,000 or More",Ohio,42,25.4,0.86,27.9,23,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Ages 18-44,Ohio,41,29.3,1.01,31.6,27.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Ages 45-64,Ohio,38,17.4,0.52,19.1,15.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Ages 65+,Ohio,15,6.3,-0.59,7.3,5.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - American Indian/Alaskan Native,Ohio,,,,50.5,10.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Asian,Ohio,,,,25.1,5.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Black,Ohio,,17.1,,20.6,13.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - College Grad,Ohio,32,19.5,0.36,21.4,17.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Female,Ohio,21,13.9,-0.04,15.2,12.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Hawaiian/Pacific Islander,Ohio,,,,103.4,4.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - High School Grad,Ohio,31,18.3,0.51,20.4,16.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Hispanic,Ohio,,24,,32.5,15.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Excessive Drinking - Less Than $25,000",Ohio,43,15.6,0.71,17.9,13.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Less than High School,Ohio,,16.7,,21.1,12.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Male,Ohio,45,27.1,1.15,29,25.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Multiracial,Ohio,,19.8,,28.2,11.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Other Race,Ohio,,,,12.9,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Rural,Ohio,,11.1,,13,9.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Some College,Ohio,36,19.3,0.27,21.6,17.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Suburban,Ohio,,11.2,,13.1,9.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - Urban,Ohio,,11.5,,13.9,9.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Excessive Drinking - White,Ohio,35,20.6,0.35,21.9,19.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress,Ohio,40,14,1,15.1,13,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Mental Distress - $25-$49,999",Ohio,47,14.7,1.84,16.9,12.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Mental Distress - $50-$74,999",Ohio,,8.7,,10.9,6.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Mental Distress - $75,000 or More",Ohio,23,6.1,-0.33,7.4,4.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Ages 18-44,Ohio,39,17.1,1.26,19,15.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Ages 45-64,Ohio,36,14.6,0.65,16.1,13.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Ages 65+,Ohio,19,6.9,-0.69,7.9,5.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - American Indian/Alaskan Native,Ohio,,,,47.8,11.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Asian,Ohio,,,,18.6,1.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Black,Ohio,,13.4,,16.3,10.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - College Grad,Ohio,30,7.2,0.11,8.4,6.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Female,Ohio,35,15.5,0.53,16.9,14.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Hawaiian/Pacific Islander,Ohio,,,,68.4,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - High School Grad,Ohio,32,14,0.35,15.6,12.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Hispanic,Ohio,,21.9,,29.7,14.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Mental Distress - Less than $25,000",Ohio,32,23.3,0.84,25.7,20.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Less than High School,Ohio,44,24.8,1.57,29.8,19.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Male,Ohio,42,12.5,1.05,13.9,11,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Multiracial,Ohio,,25.1,,34.1,16,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Other Race,Ohio,,,,36,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Rural,Ohio,,13.1,,15.7,10.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Some College,Ohio,36,14,0.59,15.8,12.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Suburban,Ohio,,9,,10.7,7.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - Urban,Ohio,,11.6,,14.1,9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Mental Distress - White,Ohio,37,13.7,0.59,14.8,12.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress,Ohio,30,13,0.46,13.9,12.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Physical Distress - $25-$49,999",Ohio,28,13.5,0.17,15.3,11.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Physical Distress - $50-$74,999",Ohio,21,8.9,-0.36,11.1,6.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Physical Distress - $75,000 or More",Ohio,23,5.8,-0.19,7,4.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Ages 18-44,Ohio,22,7.5,0,8.8,6.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Ages 45-64,Ohio,31,17,0.25,18.5,15.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Ages 65+,Ohio,34,18,0.36,19.6,16.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - American Indian/Alaskan Native,Ohio,,,,36,3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Asian,Ohio,,,,8,0.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Black,Ohio,,13.2,,15.8,10.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - College Grad,Ohio,13,6.5,-0.36,7.4,5.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Female,Ohio,29,14.1,0.17,15.3,12.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Hawaiian/Pacific Islander,Ohio,,,,28.3,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - High School Grad,Ohio,31,15.8,0.16,17.3,14.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Hispanic,Ohio,,11.8,,17.6,6.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Frequent Physical Distress - Less than $25,000",Ohio,29,26.7,0.58,29.1,24.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Less than High School,Ohio,39,27.6,0.84,32.3,22.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Male,Ohio,33,11.8,0.42,13,10.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Multiracial,Ohio,,13.7,,19.6,7.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Other Race,Ohio,,,,43.9,1.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Rural,Ohio,,16.3,,18.4,14.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Some College,Ohio,22,13.6,-0.11,15.2,12,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Suburban,Ohio,,14.7,,16.8,12.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - Urban,Ohio,39,17,0.63,19.8,14.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Frequent Physical Distress - White,Ohio,30,13.2,0.22,14.1,12.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Fruits,Ohio,24,1.4,0,1.5,1.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack,Ohio,43,5.5,1.29,6,4.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Attack - $25-$49,999",Ohio,21,5.2,0.14,6.2,4.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Attack - $50-$74,999",Ohio,,3.8,,5,2.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Attack - $75,000 or More",Ohio,14,2,-0.53,2.6,1.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Ages 18-44,Ohio,,1.2,,1.7,0.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Ages 45-64,Ohio,44,6.8,1.38,7.8,5.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Ages 65+,Ohio,32,12,0.56,13.4,10.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - American Indian/Alaskan Native,Ohio,,,,32.6,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Asian,Ohio,,,,2.3,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Black,Ohio,,7.4,,9.5,5.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - College Grad,Ohio,25,2.8,0.35,3.4,2.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Female,Ohio,42,4,1.01,4.6,3.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Hawaiian/Pacific Islander,Ohio,,,,85.7,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - High School Grad,Ohio,44,7.2,1.33,8.2,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Hispanic,Ohio,,,,7,1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Attack - Less Than $25,000",Ohio,,11.2,,12.8,9.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Less than High School,Ohio,,13.2,,16.4,10,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Male,Ohio,42,7.1,1.23,7.9,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Multiracial,Ohio,,,,9,2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Other Race,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Rural,Ohio,,8.1,,9.7,6.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Some College,Ohio,37,5.5,0.86,6.5,4.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Suburban,Ohio,,6.3,,7.7,5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - Urban,Ohio,,8.5,,10.7,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Attack - White,Ohio,33,5.2,0.36,5.8,4.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease,Ohio,34,4.7,0.81,5.1,4.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Disease - $25-$49,999",Ohio,,5.1,,6.1,4.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Disease - $50-$74,999",Ohio,,3.8,,4.9,2.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Disease - $75,000 or More",Ohio,,2.9,,3.6,2.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Ages 18-44,Ohio,,0.7,,1.1,0.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Ages 45-64,Ohio,35,5,0.52,5.8,4.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Ages 65+,Ohio,36,12.2,0.5,13.6,10.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - American Indian/Alaskan Native,Ohio,,,,8.3,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Asian,Ohio,,,,3.7,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Black,Ohio,,4.1,,5.5,2.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - College Grad,Ohio,35,3.4,0.54,4.1,2.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Female,Ohio,36,3.7,0.52,4.3,3.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Hawaiian/Pacific Islander,Ohio,,,,85.7,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - High School Grad,Ohio,31,5.7,0.35,6.6,4.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Hispanic,Ohio,,,,7.3,1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Heart Disease - Less Than $25,000",Ohio,,8.9,,10.2,7.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Less than High School,Ohio,,8.8,,11.2,6.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Male,Ohio,34,5.6,0.62,6.4,4.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Multiracial,Ohio,,,,8.1,1.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Other Race,Ohio,,,,15.3,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Rural,Ohio,,7.8,,9.3,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Some College,Ohio,37,5.2,0.44,6.1,4.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Suburban,Ohio,,7,,8.5,5.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - Urban,Ohio,,6.3,,7.9,4.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Heart Disease - White,Ohio,29,4.8,0,5.3,4.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure,Ohio,36,34.7,0.6,35.9,33.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Blood Pressure - $25-$49,999",Ohio,32,39.6,0.42,42.3,36.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Blood Pressure - $50-$74,999",Ohio,29,35,0.15,38.4,31.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Blood Pressure - $75,000 or More",Ohio,27,28.9,0.12,31.1,26.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Ages 18-44,Ohio,38,15.8,0.58,17.5,14,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Ages 45-64,Ohio,36,42.9,0.43,44.9,40.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Ages 65+,Ohio,24,59.9,-0.14,62,57.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - American Indian/Alaskan Native,Ohio,,43.5,,61.9,25.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Asian,Ohio,,14.1,,21.5,6.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Black,Ohio,,39.9,,43.9,35.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - College Grad,Ohio,29,28.6,0.21,30.4,26.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Female,Ohio,37,33,0.57,34.6,31.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Hawaiian/Pacific Islander,Ohio,,,,86.9,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - High School Grad,Ohio,30,41.8,0.22,44,39.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Hispanic,Ohio,,28.1,,36.4,19.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Blood Pressure - Less than $25,000",Ohio,35,46.9,0.66,49.7,44.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Less than High School,Ohio,42,53.3,1.31,58.6,47.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Male,Ohio,36,36.5,0.51,38.4,34.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Multiracial,Ohio,,21.7,,28.8,14.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Other Race,Ohio,,,,39.6,1.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Rural,Ohio,,44.1,,47,41.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Some College,Ohio,22,36.7,-0.03,39,34.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Suburban,Ohio,,45.7,,48.7,42.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - Urban,Ohio,31,47.6,0.45,51.1,44.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Blood Pressure - White,Ohio,34,35.1,0.27,36.4,33.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol,Ohio,28,33.4,0.15,34.7,32.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Cholesterol - $25-$49,999",Ohio,29,37.9,0.42,40.7,35,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Cholesterol - $50-$74,999",Ohio,16,34.1,-0.6,37.6,30.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Cholesterol - $75,000 or More",Ohio,11,29.5,-1.06,31.9,27.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Ages 18-44,Ohio,27,15.7,-0.22,17.6,13.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Ages 45-64,Ohio,16,38.8,-0.59,40.8,36.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Ages 65+,Ohio,27,52.4,0.21,54.6,50.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - American Indian/Alaskan Native,Ohio,,,,55.5,13.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Asian,Ohio,,21,,31,11,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Black,Ohio,,27.8,,31.7,23.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - College Grad,Ohio,10,30.5,-0.72,32.5,28.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Female,Ohio,30,32.7,0.16,34.4,31.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Hawaiian/Pacific Islander,Ohio,,,,103.4,4.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - High School Grad,Ohio,28,38.6,0.2,40.8,36.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Hispanic,Ohio,,24.8,,33.2,16.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Cholesterol - Less than $25,000",Ohio,31,40.6,0.29,43.5,37.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Less than High School,Ohio,35,42.6,0.29,48.2,36.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Male,Ohio,21,34.2,-0.16,36.1,32.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Multiracial,Ohio,,18.7,,25.8,11.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Other Race,Ohio,,,,42.6,2.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Rural,Ohio,,40.5,,43.4,37.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Some College,Ohio,15,35,-0.34,37.4,32.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Suburban,Ohio,,41.3,,44.3,38.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - Urban,Ohio,25,41.9,0.18,45.4,38.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Cholesterol - White,Ohio,24,35.2,-0.21,36.6,33.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status,Ohio,32,49,-0.37,50.3,47.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Health Status - $25-$49,999",Ohio,29,43.5,0.1,46.3,40.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Health Status - $50-$74,999",Ohio,27,54.6,0.09,58.2,51.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Health Status - $75,000 or More",Ohio,30,65.9,-0.17,68.4,63.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Ages 18-44,Ohio,30,55.9,0.06,58.3,53.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Ages 45-64,Ohio,30,45.8,0,47.9,43.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Ages 65+,Ohio,33,39.9,-0.27,41.9,37.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - American Indian/Alaskan Native,Ohio,,37.7,,54.9,20.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Asian,Ohio,,60.4,,71.3,49.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Black,Ohio,,39.7,,43.8,35.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - College Grad,Ohio,26,65.4,-0.12,67.4,63.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Female,Ohio,30,49.4,0.08,51.2,47.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Hawaiian/Pacific Islander,Ohio,,,,85,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - High School Grad,Ohio,25,40.9,0.26,43.2,38.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Hispanic,Ohio,,39.1,,47.8,30.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"High Health Status - Less than $25,000",Ohio,12,30.4,0.94,33.1,27.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Less than High School,Ohio,27,23.2,0.24,27.7,18.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Male,Ohio,38,48.5,-0.37,50.5,46.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Multiracial,Ohio,,46.7,,57.5,35.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Other Race,Ohio,,,,52.3,5.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Rural,Ohio,,44.3,,47.4,41.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Some College,Ohio,34,48.2,-0.19,50.7,45.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Suburban,Ohio,,49.6,,52.6,46.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - Urban,Ohio,34,43.5,-0.36,46.9,40.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High Health Status - White,Ohio,40,50.6,-0.63,52,49.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,High School Graduation,Ohio,29,83.5,-0.13,,,"U.S. Department of Education, National Center for Education Statistics",2015-2016
+2018,2018 Annual,High School Graduation - American Indian/Alaska Native,Ohio,,70,,,,"U.S. Department of Education, National Center for Education Statistics",2015-2016
+2018,2018 Annual,High School Graduation - Asian/Pacific Islander,Ohio,,87,,,,"U.S. Department of Education, National Center for Education Statistics",2015-2016
+2018,2018 Annual,High School Graduation - Black,Ohio,45,67.3,-1.4,,,"U.S. Department of Education, National Center for Education Statistics",2015-2016
+2018,2018 Annual,High School Graduation - Hispanic,Ohio,40,72.8,-1.15,,,"U.S. Department of Education, National Center for Education Statistics",2015-2016
+2018,2018 Annual,High School Graduation - White,Ohio,31,87.7,-0.14,,,"U.S. Department of Education, National Center for Education Statistics",2015-2016
+2018,2018 Annual,HPV Immunization Females,Ohio,24,54.9,0.2,62.9,46.7,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,HPV Immunization Females - Above Poverty,Ohio,29,49.7,,59,40.5,AHR data,
+2018,2018 Annual,HPV Immunization Females - Below Poverty,Ohio,0,68.2,,82.5,49.4,AHR data,
+2018,2018 Annual,HPV Immunization Females - White,Ohio,0,48.9,,58.2,39.7,AHR data,
+2018,2018 Annual,HPV Immunization Males,Ohio,35,39.3,-0.47,47.6,31.6,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,HPV Immunization Males - Above Poverty,Ohio,33,37.8,,47.1,29.3,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,HPV Immunization Males - Below Poverty,Ohio,0,45.6,,64.1,28.2,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,HPV Immunization Males - Black,Ohio,0,,,,,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,HPV Immunization Males - Hispanic,Ohio,0,,,,,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,HPV Immunization Males - White,Ohio,31,35.8,,45.2,27.5,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Immunizations - Adolescents,Ohio,22,0.192,0.192,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Immunizations - Children,Ohio,45,66.4,-0.99,73.1,58.9,"CDC, National Immunization Survey-Child",2017
+2018,2018 Annual,Immunizations - Children - Above Poverty,Ohio,,72.9,,80,64.3,"CDC, National Immunization Survey-Child",2017
+2018,2018 Annual,Immunizations - Children - Below Poverty,Ohio,,56.4,,68.8,43.2,"CDC, National Immunization Survey-Child",2017
+2018,2018 Annual,Immunizations - Children - Black,Ohio,,60.2,,76.4,41.4,"CDC, National Immunization Survey-Child",2017
+2018,2018 Annual,Immunizations - Children - Hispanic,Ohio,,,,,,"CDC, National Immunization Survey-Child",2017
+2018,2018 Annual,Immunizations - Children - White,Ohio,,65.4,,73.8,55.8,"CDC, National Immunization Survey-Child",2017
+2018,2018 Annual,Income Inequality - Gini Index,Ohio,24,0.464,-0.95,,,"U.S. Census Bureau, American Community Survey",2017
+2018,2018 Annual,Infant Mortality,Ohio,41,7.3,1.14,0,0,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files; Natality public-use data",2015-2016
+2018,2018 Annual,Infectious Disease,Ohio,29,0.04,0.04,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Injury Deaths,Ohio,34,80.2,0.96,81.1,79.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 15-24,Ohio,0,59.1,0,61.3,56.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 25-34,Ohio,0,108.3,0,111.4,105.3,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 35-44,Ohio,0,105.2,0,108.3,102.1,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 45-54,Ohio,0,95.8,0,98.6,93,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 5-14,Ohio,0,5.9,0,6.7,5.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 55-64,Ohio,0,79.3,0,81.8,76.7,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Ages 65-74,Ohio,0,68.3,0,71.2,65.4,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - American Indian/Alaskan Native,Ohio,,17.8,,27.5,10.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Asian/Pacific Islander,Ohio,,31.1,,35.9,26.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Black,Ohio,,83.4,,86.1,80.7,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Female,Ohio,0,49.4,0,50.4,48.4,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Hispanic,Ohio,,47.2,,51.9,42.6,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - Male,Ohio,0,113.2,0,114.8,111.6,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Injury Deaths - White,Ohio,,80.9,,82,79.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2014-2016
+2018,2018 Annual,Insufficient Sleep,Ohio,45,38,1.13,39.3,36.6,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Insufficient Sleep - $25-$49,999",Ohio,44,39.3,0.86,42.2,36.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Insufficient Sleep - $50-$74,999",Ohio,39,36,0.38,39.5,32.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Insufficient Sleep - $75,000 or More",Ohio,31,31.7,0.07,34.2,29.2,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Ages 18-44,Ohio,41,40.6,1.09,43.1,38.2,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Ages 45-64,Ohio,46,41.1,1.05,43.2,39.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Ages 65+,Ohio,35,27.2,0.16,29.1,25.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - American Indian/Alaskan Native,Ohio,,58.4,,73.8,42.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Asian,Ohio,,39.7,,52,27.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Black,Ohio,,48,,52.7,43.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - College Grad,Ohio,31,29.6,0.05,31.7,27.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Female,Ohio,37,36.5,0.58,38.3,34.7,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Hawaiian/Pacific Islander,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - High School Grad,Ohio,47,41.2,1.12,43.5,38.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Hispanic,Ohio,,36,,45.6,26.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,"Insufficient Sleep - Less Than $25,000",Ohio,50,49.5,2,52.7,46.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Less than High School,Ohio,46,47.3,1.8,52.8,41.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Male,Ohio,48,39.5,1.27,41.6,37.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Multiracial,Ohio,,45.3,,56.7,33.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Other Race,Ohio,,,,57.2,13.5,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Rural,Ohio,,37,,39.5,34.4,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Some College,Ohio,38,39.7,0.54,42.3,37.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Suburban,Ohio,,34.2,,37.2,31.3,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - Urban,Ohio,39,35.8,0.6,38.5,33.1,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Insufficient Sleep - White,Ohio,47,36.5,1.29,37.9,35,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Low Birthweight,Ohio,35,8.7,0.42,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Black/African American,Ohio,0,14.1,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - College Graduate,Ohio,,6.8,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - High School Graduate,Ohio,,9.9,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Hispanic,Ohio,0,8.6,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Less than High School,Ohio,,11.6,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Mother Ages 15-19,Ohio,0,10.5,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Mother Ages 20-24,Ohio,0,9.2,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Mother Ages 25-29,Ohio,0,8.2,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Mother Ages 30-34,Ohio,0,7.8,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Mother Ages 35-39,Ohio,0,9.6,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Mother Ages 40-44,Ohio,0,11.9,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - Some College,Ohio,,8.8,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Low Birthweight - White,Ohio,0,7.4,,,,"CDC WONDER Online Database, Natality public-use data",2016
+2018,2018 Annual,Median Household Income,Ohio,26,59768,-0.18,63472.4,56063.6,"U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplement",2017
+2018,2018 Annual,Meningococcal Immunizations,Ohio,20,87.3,0.26,90.4,83.4,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Meningococcal Immunizations - Above Poverty,Ohio,20,85.8,,89.5,81,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Meningococcal Immunizations - Below Poverty,Ohio,0,90.5,,95.2,81.8,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Meningococcal Immunizations - Black,Ohio,0,98.3,,99.8,88.7,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Meningococcal Immunizations - Hispanic,Ohio,0,,,,,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Meningococcal Immunizations - White,Ohio,24,84.2,,88.2,79.1,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Mental Health Providers,Ohio,26,228.4,-0.06,,,"U.S. HHS, Centers for Medicare & Medicaid Services, National Plan and Provider Enumeration System, Aug 2018; U.S. Census Bureau, Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2017",2017
+2018,2018 Annual,Neighborhood Amenities,Ohio,26,35.5,-0.29,,,"Child and Adolescent Health Measurement Initiative, National Survey of Children’s Health, Data Resource Center for Child and Adolescent Health",2016
+2018,2018 Annual,Neighborhood Amenities,Ohio,26,35.5,-0.29,,,"Child and Adolescent Health Measurement Initiative (CAHMI), National Survey of Children's Health Indicator Data Set, Data Resource Center for Child and Adolescent Health supported by the U.S. HHS, HRSA, Maternal and Child Health Bureau (MCHB)",2016
+2018,2018 Annual,Obesity,Ohio,40,33.8,0.67,35.1,32.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Obesity - $25-$49,999",Ohio,38,37.8,0.84,40.7,34.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Obesity - $50-$74,999",Ohio,41,37.4,1,41,33.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Obesity - $75,000 or More",Ohio,39,31.4,1.15,33.9,29,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Ages 18-44,Ohio,40,30.9,1.07,33.1,28.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Ages 45-64,Ohio,42,39.5,0.88,41.6,37.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Ages 65+,Ohio,36,30.9,0.71,32.9,28.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - American Indian/Alaskan Native,Ohio,,28,,42.8,13.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Asian,Ohio,,,,28.9,7.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Black,Ohio,,41.7,,46,37.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - College Grad,Ohio,34,27.6,1,29.6,25.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Female,Ohio,41,34.1,0.95,35.9,32.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Hawaiian/Pacific Islander,Ohio,,,,114.4,52.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - High School Grad,Ohio,41,38.8,0.78,41.1,36.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Hispanic,Ohio,,38.2,,47.4,29,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Obesity - Less Than $25,000",Ohio,35,40.8,0.66,43.6,37.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Less than High School,Ohio,43,40.6,0.71,46.1,35.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Male,Ohio,39,33.5,0.93,35.4,31.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Multiracial,Ohio,,29.2,,38.6,19.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Other Race,Ohio,,,,50.5,7.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Rural,Ohio,,36.5,,39.5,33.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Some College,Ohio,35,38.1,0.74,40.6,35.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Suburban,Ohio,,33.6,,36.5,30.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - Urban,Ohio,46,36.5,1.45,40,33.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Obesity - White,Ohio,42,33.1,0.96,34.5,31.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Occupational Fatalities,Ohio,16,4.2,-0.1,4.6,3.8,"U.S. Bureau of Labor Statistics, Census of Fatal Occupational Injuries; U.S. Bureau of Economic Analysis",2014-2016
+2018,2018 Annual,Overall,Ohio,40,-0.424,-0.424,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Pertussis,Ohio,40,8.6,0.38,0,0,"CDC, National Notifiable Infectious Diseases Surveillance System, Annual Tables of Infectious Disease Data",2016
+2018,2018 Annual,Physical Inactivity,Ohio,38,29.6,1.03,30.9,28.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Physical Inactivity - $25-$49,999",Ohio,46,35.1,0.99,37.9,32.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Physical Inactivity - $50-$74,999",Ohio,23,24.4,-0.03,27.5,21.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Physical Inactivity - $75,000 or More",Ohio,39,19.9,1.09,22,17.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Ages 18-44,Ohio,33,23.8,0.37,26,21.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Ages 45-64,Ohio,37,31.8,0.64,33.8,29.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Ages 65+,Ohio,44,37.6,1.21,39.7,35.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - American Indian/Alaskan Native,Ohio,,,,39.2,9.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Asian,Ohio,,30.4,,42.5,18.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Black,Ohio,,34.6,,38.8,30.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - College Grad,Ohio,37,17.2,0.6,18.8,15.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Female,Ohio,36,31,0.6,32.7,29.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Hawaiian/Pacific Islander,Ohio,,,,105.3,85.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - High School Grad,Ohio,46,39.8,1.14,42.1,37.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Hispanic,Ohio,,37.5,,46.7,28.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Physical Inactivity - Less Than $25,000",Ohio,34,40.9,0.41,43.8,38,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Less than High School,Ohio,40,47.9,0.75,53.5,42.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Male,Ohio,39,28.1,0.89,30,26.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Multiracial,Ohio,,14.8,,20.9,8.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Other Race,Ohio,,,,50.9,4.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Rural,Ohio,,36.9,,39.9,33.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Some College,Ohio,24,27.3,0.24,29.5,25.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Suburban,Ohio,,32.7,,35.6,29.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - Urban,Ohio,41,33.6,0.92,37,30.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Physical Inactivity - White,Ohio,39,29,0.91,30.3,27.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Policy,Ohio,28,0.01,0.01,,,America's Health Rankings composite measure,2018
+2018,2018 Annual,Poor Mental Health Days,Ohio,39,4.4,0.95,4.7,4.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Mental Health Days - $25-$49,999",Ohio,46,4.5,1.66,5.1,3.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Mental Health Days - $50-$74,999",Ohio,14,2.9,-0.76,3.4,2.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Mental Health Days - $75,000 or More",Ohio,23,2.3,-0.3,2.6,1.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Ages 18-44,Ohio,39,5.4,1.27,5.8,4.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Ages 45-64,Ohio,37,4.5,0.66,4.9,4.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Ages 65+,Ohio,17,2.3,-0.53,2.6,2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - American Indian/Alaskan Native,Ohio,,7.6,,11.6,3.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Asian,Ohio,,3.5,,5.5,1.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Black,Ohio,,4.3,,5,3.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - College Grad,Ohio,22,2.6,0,2.9,2.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Female,Ohio,36,5,0.65,5.3,4.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Hawaiian/Pacific Islander,Ohio,,,,14.2,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - High School Grad,Ohio,32,4.3,0.33,4.8,3.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Hispanic,Ohio,,6.4,,8.1,4.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Mental Health Days - Less Than $25,000",Ohio,31,6.8,0.81,7.4,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Less than High School,Ohio,42,7.1,1.55,8.3,5.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Male,Ohio,42,3.9,0.98,4.2,3.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Multiracial,Ohio,,6.8,,8.8,4.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Other Race,Ohio,,,,11.7,0.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Rural,Ohio,,4.1,,4.8,3.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Some College,Ohio,34,4.3,0.39,4.8,3.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Suburban,Ohio,,3.2,,3.6,2.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - Urban,Ohio,30,3.5,0,4.1,2.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Mental Health Days - White,Ohio,38,4.3,0.57,4.6,4.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days,Ohio,32,4.2,0.35,4.4,4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Physical Health Days - $25-$49,999",Ohio,25,4.2,0,4.7,3.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Physical Health Days - $50-$74,999",Ohio,13,2.9,-0.67,3.5,2.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Physical Health Days - $75,000 or More",Ohio,17,2.1,-0.38,2.4,1.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Ages 18-44,Ohio,27,2.8,0.26,3.1,2.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Ages 45-64,Ohio,32,5.2,0.23,5.6,4.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Ages 65+,Ohio,32,5.5,0.27,5.9,5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - American Indian/Alaskan Native,Ohio,,,,9,2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Asian,Ohio,,1.6,,2.5,0.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Black,Ohio,,4.3,,5,3.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - College Grad,Ohio,12,2.4,-0.33,2.6,2.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Female,Ohio,29,4.5,0.16,4.7,4.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Hawaiian/Pacific Islander,Ohio,,,,10.9,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - High School Grad,Ohio,28,4.8,0,5.2,4.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Hispanic,Ohio,,3.8,,5.3,2.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Poor Physical Health Days - Less Than $25,000",Ohio,31,8,0.71,8.6,7.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Less than High School,Ohio,39,8.1,0.84,9.3,6.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Male,Ohio,37,3.9,0.52,4.2,3.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Multiracial,Ohio,,4.4,,5.8,2.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Other Race,Ohio,,,,9.8,0.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Rural,Ohio,,5.1,,5.6,4.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Some College,Ohio,20,4.3,-0.19,4.7,3.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Suburban,Ohio,,4.6,,5.1,4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - Urban,Ohio,35,5.1,0.42,5.8,4.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Poor Physical Health Days - White,Ohio,29,4.2,0.16,4.5,4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Premature Death,Ohio,40,8998,1.05,9074,8923,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Preventable Hospitalizations,Ohio,42,57,0.67,57.5,56.4,The Dartmouth Atlas of Health Care,2015
+2018,2018 Annual,Primary Care Physicians,Ohio,13,174.6,0.48,,,"Special data request for information on active state licensed physicians provided by Redi-Data, Inc., Sept 28, 2018; U.S. Census Bureau Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2017",2018
+2018,2018 Annual,Public Health Funding,Ohio,46,53,-0.71,,,"Trust For America’s Health; U.S. Department of Health and Human Services (HHS); U.S. Census Bureau, Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2017",2016-2017
+2018,2018 Annual,Salmonella,Ohio,20,13.3,-0.48,0,0,"CDC, National Notifiable Infectious Diseases Surveillance System, Annual Tables of Infectious Disease Data",2016
+2018,2018 Annual,Seat Belt Use,Ohio,37,83.8,-0.49,84.9,82.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Seat Belt Use - $25-$49,999",Ohio,36,83.2,-0.69,85.5,80.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Seat Belt Use - $50-$74,999",Ohio,31,86.2,-0.47,88.7,83.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Seat Belt Use - $75,000 or More",Ohio,31,87.7,-0.74,89.6,85.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Ages 18 to 44,Ohio,40,79.6,-0.96,81.7,77.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Ages 45 to 64,Ohio,36,85.8,-0.82,87.2,84.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Ages 65+,Ohio,35,88.9,-0.53,90.3,87.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Am. Indian,Ohio,,67.3,,88.9,45.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Asian,Ohio,,87.3,,96.7,77.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Black,Ohio,,78.8,,82.6,75,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - College Grad,Ohio,30,90.5,-0.57,91.9,89.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Female,Ohio,40,87.1,-0.99,88.4,85.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Hawaiian PI,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - High School Grad,Ohio,37,82,-0.7,83.9,80.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Hispanic,Ohio,,84.4,,90.9,77.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Seat Belt Use - Less than $25,000",Ohio,38,81.6,-0.83,84,79.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Less Than HS,Ohio,36,81,-0.61,85.4,76.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Male,Ohio,34,80.2,-0.71,81.9,78.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Multiracial,Ohio,,72.6,,83,62.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Other Race,Ohio,,,,104.4,72.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Rural,Ohio,,84.7,,87.2,82.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Some College,Ohio,37,84.7,-0.76,86.7,82.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Suburban,Ohio,,90,,91.8,88.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - Urban,Ohio,42,86.8,-1.15,89.5,84.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Seat Belt Use - White,Ohio,37,84.7,-0.6,85.8,83.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Severe Housing Problems,Ohio,14,14.5,-1.07,0,0,"U.S. Department of Housing and Urban Development, Comprehensive Housing Affordability Strategy (CHAS)",2011-2015
+2018,2018 Annual,Six+ Teeth Extractions,Ohio,38,22.7,0.8,24.5,20.9,"CDC, Behavioral Risk Factor Surveillance System",2016
+2018,2018 Annual,Smoking,Ohio,43,21.1,1.14,22.3,20,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Smoking - $25-$49,999",Ohio,46,24.2,1.41,26.8,21.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Smoking - $50-$74,999",Ohio,30,16.1,0.29,19,13.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Smoking - $75,000 or More",Ohio,38,10.8,0.65,12.6,9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Ages 18-44,Ohio,43,24.5,1.33,26.6,22.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Ages 45-64,Ohio,42,23.2,1.23,25.1,21.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Ages 65+,Ohio,42,11.1,1.16,12.5,9.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - American Indian/Alaskan Native,Ohio,,60.2,,77.9,42.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Asian,Ohio,,,,20.3,2.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Black,Ohio,,24.6,,28.5,20.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - College Grad,Ohio,35,7.4,0.62,8.6,6.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Female,Ohio,42,19.9,1.44,21.5,18.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Hawaiian/Pacific Islander,Ohio,,,,54.8,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - High School Grad,Ohio,45,27.2,1.49,29.3,25.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Hispanic,Ohio,,24.4,,32.7,16.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Smoking - Less Than $25,000",Ohio,43,35.4,1.47,38.2,32.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Less than High School,Ohio,48,42.9,2,48.4,37.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Male,Ohio,42,22.4,1.14,24.2,20.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Multiracial,Ohio,,33.4,,43.7,23.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Other Race,Ohio,,,,79,6.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Rural,Ohio,,17.5,,20,15.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Some College,Ohio,40,20.7,0.86,22.9,18.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Suburban,Ohio,,13.6,,15.8,11.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - Urban,Ohio,,17.7,,20.5,14.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Smoking - White,Ohio,41,20.2,0.9,21.4,18.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke,Ohio,39,3.8,0.98,4.2,3.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Stroke - $25-$49,999",Ohio,,4.3,,5.4,3.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Stroke - $50-$74,999",Ohio,,2.9,,4,1.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Stroke - $75,000 or More",Ohio,,1.3,,1.8,0.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Ages 18-44,Ohio,,0.9,,1.4,0.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Ages 45-64,Ohio,32,4.2,0.39,5,3.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Ages 65+,Ohio,41,8.9,0.95,10.1,7.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - American Indian/Alaskan Native,Ohio,,,,37,1.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Asian,Ohio,,,,3.6,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Black,Ohio,,5.3,,7,3.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - College Grad,Ohio,,2.2,,2.7,1.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Female,Ohio,40,3.8,0.64,4.4,3.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Hawaiian/Pacific Islander,Ohio,,,,54.8,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - High School Grad,Ohio,,4.7,,5.6,3.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Hispanic,Ohio,,,,4.4,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Stroke - Less Than $25,000",Ohio,29,7.3,0.45,8.6,6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Less than High School,Ohio,,8.8,,11.4,6.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Male,Ohio,40,3.8,0.76,4.4,3.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Multiracial,Ohio,,,,4.1,0.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Other Race,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Rural,Ohio,,5.3,,6.6,4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Some College,Ohio,33,3.9,0.43,4.7,3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Suburban,Ohio,,4.5,,5.7,3.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - Urban,Ohio,,6.1,,7.6,4.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Stroke - White,Ohio,33,3.6,0.25,4.1,3.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Suicide,Ohio,19,14.6,0.16,15.3,13.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 15-24,Ohio,,12.8,,14.6,11,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 25-34,Ohio,,20.1,,22.4,17.8,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 35-44,Ohio,,18.1,,20.4,15.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 45-54,Ohio,,19.7,,21.9,17.5,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 55-64,Ohio,,20.4,,22.6,18.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 65-74,Ohio,,14.8,,17.1,12.5,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 75-84,Ohio,,18,,21.9,14.6,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Ages 85+,Ohio,,18.5,,24.6,13.6,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - American Indian/Alaskan Native,Ohio,,,,,,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Asian,Ohio,,8.7,,12.9,5.6,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Black,Ohio,,7.5,,8.9,6.2,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Female,Ohio,,6.1,,6.8,5.5,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Hispanic,Ohio,,6.8,,10.7,4,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - Male,Ohio,,23.8,,25.1,22.5,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Suicide - White,Ohio,,15.7,,16.5,14.9,"CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files",2016
+2018,2018 Annual,Tdap Immunizations,Ohio,18,90.6,0.45,93.3,86.9,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Tdap Immunizations - Above Poverty,Ohio,27,89.5,,92.8,84.9,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Tdap Immunizations - Below Poverty,Ohio,0,92.3,,96.7,83,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Tdap Immunizations - Black,Ohio,0,97.6,,99.7,84.5,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Tdap Immunizations - Hispanic,Ohio,0,,,,,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,Tdap Immunizations - White,Ohio,25,89.6,,92.9,85,"CDC, National Immunization Survey-Teen",2017
+2018,2018 Annual,"Teeth Extractions - $25-$49,999",Ohio,38,26.7,0.9,30.9,22.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Teeth Extractions - $50-$74,999",Ohio,27,14.4,0.03,18.4,10.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Teeth Extractions - $75,000 or More",Ohio,32,7.2,0.36,9.1,5.4,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - American Indian/Alaskan Native,Ohio,,,,48.5,6.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Asian,Ohio,,,,25.5,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Black,Ohio,,34.1,,41.1,27.2,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - College Grad,Ohio,32,6.3,0.2,7.8,4.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Female,Ohio,38,22.3,0.64,24.6,20,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Hawaiian/Pacific Islander,Ohio,,,,,,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - High School Grad,Ohio,37,29.1,0.82,32.2,25.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Hispanic,Ohio,,,,23.3,2.6,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,"Teeth Extractions - Less Than $25,000",Ohio,40,45.2,1.1,49.9,40.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Less than High School,Ohio,45,58.1,1.85,66.9,49.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Male,Ohio,38,23,0.9,25.8,20.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Multiracial,Ohio,,,,36.4,9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Other Race,Ohio,,,,23.2,0,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Rural,Ohio,,28.1,,32,24.3,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Some College,Ohio,37,18,0.57,20.8,15.1,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Suburban,Ohio,,20.1,,23.8,16.5,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - Urban,Ohio,,20.6,,24.2,16.9,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Teeth Extractions - White,Ohio,40,21.6,0.79,23.4,19.7,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Underemployment Rate,Ohio,36,9.2,0.45,,,"U.S. Department of Labor, Bureau of Labor Statistics ",2017
+2018,2018 Annual,"Unemployment Rate, Annual",Ohio,43,5,0.63,,,"U.S. Department of Labor, Bureau of Labor Statistics ",2017
+2018,2018 Annual,Uninsured,Ohio,14,5.8,-0.96,,,"U.S. Census Bureau, American Community Survey",2016-2017
+2018,2018 Annual,Vegetables,Ohio,29,1.9,-0.38,1.9,1.8,"CDC, Behavioral Risk Factor Surveillance System",2017
+2018,2018 Annual,Violent Crime,Ohio,18,298,-0.64,,,"U.S. Department of Justice, Federal Bureau of Investigation",2017
+2018,2018 Annual,Voter Registration,Ohio,22,72.1,0.42,74,70.2,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Ages 18-24 ,Ohio,,43.5,,49.2,37.8,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Ages 25-34,Ohio,,62.6,,67.2,58,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Ages 35-44,Ohio,,70.9,,75.4,66.4,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Ages 45-64,Ohio,,69.1,,72.2,66,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Ages 65+,Ohio,,74,,77.7,70.3,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Asian,Ohio,,52.5,,74.3,30.7,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Black,Ohio,,71.8,,78.4,65.2,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Female,Ohio,,74.3,,76.9,71.7,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Hispanic,Ohio,,68.9,,90.6,47.2,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - Male,Ohio,,69.7,,72.6,66.8,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Voter Registration - White,Ohio,,72.2,,74.2,70.2,"U.S. Census Bureau, Current Population Survey, Voter Registration",2016
+2018,2018 Annual,Water Fluoridation,Ohio,11,92.7,0.8,,,"CDC, Water Fluoridation Reporting System",2014
