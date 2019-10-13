@@ -1,0 +1,30 @@
+
+1. "Infant mortality is a key indicator of health and the effectiveness of a health care system," says the United Health Foundation in it's annual compilation of Health Rankings.  Additionally, per HealthCatalyst quoting the WHO, CMS, The Joint Commission and the National Association for Healthcare Quality, mortality as a whole is the number one population health outcome measure.  
+
+https://www.healthcatalyst.com/insights/top-7-healthcare-outcome-measures
+https://www.americashealthrankings.org/explore/annual/measure/IMR/state/OH?edition-year=2015
+
+2. Mortality statistics are gathered by the CDC and the (NCHS) National Vital Statistics System.  Infant mortality is defined as the death of child before their first birthday.  The infant mortality rate is the number of infant deaths recorded for every 1,000 live births, per the CDC.  The overall infant mortality rate for the United States in 2017 was 5.8 deaths per 1,000 live births.  
+
+
+https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm#targetText=Infant%20mortality%20is%20the%20death,for%20every%201%2C000%20live%20births.&targetText=In%202017%2C%20the%20infant%20mortality,deaths%20per%201%2C000%20live%20births.
+
+3.  Now that the importance of infant mortality has been defined, the next logical question becomes, what are the leading causes of death for a newborn.  Per the CDC in the year 2017, the top five causes of death were: 1. Birth Defects, 2. Preterm Birth / low birth weight, 3. Maternal Pregnancy Complications 4. Sudden Infant Death Syndrome (SIDS) and 5. Injuries.  A more concerning statistic is that the 2018 infant mortality level was 579.3 per 100,000 births in the US, but remained statistically unchanged from 2016, with 587.0 deaths per 100,000. The only significant change from 2016 - 2017 was that two of the leading causes of death, SIDS and Unintential Injury, shifted with a 10.7% increase in injury.  SIDS dropped ranking from third to fourth.  
+
+https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm#targetText=Infant%20mortality%20is%20the%20death,for%20every%201%2C000%20live%20births.&targetText=In%202017%2C%20the%20infant%20mortality,deaths%20per%201%2C000%20live%20births.
+
+4. Within the state of Ohio, the infant mortality picture is even more grim, ranking 41 (tied with N. Carolina out of 50 states) with a rate of 7.3 in 2018, an increase from 2017's rate of 7.0.  In the annual report of America's Health Rankings by the United Health Foundation, Ohio has some strengths such as a low uninsured population and a high rate of primary care physicians, but our challenges come from a high rate of smoking, air pollution and low rates of immunization among children.  One of the goals of this project is to see what information we can discover as to why the infant mortality rate in Ohio is on the rise and why is it so high compared to other states.  
+
+https://www.americashealthrankings.org/explore/annual/measure/IMR/state/OH?edition-year=2018
+
+
+5. Our three questions for machine learning are:
+1.	How do maternal characteristic impact the APGAR score?
+2.	How do labor characteristics impact the APGAR score?
+3.	How do delivery characteristics impact the APGAR score?
+
+
+6. Apgar scores are the baseline test performed on the infant at 1, five and 10 minutes after birth, which are indicators of how well the baby is doing outside of the mother.  The apgar scoring used, introduced in 1952, is scored for the categores of breathing effort, heart rate, muscle tone, reflexes and color.  Each category gets a score of 0 - 2 for a usual score from 1 to 10 in total.  Most scores for healthy babies range from 7 - 9 with a 10 being unsual, since almost all newborns lose a point for blue skin color in the hands and feet, which is normal immediately after birth.  Apgar scoring is not intended to predict the long-term health of a child, but is used as an indicator of needing additonal medical attention for infants with scores lower than seven, particularly after the five minute mark.  
+
+https://medlineplus.gov/ency/article/003402.htm#targetText=The%20Apgar%20score%20is%20based,newborn%20is%20in%20good%20health.
+
