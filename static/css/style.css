@@ -7,11 +7,11 @@ container-text center p{
 
 }
 jumbotron {
-  background-color: #e9ecef;
+  background-color: #f5dbe2;
 }
 h1 {
   background-color: #e9ecef;
-  color: #70483c !important;
+  color: #70483c;
 }
 mainNav {
   color: #70483c 
