@@ -51,7 +51,7 @@
  
 
 <!-- API key -->
-  <script type="text/javascript" src="static/config/config.js"></script>
+  <!--<script type="text/javascript" src="static/config/config.js"></script> -->
   
     <!-- JS  -->
   <!--<script type="text/javascript" href="static/js/logic.js"></script> -->
@@ -76,14 +76,15 @@
               <a class="nav-link js-scroll-trigger" href="#topicintro">Topic Introduction</a>
             </li> 
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#input">Input Form</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#d3Map">Visualization</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#machinelearning">Machine Learning</a>
+            </li>          
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#input">Input Form</a>
             </li>
+                      
             <!-- <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#newsjs">Current News</a>
             </li>
@@ -204,36 +205,7 @@
         </div>
       </div>
    </section>  
-
-        <!-- Section for Input form -->   
-        <section id="input" class="bg-light">
-          <div class="form">
-            <div class="row">
-              <div class="col-lg-12 mx-auto">
-                <div class="greybox">
-                  <h2>Input Form</h2>
-                  <p class="lead"> Please input data to receive prediction</p>
-                </div>
-                <br><br>
-                <div class='row'>
-                  <div class="col-lg-12">
-                    <div class=''>
-                      <form method="POST" action="{{ url_for('predict')}}">
-                        <input type="text" name"namequery">
-                        <button type="submit" class"btn btn-primary">Predict
-                          
-                        </button>
-                      </form>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-        </section>
+    
         
         <!-- Section for D3 map -->
       <section id="d3Map" class="bg-light">
@@ -241,8 +213,8 @@
           <div class="row">
             <div class="col-lg-12 mx-auto">
               <div class="greybox">
-                <h2>Microbiome Visualization</h2>
-                  <p class="lead"> Select a Map Topic to View</p>
+                <h2>Visualizations</h2>
+                  <p class="lead"> Select a Topic to View</p>
               </div>
               <!--<div class="spacer" style="height:200px"></div> -->
                 <br><br>
@@ -273,7 +245,7 @@
                 <div class='col-md-12 col-md-12'>
                   <div class='greybox'>
                     <h2>Machine Learning</h2>
-                    <p> Marchine Learning.</p>
+                    <p> Machine Learning.</p>
                     <P> Machine Learning </P>
                   </div>
                 </div>
@@ -337,6 +309,35 @@
                 </div>
               </div>
            </section>  -->
+           <!-- Section for Input form -->   
+        <section id="input" class="bg-light">
+          <div class="form">
+            <div class="row">
+              <div class="col-lg-12 mx-auto">
+                <div class="greybox">
+                  <h2>Input Form</h2>
+                  <p class="lead"> Please input data to receive prediction</p>
+                </div>
+                <br><br>
+                <div class='row'>
+                  <div class="col-lg-12">
+                    <div class=''>
+                      <form method="POST" action="{{ url_for('predict')}}">
+                        <input type="text" name"namequery">
+                        <button type="submit" class"btn btn-primary">Predict
+                          
+                        </button>
+                      </form>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </section>
            <!-- CONCLUSIONS -->
       <section id='conclusions' class="container">
           <div class="container">

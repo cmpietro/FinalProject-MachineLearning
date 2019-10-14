@@ -1,0 +1,49 @@
+OUTLINE OF THE STORY
+
+1. Introduction to the TEAM
+Who are we as people - 
+
+2. Introduction to the TOPIC
+a. What is infant mortality - and - Why are we studying it. 
+b. How are mortality stats calculated, what else do we know about infant mortality in the US. 
+c. Who controls the data - where did we get the majority of our data from?  How is it presented. 
+d. What specifically about infant mortality are we hoping to learn more about?  
+e. Define the high level components of our project: 
+	a. APGAR SCORES
+	b. Maternal / infant health related categories
+	c. machine learning
+f. What about Ohio?
+
+4. Visualizations of the topic -- 
+a. Static with explanations and history
+b. Tableau - Current data
+
+5. Introduction to the Machine Learning 
+a. What is it?
+b. How did we use it HERE?
+c. How to interact with our model -- 
+
+6. Input form 
+a. Instructions for use
+b. USE
+c. ??????
+
+7. Conclusions to our learning
+a. Summarize the PROJECT
+b. Summarize the Machine Learning - What did our model do and what didn't it do?
+c. Summarize the TOPIC -- Where would we LIKE for the topic / model to go?
+
+8. References and Links
+a. Links to our team members - Where would you like for users to go to get to know more about you?
+b. What inspired us to review this topic?  
+c. What resources were confirmed used in the process of this project?
+d. What technology and processes did we use. 
+e. Link to the Git repository and Wiki?
+
+
+
+
+
+How will the user / visitor / USE OUR application?
+
+
