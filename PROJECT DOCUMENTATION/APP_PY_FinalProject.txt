@@ -1,0 +1,31 @@
+PSEUDO CODING FOR THE APP.PY for the final project
+
+1. Import needed enviromental tools
+a. Flask
+b. flask_bootstrap
+c. Bootstrap
+d. pandas
+e. numpy
+f. sklearn extraction text 
+g. OTHER machine learning libraries (?)
+h. OTHER LIBRARIES (?)
+
+2. Define the app to flask and bootstrap 
+app = Flask(__name__)
+Bootstrapp(app)
+
+3. Define the first route to the index.html 
+@app.route('/')
+def indesx():
+	return render_template('index.html')
+
+then if __name__=='__main__':
+	app.run(debug=True)
+
+4. Define the next route 
+Machine learning model? 
+
+5.  Define the next route
+
+
+
