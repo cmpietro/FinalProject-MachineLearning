@@ -1,0 +1,9 @@
+Mother's Education Code,Mother's Education,% of Total Births,Average Age of Mother (years),Average Birth Weight (grams),Average Number of Prenatal Visits,Average OE Gestational Age (weeks),Births,Standard Deviation for Average Age of Mother,Standard Deviation for Average Birth Weight,Standard Deviation for Average Number of Prenatal Visits,Standard Deviation for Average OE Gestational Age
+1,8th grade or less,0.0311,29.82,3269.84,9.59,38.51,117820,6.69,570.76,4.55,2.05
+2,9th through 12th grade with no diploma,0.0944,25.41,3166.25,9.94,38.26,357769,6.5,597.13,4.62,2.26
+3,High school graduate or GED completed,0.255,26.58,3214.23,10.85,38.34,966898,5.59,598.99,4.31,2.21
+4,"Some college credit, but not a degree",0.1981,28.09,3254.56,11.41,38.37,751020,5.31,598.28,4.21,2.15
+5,"Associate degree (AA, AS)",0.0827,29.94,3290.44,11.79,38.41,313569,4.89,593.49,3.97,2.09
+6,"Bachelor's degree (BA, AB, BS)",0.2041,31.5,3329.72,11.97,38.62,773821,4.41,567.52,3.76,1.93
+7,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",0.0943,32.99,3323.56,12.13,38.63,357744,3.95,569.24,3.73,1.93
+8,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",0.0275,33.96,3298.5,12.15,38.62,104084,3.82,556.69,3.82,1.89

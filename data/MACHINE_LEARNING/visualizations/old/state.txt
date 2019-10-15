@@ -1,0 +1,81 @@
+"Notes"	"State of Residence"	"State of Residence Code"	Births	Average Birth Weight (grams)	Standard Deviation for Average Birth Weight	Average Number of Prenatal Visits	Standard Deviation for Average Number of Prenatal Visits	Average Interval Since Last Live Birth (months)	Standard Deviation for Average Interval Since Last Live Birth
+	"Alabama"	"01"	57761	3184.39	614.49	10.52	3.74	50.39	37.39
+	"Alaska"	"02"	10086	3400.19	588.57	10.79	4.37	45.61	33.45
+	"Arizona"	"04"	80723	3276.34	577.62	10.72	4.29	50.53	38.32
+	"Arkansas"	"05"	37018	3228.43	594.96	10.50	3.87	49.00	36.10
+	"California"	"06"	454920	3288.10	567.90	11.88	4.25	54.42	39.92
+	"Colorado"	"08"	62885	3185.43	557.95	10.52	3.97	48.37	35.69
+	"Connecticut"	"09"	34725	3293.07	588.19	12.46	3.85	53.75	40.19
+	"Delaware"	"10"	10621	3250.47	601.35	10.36	3.87	52.79	38.25
+	"District of Columbia"	"11"	9212	3205.47	609.55	10.28	4.02	51.73	37.64
+	"Florida"	"12"	221542	3239.27	594.08	10.73	4.08	54.47	41.10
+	"Georgia"	"13"	126172	3198.96	609.70	11.36	4.86	52.06	39.33
+	"Hawaii"	"15"	16972	3224.87	584.97	10.35	4.98	50.84	37.92
+	"Idaho"	"16"	21403	3288.50	567.36	11.66	3.50	44.81	32.66
+	"Illinois"	"17"	144815	3260.21	599.05	11.43	4.12	49.96	37.31
+	"Indiana"	"18"	81646	3282.81	597.10	11.30	3.87	46.97	34.84
+	"Iowa"	"19"	37785	3337.48	585.71	11.84	3.56	45.62	33.19
+	"Kansas"	"20"	36261	3300.24	578.75	11.12	3.14	46.75	34.05
+	"Kentucky"	"21"	53922	3260.28	602.31	11.80	4.35	47.86	35.45
+	"Louisiana"	"22"	59615	3166.77	608.31	11.57	4.49	51.53	39.03
+	"Maine"	"23"	12311	3338.46	589.36	13.32	4.32	47.68	34.41
+	"Maryland"	"24"	71080	3257.22	611.89	10.81	4.02	52.26	38.56
+	"Massachusetts"	"25"	69109	3297.60	583.56	11.88	3.48	51.48	38.53
+	"Michigan"	"26"	110032	3276.48	603.19	12.38	4.97	46.68	34.83
+	"Minnesota"	"27"	67344	3346.88	590.98	11.61	3.89	44.44	32.81
+	"Mississippi"	"28"	37000	3138.51	623.25	11.76	4.41	51.64	38.29
+	"Missouri"	"29"	73269	3265.99	598.78	11.01	3.84	46.74	35.12
+	"Montana"	"30"	11513	3287.38	564.47	11.08	3.92	44.94	32.69
+	"Nebraska"	"31"	25488	3310.71	582.61	11.48	4.47	45.71	33.05
+	"Nevada"	"32"	35682	3221.70	569.23	11.44	5.64	52.75	40.19
+	"New Hampshire"	"33"	11995	3350.39	589.25	12.65	3.89	48.17	35.12
+	"New Jersey"	"34"	101223	3259.03	579.61	10.59	3.49	52.68	39.95
+	"New Mexico"	"35"	23039	3183.01	555.80	10.08	4.24	52.04	38.20
+	"New York"	"36"	226238	3261.10	582.87	11.21	3.71	52.59	39.91
+	"North Carolina"	"37"	118954	3248.04	610.88	12.12	4.76	52.01	38.51
+	"North Dakota"	"38"	10636	3347.09	576.50	10.66	3.35	42.83	31.63
+	"Ohio"	"39"	135134	3263.29	600.01	11.56	4.37	45.81	34.17
+	"Oklahoma"	"40"	49800	3258.16	591.12	10.81	3.82	48.12	35.79
+	"Oregon"	"41"	42188	3341.05	571.40	11.68	3.77	50.08	37.09
+	"Pennsylvania"	"42"	135673	3280.38	600.87	11.47	4.51	47.04	34.95
+	"Rhode Island"	"44"	10506	3296.90	588.83	11.68	4.43	53.84	39.25
+	"South Carolina"	"45"	56669	3221.99	608.11	11.98	4.69	51.16	37.82
+	"South Dakota"	"46"	11893	3332.82	565.53	10.59	3.58	44.19	32.64
+	"Tennessee"	"47"	80751	3239.03	608.62	11.11	4.26	49.13	36.53
+	"Texas"	"48"	378624	3233.89	581.01	10.36	4.08	51.71	38.41
+	"Utah"	"49"	47209	3266.45	551.64	11.16	3.21	43.45	30.17
+	"Vermont"	"50"	5432	3343.94	589.77	12.82	3.43	48.36	33.17
+	"Virginia"	"51"	99843	3275.53	599.97	11.48	3.95	51.00	38.14
+	"Washington"	"53"	86085	3339.85	578.69	11.13	3.88	48.44	35.35
+	"West Virginia"	"54"	18248	3241.00	604.06	11.50	4.29	48.64	35.85
+	"Wisconsin"	"55"	64098	3313.65	599.29	12.14	3.92	45.23	33.91
+	"Wyoming"	"56"	6562	3173.17	546.28	10.46	3.71	45.14	32.90
+"Total"			3791712	3261.64	590.66	11.30	4.20	50.43	37.70
+"---"
+"Dataset: Natality, 2016-2018 expanded"
+"Query Parameters:"
+"Title: Q3_datasource"
+"Year: 2018"
+"Group By: State of Residence"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 14, 2019 3:49:16 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2018, on CDC"
+"WONDER Online Database, September 2019. Accessed at http://wonder.cdc.gov/natality-expanded-current.html on Oct 14, 2019 3:49:16"
+"PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth"
+"Weight"" measure."
+"3. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."
+"4. Records where the ""Interval Since Last Live Birth"" is ""Unknown or Not Stated"" or ""Zero to 3 months"" are not included in"
+"the calculation of the ""Average Interval Since Last Live Birth"" measure."

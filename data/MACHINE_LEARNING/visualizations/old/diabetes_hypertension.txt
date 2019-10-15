@@ -1,0 +1,65 @@
+"Notes"	"Pre-pregnancy Diabetes"	"Pre-pregnancy Diabetes Code"	"Gestational Diabetes"	"Gestational Diabetes Code"	"Pre-pregnancy Hypertension"	"Pre-pregnancy Hypertension Code"	"Gestational Hypertension"	"Gestational Hypertension Code"	Births	% of Total Births	Average Age of Mother (years)	Standard Deviation for Average Age of Mother	Average OE Gestational Age (weeks)	Standard Deviation for Average OE Gestational Age	Average Birth Weight (grams)	Standard Deviation for Average Birth Weight	Average Pre-pregnancy BMI	Standard Deviation for Average Pre-pregnancy BMI	Average Number of Prenatal Visits	Standard Deviation for Average Number of Prenatal Visits
+	"Yes"	"1"	"No"	"2"	"Yes"	"1"	"No"	"2"	5953	0.16%	32.79	5.83	36.06	3.14	3012.45	890.51	37.08	9.05	13.44	6.56
+"Total"	"Yes"	"1"	"No"	"2"	"Yes"	"1"			5953	0.16%	32.79	5.83	36.06	3.14	3012.45	890.51	37.08	9.05	13.44	6.56
+	"Yes"	"1"	"No"	"2"	"No"	"2"	"Yes"	"1"	5935	0.16%	30.86	6.08	36.11	2.48	3126.46	822.62	33.47	8.25	13.05	6.12
+	"Yes"	"1"	"No"	"2"	"No"	"2"	"No"	"2"	23847	0.63%	31.00	5.86	37.36	2.46	3341.37	740.69	31.36	7.90	13.06	5.85
+"Total"	"Yes"	"1"	"No"	"2"	"No"	"2"			29782	0.79%	30.97	5.90	37.11	2.51	3298.51	762.59	31.78	8.02	13.06	5.91
+"Total"	"Yes"	"1"	"No"	"2"					35735	0.94%	31.27	5.93	36.94	2.66	3250.89	792.52	32.66	8.43	13.12	6.02
+"Total"	"Yes"	"1"							35735	0.94%	31.27	5.93	36.94	2.66	3250.89	792.52	32.66	8.43	13.12	6.02
+	"No"	"2"	"Yes"	"1"	"Yes"	"1"	"No"	"2"	11893	0.31%	33.04	5.52	36.97	2.36	3083.36	729.73	36.12	8.62	13.29	5.79
+"Total"	"No"	"2"	"Yes"	"1"	"Yes"	"1"			11893	0.31%	33.04	5.52	36.97	2.36	3083.36	729.73	36.12	8.62	13.29	5.79
+	"No"	"2"	"Yes"	"1"	"No"	"2"	"Yes"	"1"	32287	0.85%	31.30	5.90	37.00	2.17	3097.76	711.03	33.45	8.24	12.41	5.09
+	"No"	"2"	"Yes"	"1"	"No"	"2"	"No"	"2"	208342	5.49%	31.30	5.53	38.18	1.79	3314.73	584.60	29.65	7.29	12.40	4.63
+"Total"	"No"	"2"	"Yes"	"1"	"No"	"2"			240629	6.35%	31.30	5.58	38.02	1.89	3285.62	607.62	30.16	7.53	12.40	4.69
+"Total"	"No"	"2"	"Yes"	"1"					252522	6.66%	31.38	5.59	37.97	1.93	3276.09	615.41	30.44	7.69	12.44	4.75
+	"No"	"2"	"No"	"2"	"Yes"	"1"	"No"	"2"	60464	1.59%	30.95	5.85	37.14	2.80	2970.09	727.50	33.11	8.87	11.93	5.16
+"Total"	"No"	"2"	"No"	"2"	"Yes"	"1"			60464	1.59%	30.95	5.85	37.14	2.80	2970.09	727.50	33.11	8.87	11.93	5.16
+	"No"	"2"	"No"	"2"	"No"	"2"	"Yes"	"1"	233374	6.15%	28.78	5.99	37.38	2.42	3015.77	693.59	29.82	7.65	11.36	4.36
+	"No"	"2"	"No"	"2"	"No"	"2"	"No"	"2"	3206735	84.57%	28.77	5.75	38.59	2.04	3284.13	568.94	26.55	6.33	11.18	4.07
+"Total"	"No"	"2"	"No"	"2"	"No"	"2"			3440109	90.73%	28.78	5.77	38.51	2.09	3265.92	582.17	26.77	6.48	11.19	4.09
+"Total"	"No"	"2"	"No"	"2"					3500573	92.32%	28.81	5.78	38.49	2.11	3260.81	586.26	26.88	6.58	11.20	4.11
+"Total"	"No"	"2"							3753095	98.98%	28.99	5.80	38.45	2.10	3261.84	588.28	27.12	6.72	11.28	4.17
+	"Unknown or Not Stated"	"9"	"Unknown or Not Stated"	"9"	"Unknown or Not Stated"	"9"	"Unknown or Not Stated"	"9"	2882	0.08%	28.45	5.97	37.85	3.44	3116.18	741.13	26.59	6.59	7.41	5.92
+"Total"	"Unknown or Not Stated"	"9"	"Unknown or Not Stated"	"9"	"Unknown or Not Stated"	"9"			2882	0.08%	28.45	5.97	37.85	3.44	3116.18	741.13	26.59	6.59	7.41	5.92
+"Total"	"Unknown or Not Stated"	"9"	"Unknown or Not Stated"	"9"					2882	0.08%	28.45	5.97	37.85	3.44	3116.18	741.13	26.59	6.59	7.41	5.92
+"Total"	"Unknown or Not Stated"	"9"							2882	0.08%	28.45	5.97	37.85	3.44	3116.18	741.13	26.59	6.59	7.41	5.92
+"Total"									3791712	100.00%	29.01	5.81	38.44	2.12	3261.64	590.66	27.17	6.76	11.30	4.20
+"---"
+"Dataset: Natality, 2016-2018 expanded"
+"Query Parameters:"
+"Title: state_data"
+"Year: 2018"
+"Group By: Pre-pregnancy Diabetes; Gestational Diabetes; Pre-pregnancy Hypertension; Gestational Hypertension"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 14, 2019 5:09:17 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2018, on CDC"
+"WONDER Online Database, September 2019. Accessed at http://wonder.cdc.gov/natality-expanded-current.html on Oct 14, 2019 5:09:17"
+"PM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"3. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", and ""Not on Certificate"" from the denominator when calculating percentages."
+"4. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth"
+"Weight"" measure."
+"5. Records where the gestation age is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Gestational"
+"Age"" measure."
+"6. Records where the ""BMI"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Pre-pregnancy"
+"BMI"" measure."
+"7. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."

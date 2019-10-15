@@ -1,0 +1,47 @@
+﻿% of Total Births,Average Age of Mother (years),Average Birth Weight (grams),Average Number of Prenatal Visits,Average OE Gestational Age (weeks),Average Pre-pregnancy BMI,Births,Mother's Single Race 6 Code,Mother's Single Race 61,Notes,Number of Records,Standard Deviation for Average Age of Mother,Standard Deviation for Average Birth Weight,Standard Deviation for Average Number of Prenatal Visits,Standard Deviation for Average OE Gestational Age,Standard Deviation for Average Pre-pregnancy BMI
+0.0096,27.12,3305.39,9.74,38.31,28.88,36484,1002-5,American Indian or Alaska Native,,1,5.86,605.8,4.58,2.13,6.98
+0.0667,31.78,3167.16,11.46,38.48,23.94,252885,A,Asian,,1,4.94,537.25,3.92,1.92,4.62
+0.1585,27.88,3075.79,10.48,38.05,28.85,600933,2054-5,Black or African American,,1,6.01,641.83,4.66,2.62,7.58
+0.0033,27.87,3263.12,9.19,38.34,29.71,12401,NHOPI,Native Hawaiian or Other Pacific Islander,,1,5.88,612.38,4.84,2.24,7.16
+0.7354,29.08,3310.54,11.5,38.52,27.06,2788439,2106-3,White,,1,5.73,573.95,4.07,1.99,6.6
+0.0265,27.59,3237.63,11.1,38.41,27.59,100570,M,More than one race,,1,6.01,597.42,4.47,2.18,7.1
+1,29.01,3261.64,11.3,38.44,27.17,3791712,,,Total,1,5.81,590.66,4.2,2.12,6.76
+,,,,,,,,,---,1,,,,,
+,,,,,,,,,"Dataset: Natality, 2016-2018 expanded",1,,,,,
+,,,,,,,,,Query Parameters:,1,,,,,
+,,,,,,,,,Title: state_data,1,,,,,
+,,,,,,,,,Year: 2018,1,,,,,
+,,,,,,,,,Group By: Mother's Single Race 6,1,,,,,
+,,,,,,,,,Show Totals: True,1,,,,,
+,,,,,,,,,Show Zero Values: False,1,,,,,
+,,,,,,,,,Show Suppressed: False,1,,,,,
+,,,,,,,,,"Calculate Rates Per: 1,000",1,,,,,
+,,,,,,,,,---,1,,,,,
+,,,,,,,,,Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information.,1,,,,,
+,,,,,,,,,---,1,,,,,
+,,,,,,,,,"Query Date: Oct 14, 2019 5:00:45 PM",1,,,,,
+,,,,,,,,,---,1,,,,,
+,,,,,,,,,"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention",1,,,,,
+,,,,,,,,,"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2018, on CDC",1,,,,,
+,,,,,,,,,"WONDER Online Database, September 2019. Accessed at http://wonder.cdc.gov/natality-expanded-current.html on Oct 14, 2019 5:00:45",1,,,,,
+,,,,,,,,,PM,1,,,,,
+,,,,,,,,,---,1,,,,,
+,,,,,,,,,Messages:,1,,,,,
+,,,,,,,,,1. Rows with zero Births are hidden. Use Quick Options above to show zero rows.,1,,,,,
+,,,,,,,,,---,1,,,,,
+,,,,,,,,,Caveats:,1,,,,,
+,,,,,,,,,1. Each birth record represents one living baby.,1,,,,,
+,,,,,,,,,2. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years.,1,,,,,
+,,,,,,,,,All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a,1,,,,,
+,,,,,,,,,great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average,1,,,,,
+,,,,,,,,,Age of Mother measure.,1,,,,,
+,,,,,,,,,3. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes,1,,,,,
+,,,,,,,,,"births categorized as ""Unknown"", ""Not Stated"", and ""Not on Certificate"" from the denominator when calculating percentages.",1,,,,,
+,,,,,,,,,"4. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth",1,,,,,
+,,,,,,,,,"Weight"" measure.",1,,,,,
+,,,,,,,,,"5. Records where the gestation age is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Gestational",1,,,,,
+,,,,,,,,,"Age"" measure.",1,,,,,
+,,,,,,,,,"6. Records where the ""BMI"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Pre-pregnancy",1,,,,,
+,,,,,,,,,"BMI"" measure.",1,,,,,
+,,,,,,,,,"7. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the",1,,,,,
+,,,,,,,,,"""Average Number of Prenatal Visits"" measure.",1,,,,,

@@ -1,0 +1,48 @@
+"Notes"	"Mother's Education"	"Mother's Education Code"	Births	% of Total Births	Average Age of Mother (years)	Standard Deviation for Average Age of Mother	Average OE Gestational Age (weeks)	Standard Deviation for Average OE Gestational Age	Average Birth Weight (grams)	Standard Deviation for Average Birth Weight	Average Number of Prenatal Visits	Standard Deviation for Average Number of Prenatal Visits
+	"8th grade or less"	"1"	117820	3.11%	29.82	6.69	38.51	2.05	3269.84	570.76	9.59	4.55
+	"9th through 12th grade with no diploma"	"2"	357769	9.44%	25.41	6.50	38.26	2.26	3166.25	597.13	9.94	4.62
+	"High school graduate or GED completed"	"3"	966898	25.50%	26.58	5.59	38.34	2.21	3214.23	598.99	10.85	4.31
+	"Some college credit, but not a degree"	"4"	751020	19.81%	28.09	5.31	38.37	2.15	3254.56	598.28	11.41	4.21
+	"Associate degree (AA, AS)"	"5"	313569	8.27%	29.94	4.89	38.41	2.09	3290.44	593.49	11.79	3.97
+	"Bachelor's degree (BA, AB, BS)"	"6"	773821	20.41%	31.50	4.41	38.62	1.93	3329.72	567.52	11.97	3.76
+	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	357744	9.43%	32.99	3.95	38.63	1.93	3323.56	569.24	12.13	3.73
+	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	104084	2.75%	33.96	3.82	38.62	1.89	3298.50	556.69	12.15	3.82
+	"Unknown or Not Stated"	"Unk"	48987	1.29%	30.30	6.27	38.15	2.93	3191.76	674.58	10.68	4.82
+"Total"			3791712	100.00%	29.01	5.81	38.44	2.12	3261.64	590.66	11.30	4.20
+"---"
+"Dataset: Natality, 2016-2018 expanded"
+"Query Parameters:"
+"Title: state_data"
+"Year: 2018"
+"Group By: Mother's Education"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 14, 2019 4:32:40 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2018, on CDC"
+"WONDER Online Database, September 2019. Accessed at http://wonder.cdc.gov/natality-expanded-current.html on Oct 14, 2019 4:32:40"
+"PM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"3. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", and ""Not on Certificate"" from the denominator when calculating percentages."
+"4. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth"
+"Weight"" measure."
+"5. Records where the gestation age is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Gestational"
+"Age"" measure."
+"6. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."

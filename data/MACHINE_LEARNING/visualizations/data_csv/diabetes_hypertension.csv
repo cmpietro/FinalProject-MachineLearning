@@ -1,0 +1,10 @@
+Pre-pregnancy Diabetes Code,Pre-pregnancy Diabetes,Pre-pregnancy Hypertension Code,Pre-pregnancy Hypertension,Gestational Diabetes Code,Gestational Diabetes,Gestational Hypertension Code,Gestational Hypertension,% of Total Births,Average Age of Mother (years),Average Birth Weight (grams),Average Number of Prenatal Visits,Average OE Gestational Age (weeks),Average Pre-pregnancy BMI,Births,Notes,Number of Records,Standard Deviation for Average Age of Mother,Standard Deviation for Average Birth Weight,Standard Deviation for Average Number of Prenatal Visits,Standard Deviation for Average OE Gestational Age,Standard Deviation for Average Pre-pregnancy BMI
+1,Yes,1,Yes,2,No,2,No,0.0016,32.79,3012.45,13.44,36.06,37.08,5953,,1,5.83,890.51,6.56,3.14,9.05
+1,Yes,2,No,2,No,1,Yes,0.0016,30.86,3126.46,13.05,36.11,33.47,5935,,1,6.08,822.62,6.12,2.48,8.25
+1,Yes,2,No,2,No,2,No,0.0063,31,3341.37,13.06,37.36,31.36,23847,,1,5.86,740.69,5.85,2.46,7.9
+2,No,1,Yes,1,Yes,2,No,0.0031,33.04,3083.36,13.29,36.97,36.12,11893,,1,5.52,729.73,5.79,2.36,8.62
+2,No,2,No,1,Yes,1,Yes,0.0085,31.3,3097.76,12.41,37,33.45,32287,,1,5.9,711.03,5.09,2.17,8.24
+2,No,2,No,1,Yes,2,No,0.0549,31.3,3314.73,12.4,38.18,29.65,208342,,1,5.53,584.6,4.63,1.79,7.29
+2,No,1,Yes,2,No,2,No,0.0159,30.95,2970.09,11.93,37.14,33.11,60464,,1,5.85,727.5,5.16,2.8,8.87
+2,No,2,No,2,No,1,Yes,0.0615,28.78,3015.77,11.36,37.38,29.82,233374,,1,5.99,693.59,4.36,2.42,7.65
+2,No,2,No,2,No,2,No,0.8457,28.77,3284.13,11.18,38.59,26.55,3206735,,1,5.75,568.94,4.07,2.04,6.33

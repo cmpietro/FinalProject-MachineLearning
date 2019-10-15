@@ -1,0 +1,103 @@
+"Notes"	"State of Residence"	"State of Residence Code"	Births	Total Population	Birth Rate	Female Population	Fertility Rate	% of Total Births	Average Age of Mother (years)	Standard Deviation for Average Age of Mother	Average OE Gestational Age (weeks)	Average Birth Weight (grams)	Standard Deviation for Average Birth Weight	Average Number of Prenatal Visits	Standard Deviation for Average Number of Prenatal Visits
+	"Alabama"	"01"	57761	4887871	11.82	948768	60.88	1.52%	27.42	5.60	38.15	3184.39	614.49	10.52	3.74
+	"Alaska"	"02"	10086	737438	13.68	145589	69.28	0.27%	28.56	5.59	38.59	3400.19	588.57	10.79	4.37
+	"Arizona"	"04"	80723	7171646	11.26	1377098	58.62	2.13%	28.37	5.84	38.45	3276.34	577.62	10.72	4.29
+	"Arkansas"	"05"	37018	3013825	12.28	577998	64.05	0.98%	27.03	5.64	38.24	3228.43	594.96	10.50	3.87
+	"California"	"06"	454920	39557045	11.50	8089001	56.24	12.00%	30.04	5.90	38.59	3288.10	567.90	11.88	4.25
+	"Colorado"	"08"	62885	5695564	11.04	1161860	54.12	1.66%	29.51	5.71	38.56	3185.43	557.95	10.52	3.97
+	"Connecticut"	"09"	34725	3572665	9.72	669829	51.84	0.92%	30.49	5.56	38.56	3293.07	588.19	12.46	3.85
+	"Delaware"	"10"	10621	967171	10.98	179749	59.09	0.28%	28.99	5.70	38.44	3250.47	601.35	10.36	3.87
+	"District of Columbia"	"11"	9212	702455	13.11	188939	48.76	0.24%	30.85	6.11	38.51	3205.47	609.55	10.28	4.02
+	"Florida"	"12"	221542	21299325	10.40	3875027	57.17	5.84%	29.14	5.81	38.37	3239.27	594.08	10.73	4.08
+	"Georgia"	"13"	126172	10519475	11.99	2163399	58.32	3.33%	28.42	5.89	38.26	3198.96	609.70	11.36	4.86
+	"Hawaii"	"15"	16972	1420491	11.95	264561	64.15	0.45%	29.57	5.96	38.42	3224.87	584.97	10.35	4.98
+	"Idaho"	"16"	21403	1754208	12.20	337642	63.39	0.56%	28.12	5.53	38.53	3288.50	567.36	11.66	3.50
+	"Illinois"	"17"	144815	12741080	11.37	2516375	57.55	3.82%	29.46	5.78	38.35	3260.21	599.05	11.43	4.12
+	"Indiana"	"18"	81646	6691878	12.20	1299333	62.84	2.15%	27.89	5.60	38.43	3282.81	597.10	11.30	3.87
+	"Iowa"	"19"	37785	3156145	11.97	594866	63.52	1.00%	28.51	5.33	38.46	3337.48	585.71	11.84	3.56
+	"Kansas"	"20"	36261	2911505	12.45	560121	64.74	0.96%	28.27	5.57	38.42	3300.24	578.75	11.12	3.14
+	"Kentucky"	"21"	53922	4468402	12.07	849729	63.46	1.42%	27.45	5.64	38.24	3260.28	602.31	11.80	4.35
+	"Louisiana"	"22"	59615	4659978	12.79	926727	64.33	1.57%	27.61	5.67	38.06	3166.77	608.31	11.57	4.49
+	"Maine"	"23"	12311	1338404	9.20	231150	53.26	0.32%	29.11	5.48	38.66	3338.46	589.36	13.32	4.32
+	"Maryland"	"24"	71080	6042718	11.76	1187110	59.88	1.87%	30.02	5.76	38.44	3257.22	611.89	10.81	4.02
+	"Massachusetts"	"25"	69109	6902149	10.01	1396853	49.47	1.82%	30.95	5.44	38.65	3297.60	583.56	11.88	3.48
+	"Michigan"	"26"	110032	9995915	11.01	1881645	58.48	2.90%	28.64	5.54	38.50	3276.48	603.19	12.38	4.97
+	"Minnesota"	"27"	67344	5611179	12.00	1074005	62.70	1.78%	29.85	5.28	38.64	3346.88	590.98	11.61	3.89
+	"Mississippi"	"28"	37000	2986530	12.39	589546	62.76	0.98%	26.91	5.55	37.95	3138.51	623.25	11.76	4.41
+	"Missouri"	"29"	73269	6126452	11.96	1174176	62.40	1.93%	28.13	5.61	38.36	3265.99	598.78	11.01	3.84
+	"Montana"	"30"	11513	1062305	10.84	193329	59.55	0.30%	28.51	5.53	38.56	3287.38	564.47	11.08	3.92
+	"Nebraska"	"31"	25488	1929268	13.21	372530	68.42	0.67%	28.82	5.41	38.41	3310.71	582.61	11.48	4.47
+	"Nevada"	"32"	35682	3034392	11.76	594292	60.04	0.94%	28.72	5.91	38.41	3221.70	569.23	11.44	5.64
+	"New Hampshire"	"33"	11995	1356458	8.84	244498	49.06	0.32%	29.87	5.35	38.76	3350.39	589.25	12.65	3.89
+	"New Jersey"	"34"	101223	8908520	11.36	1684843	60.08	2.67%	30.62	5.65	38.53	3259.03	579.61	10.59	3.49
+	"New Mexico"	"35"	23039	2095428	10.99	397479	57.96	0.61%	27.71	5.85	38.41	3183.01	555.80	10.08	4.24
+	"New York"	"36"	226238	19542209	11.58	3906117	57.92	5.97%	30.26	5.84	38.62	3261.10	582.87	11.21	3.71
+	"North Carolina"	"37"	118954	10383620	11.46	2037325	58.39	3.14%	28.54	5.77	38.43	3248.04	610.88	12.12	4.76
+	"North Dakota"	"38"	10636	760077	13.99	147391	72.16	0.28%	28.55	5.18	38.47	3347.09	576.50	10.66	3.35
+	"Ohio"	"39"	135134	11689442	11.56	2211261	61.11	3.56%	28.34	5.60	38.39	3263.29	600.01	11.56	4.37
+	"Oklahoma"	"40"	49800	3943079	12.63	770736	64.61	1.31%	27.41	5.60	38.22	3258.16	591.12	10.81	3.82
+	"Oregon"	"41"	42188	4190713	10.07	820796	51.40	1.11%	29.45	5.73	38.75	3341.05	571.40	11.68	3.77
+	"Pennsylvania"	"42"	135673	12807060	10.59	2383378	56.92	3.58%	29.18	5.60	38.55	3280.38	600.87	11.47	4.51
+	"Rhode Island"	"44"	10506	1057315	9.94	207911	50.53	0.28%	29.72	5.68	38.58	3296.90	588.83	11.68	4.43
+	"South Carolina"	"45"	56669	5084127	11.15	974611	58.15	1.49%	28.12	5.72	38.25	3221.99	608.11	11.98	4.69
+	"South Dakota"	"46"	11893	882235	13.48	161576	73.61	0.31%	28.38	5.34	38.55	3332.82	565.53	10.59	3.58
+	"Tennessee"	"47"	80751	6770010	11.93	1322103	61.08	2.13%	27.83	5.71	38.29	3239.03	608.62	11.11	4.26
+	"Texas"	"48"	378624	28701845	13.19	5975183	63.37	9.99%	28.28	5.92	38.26	3233.89	581.01	10.36	4.08
+	"Utah"	"49"	47209	3161105	14.93	690263	68.39	1.25%	28.59	5.40	38.40	3266.45	551.64	11.16	3.21
+	"Vermont"	"50"	5432	626299	8.67	115068	47.21	0.14%	29.69	5.53	38.77	3343.94	589.77	12.82	3.43
+	"Virginia"	"51"	99843	8517685	11.72	1688184	59.14	2.63%	29.54	5.75	38.49	3275.53	599.97	11.48	3.95
+	"Washington"	"53"	86085	7535591	11.42	1497718	57.48	2.27%	29.68	5.64	38.68	3339.85	578.69	11.13	3.88
+	"West Virginia"	"54"	18248	1805832	10.11	319036	57.20	0.48%	27.13	5.61	38.21	3241.00	604.06	11.50	4.29
+	"Wisconsin"	"55"	64098	5813568	11.03	1087469	58.94	1.69%	29.14	5.43	38.48	3313.65	599.29	12.14	3.92
+	"Wyoming"	"56"	6562	577737	11.36	107505	61.04	0.17%	28.06	5.60	38.46	3173.17	546.28	10.46	3.71
+"Total"			3791712	327167434	11.59	64171698	59.09	100.00%	29.01	5.81	38.44	3261.64	590.66	11.30	4.20
+"---"
+"Dataset: Natality, 2016-2018 expanded"
+"Query Parameters:"
+"Title: state_data"
+"Year: 2018"
+"Group By: State of Residence"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Oct 14, 2019 3:53:55 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2016-2018, on CDC"
+"WONDER Online Database, September 2019. Accessed at http://wonder.cdc.gov/natality-expanded-current.html on Oct 14, 2019 3:53:55"
+"PM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
+"2. Birth rates are calculated as the number of births divided by total population in the given year(s). When the numerator is"
+"sub-set by mother's race, mother's hispanicity, location, or year of birth, then the same sub-set for age, race, hispanicity,"
+"location and year applies to the denominator population."
+"3. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, mother's hispanicity, location, or year of birth, then"
+"the same sub-set for age, race, hispanicity, location and year applies to the denominator population. However, if you sub-set"
+"mother's age selecting some years not in the 15 - 44 range, those years of mother's age ouside this range will not be included"
+"in the denominator population. If you sub-set mother's age selecting only years outside the 15 - 44 range, the denominator"
+"population returned will be zero and flagged ""Not Available""."
+"4. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"5. Please note that the Percent of Total presented here may not be consistent with percentages published by NCHS. NCHS excludes"
+"births categorized as ""Unknown"", ""Not Stated"", and ""Not on Certificate"" from the denominator when calculating percentages."
+"6. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth"
+"Weight"" measure."
+"7. Records where the gestation age is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Gestational"
+"Age"" measure."
+"8. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."
+"9. Birth rates and fertility rates are calculated using the following populations: The populations for year 2018 are from the"
+"postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on June 21, 2018; and"
+"the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 27, 2018. The"
+"populations for year 2016 are from the postcensal single-race series of July 1st estimates of the resident population, released"
+"by Census Bureau on June 22, 2017; and the postcensal bridged-race series of July 1st estimates of the resident population,"
+"released by NCHS on June 26, 2017. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Denominator-Population-Sources."
