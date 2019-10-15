@@ -221,11 +221,11 @@
                    <div class="row">
                       <div class="col-lg-12">
                         <div class="list-group" id="list-tab" role="tablist">
-                          <a class="list-group-item list-group-item-action" id="list-go-list" data-toggle="list" href="ian.html" role="tab" aria-controls="go">Infant Mortality Data</a>
-                          <a class="list-group-item list-group-item-action" id="list-ms-list" data-toggle="list" href="mj.html" role="tab" aria-controls="ms">Microbiome Data</a>
-                          <a class="list-group-item list-group-item-action" id="list-ms-list" data-toggle="list" href="ian2.html" role="tab" aria-controls="ms">Factors Impacting Maternal/Child healthcare</a>
-                          <a class="list-group-item list-group-item-action" id="list-oc-list" data-toggle="list" href="oc.html" role="tab" aria-controls="oc">Infant Mortality in the US</a>
-                          <a class="list-group-item list-group-item-action" id="list-rw-list" data-toggle="list" href="rw.html" role="tab" aria-controls="rw">Ohio Infant Mortality Data</a>
+                          <a class="list-group-item list-group-item-action" id="list-v1-list" data-toggle="list" href="vis1.html" role="tab" aria-controls="v1">Machine Learning Data</a>
+                          <a class="list-group-item list-group-item-action" id="list-v2-list" data-toggle="list" href="vis2.html" role="tab" aria-controls="v2">Microbiome Data</a>
+                          <a class="list-group-item list-group-item-action" id="list-v3-list" data-toggle="list" href="vis3.html" role="tab" aria-controls="v3">Factors Impacting Maternal/Child healthcare</a>
+                          <a class="list-group-item list-group-item-action" id="list-v4-list" data-toggle="list" href="vis4.html" role="tab" aria-controls="v4">Infant Mortality in the US</a>
+                          <a class="list-group-item list-group-item-action" id="list-v5-list" data-toggle="list" href="vis5.html" role="tab" aria-controls="v5">Ohio Infant Mortality Data</a>
                         </div>
                       </div>
                       
@@ -320,10 +320,35 @@
               <div class="col-lg-12 mx-auto">
                 <div class="greybox">
                   <h2>Input Form</h2>
-                  <p class="lead"> Please input data to receive prediction</p>
+                  <p class="lead"> Please select input data to interact with our Models</p>
                 </div>
                 <br><br>
-                <div class='row'>
+                <div class='btn-group'>
+                    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Q1 Maternal Factors</button>
+                    <div class="dropdown-menu">
+                        <a href="#" class="dropdown-item">Mother's Education</a>
+                        <a href="#" class="dropdown-item">Mother's Weight Gain</a>
+                        <div class="dropdown-divider"></div>
+                        <a href="#" class="dropdown-item">Separated link</a>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">Action</button>
+                    <div class="dropdown-menu">
+                        <a href="#" class="dropdown-item">Action</a>
+                        <a href="#" class="dropdown-item">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a href="#" class="dropdown-item">Separated link</a>
+                    </div>
+                </div>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
                   <div class="col-lg-12">
                     <div class=''>
                       <form method="POST" action="{{ url_for('predict')}}">

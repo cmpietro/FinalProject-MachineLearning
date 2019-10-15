@@ -75,9 +75,9 @@ mainNav {
   }
   
   .list-group-item-action{
-      color: #BAC4C8;
-      background-color: #7F2626;
-      border-color: #7F2626;
+      color: #70483c;
+      background-color: rgb(230, 140, 140);
+      border-color: rgb(230, 140, 140);
   }
   
   legend {
