@@ -11,19 +11,19 @@ mainNav {
 }
   
   jumbotron {
-    background-color: #fdd1dd;
+    background-color: #e6c2bf;
   }
   h1 {
-    background-color: #e9ecef;
+    background-color: #e6c2bf;
     color: #70483c;
   }
   mainNav {
-    color: #f8e1e3
+    color: #fffdfb
   
   }
   navbarResponsive {
   
-  color: #70483c 
+  color: #9d6655 
   }
   
   body {
@@ -38,7 +38,7 @@ mainNav {
   }
   
   header h1{
-    background-color: #BAC4C8;
+    background-color: #e6c2bf;
   }
   header p{
     color: black;
@@ -48,7 +48,7 @@ mainNav {
   .greybox{
     width: 100%;
     background-color: #70483c;
-    color: #fff;
+    color: #fffdfb;
     padding: 8px;
   }
   
@@ -76,8 +76,8 @@ mainNav {
   
   .list-group-item-action{
       color: #70483c;
-      background-color: rgb(230, 140, 140);
-      border-color: rgb(230, 140, 140);
+      background-color: #d17d66;
+      border-color: #fffdfb;
   }
   
   legend {
@@ -100,7 +100,7 @@ mainNav {
     /* padding-bottom: 40px; */
   }
   footer {
-    color: white;
+    color: #fffdfb;
   
   }
   /* Styles for D3 map */
