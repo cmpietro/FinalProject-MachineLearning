@@ -1,0 +1,32 @@
+CREATE TABLE "infantMortatlityState2014_2017" (
+    "Year" date   NOT NULL,
+    "State" char   NOT NULL,
+    "Rate" int   NOT NULL,
+    "Deaths" int   NOT NULL,
+ );   
+ 
+CREATE TABLE "medianIncomePerCounty_2017" (
+    "ID" char   NOT NULL,
+    "ID2" char   NOT NULL,
+    "Geography" char   NOT NULL,
+    "Target_Geo_Id" varchar   NOT NULL,
+    "Target_Geo_Id2" varchar  NOT NULL,
+    "Geographic_Area" char   NOT NULL,
+    "Dollar" int   NOT NULL,
+	"Margin_of_Error" int  Not NULL,
+);
+
+CREATE TABLE "nchs_childhood_mortality_rates" (
+    "Year" date   NOT NULL,
+    "Age_Group" varchar   NOT NULL,
+    "Death_Rate" int   NOT NULL,
+);    
+
+CREATE TABLE "nchs_infant_mortality_rates_by_race_united_states_1915_2013" (
+    "Race" char   NOT NULL,
+    "Year" date   NOT NULL,
+    "Infant_Mortality_Rate" int   NOT NULL,
+);
+
+
+   
