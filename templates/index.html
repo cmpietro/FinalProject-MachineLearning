@@ -13,7 +13,7 @@
   
   <!-- Bootstrap -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+  
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
   
@@ -68,7 +68,7 @@
               <a class="nav-link js-scroll-trigger" href="#topicintro">Topic Introduction</a>
             </li> 
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#d3Map">Visualization</a>
+              <a class="nav-link js-scroll-trigger" href="#visuals">Visualization</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#machinelearning">Machine Learning</a>
@@ -127,7 +127,7 @@
               <div class='col-md-12 col-md-12'>
                 <h3 class="title">Mohammed Irshad</h3>
                   <p class="text">"The Strong Silent Questioner" </p>
-                  <p class='img-thumbnail'><img src="../images/mombaby.png" width="250" height="250"/p>
+                  <p class='img-thumbnail'><img src="../images/mohhamed.jpg" width="250" height="250"/p>
                 </div>
                 <div class="spacer" style="height:25px"></div>
                 <div class='col-md-12 col-md-12'>
@@ -139,7 +139,7 @@
                 <div class='col-md-12 col-md-12'>
                 <h3 class="title">Joan E. Stone-Mays</h3>
                     <p class="text">"Database Maker, Organized Informer, Expert Questioner"</p>
-                    <p class='img-thumbnail'><img src="../images/mombaby.png" width="250" height="250"/p>
+                    <p class='img-thumbnail'><img src="../images/Joan.jpg" width="250" height="250"/p>
                     
                   </div>
                   <div class="spacer" style="height:25px"></div>
@@ -197,8 +197,8 @@
    </section>  
     
         
-        <!-- Section for D3 map -->
-      <section id="d3Map" class="bg-light">
+        <!-- Section for visualizations -->
+      <section id="visuals" class="bg-light">
         <div class="container">
           <div class="row">
             <div class="col-lg-12 mx-auto">
@@ -211,7 +211,7 @@
                    <div class="row">
                       <div class="col-lg-12">
                         <div class="list-group" id="list-tab" role="tablist">
-                          <a class="list-group-item list-group-item-action" id="list-v1-list" data-toggle="list" href="vis1.html" role="tab" aria-controls="v1">Visualization 1</a>
+                          <a class="list-group-item list-group-item-action" id="list-v1-list" data-toggle="list" href="vis1.html" role="tab" aria-controls="v1">Visualization 1: Top 15 Leading Cauases</a>
                           <a class="list-group-item list-group-item-action" id="list-v2-list" data-toggle="list" href="vis2.html" role="tab" aria-controls="v2">Visualization 2</a>
                           <a class="list-group-item list-group-item-action" id="list-v3-list" data-toggle="list" href="vis3.html" role="tab" aria-controls="v3">Visualization 3</a>
                           <a class="list-group-item list-group-item-action" id="list-v4-list" data-toggle="list" href="vis4.html" role="tab" aria-controls="v4">Visualization 4</a>
@@ -240,7 +240,30 @@
                       2.	How do labor characteristics impact the APGAR score? Or based on the labor characteristics, can we predict APGAR score?
                       3.	How do delivery characteristics impact the APGAR score? Or based on the delivery characteristics, can we predict APGAR score?
                       </p>
-                    <P> PLACEHOLDER </P>
+                    <P> Q1_Maternal_char
+                      Mother education code
+                      o	  "1"	 8th grade or less 
+                      o	 	"2"	 9th through 12th grade with no diploma 
+                      o	 	"3"	 High school graduate or GED completed 
+                      o	 	"4"	 Some college credit, but not a degree 
+                      o	 	"5"	 Associate degree (AA, AS) 
+                      o	 	"6"	 Bachelor's degree (BA, AB, BS) 
+                      o	 	"7"	 Master's degree (MA, MS) 
+                      o	          "8"	 Doctorate (PHD, EdD) or Professional Degree (MD,
+                      Mother weight gain code
+                      •	The number indicates the weight gained in lbs by the mother
+                      Pre-pregnancy diabetes
+                      •	“1” Yes 
+                      •	“2” No 
+                      •	“9” Unknown or Not Stated
+                      Pre-pregnancy Hypertension Code
+                      •	“1” Yes 
+                      •	“2” No 
+                      •	“9” Unknown or Not Stated
+                      APGAR score code
+                      •	APGAR score code represents the score recorded at 5 minutes after birth, in single increments.
+                      •	The higher the score, the better the baby is doing after birth. A score of 7, 8, or 9 is normal and is a sign that the newborn is in good health.
+                      </P>
                   </div>
                 </div>
                   <div class="spacer" style="height:25px"></div>
@@ -269,8 +292,8 @@
              </section>  
             
            <!-- Section for Input form -->   
-        <section id="input" class="bg-light">
-          <div class="form">
+        <section id="input" class="container">
+          <div class="container">
             <div class="row">
               <div class="col-lg-12 mx-auto">
                 <div class="greybox">
@@ -279,12 +302,18 @@
                 </div>
                 <br><br>
                 <div class='btn-group'>
-                    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Q1 Maternal Factors</button>
+                    <button type="button" class="btn btn-outline-secondary">Maternal Factors</button>
+                    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+                      </button>
                     <div class="dropdown-menu">
-                        <a href="#" class="dropdown-item">Mother's Education</a>
+                        <a class="dropdown-item" href="https://github.com/cmpietro/FinalProject-MachineLearning/blob/master/data/MACHINE_LEARNING/ML_final_clean_data/Q1_maternal_char_v7.csv">Mother's Education</a>
                         <a href="#" class="dropdown-item">Mother's Weight Gain</a>
-                        <div class="dropdown-divider">Pre-pregnancy Diabetes</div>
                         <a href="#" class="dropdown-item">Pre-pregnancy Hypertension</a>
+                        <br>
+                        <a class="dropdown-item" href="#">Link 1</a>
+    <a class="dropdown-item" href="#">Link 2</a>
+  </div>
+</div>
                     </div>
                 </div>
                 <div class="btn-group">
@@ -296,21 +325,7 @@
                         <a href="#" class="dropdown-item">Separated link</a>
                     </div>
                 </div>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  <div class="col-lg-12">
-                    <div class=''>
-                      <form method="POST" action="{{ url_for('predict')}}">
-                        <input type="text" name"namequery">
-                        <button type="submit" class"btn btn-primary">Predict
-                          
-                        </button>
+                                    
                       </form>
 
                     </div>
