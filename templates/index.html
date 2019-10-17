@@ -12,8 +12,12 @@
   
   
   <!-- Bootstrap -->
+
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
   
@@ -179,7 +183,7 @@
             <div class='row'>
               <div class='col-md-12 col-md-12'>
                 <div class='greybox'>
-                  <h2>Topic Introduction: Why Infant Mortality? </h2>
+                  <h2>Topic Introduction: Why Infant Mortality? and What is an APGAR Score? </h2>
                 </div>
               </div>
               <br>
@@ -206,8 +210,8 @@
               </div>
               <div class="spacer" style="height:25px"></div>
               <div class='col-md-12 col-md-12'>
-                <h3 class="title"></h3>
-                <p class='text'></p>
+                <h3 class="title">APGAR Scores</h3>
+                <p class='text'>APGAR scores are the baseline test performed on the infant at 1, five and 10 minutes after birth, which are indicators of how well the baby is doing outside of the mother.  The apgar scoring used, introduced in 1952, is scored for the categores of breathing effort, heart rate, muscle tone, reflexes and color.  Each category gets a score of 0 - 2 for a usual score from 1 to 10 in total.  Most scores for healthy babies range from 7 - 9 with a 10 being unsual, since almost all newborns lose a point for blue skin color in the hands and feet, which is normal immediately after birth.  Apgar scoring is not intended to predict the long-term health of a child, but is used as an indicator of needing additonal medical attention for infants with scores lower than seven, particularly after the five minute mark.</p>
               </div>
             </div>
           </div>
@@ -234,9 +238,9 @@
                    <div class="row">
                       <div class="col-lg-12">
                         <div class="list-group" id="list-tab" role="tablist">
-                          <a class="list-group-item list-group-item-action" id="list-v1-list" data-toggle="list" href="vis1.html" role="tab" aria-controls="v1">Visualization 1: Top 15 Leading Cauases</a>
-                          <a class="list-group-item list-group-item-action" id="list-v2-list" data-toggle="list" href="vis2.html" role="tab" aria-controls="v2">Visualization 2</a>
-                          <a class="list-group-item list-group-item-action" id="list-v3-list" data-toggle="list" href="vis3.html" role="tab" aria-controls="v3">Visualization 3</a>
+                          <a class="list-group-item list-group-item-action" id="list-v1-list" data-toggle="list" href="vis1.html" role="tab" aria-controls="v1">Visualization 1: Top 15 Leading Causes</a>
+                          <a class="list-group-item list-group-item-action" id="list-v2-list" data-toggle="list" href="vis2.html" role="tab" aria-controls="v2">Visualization 2: IMR by Race in Cleveland</a>
+                          <a class="list-group-item list-group-item-action" id="list-v3-list" data-toggle="list" href="vis3.html" role="tab" aria-controls="v3">Visualization 3: IMR by Race 1910 - 2015</a>
                           <a class="list-group-item list-group-item-action" id="list-v4-list" data-toggle="list" href="vis4.html" role="tab" aria-controls="v4">Visualization 4</a>
                           <a class="list-group-item list-group-item-action" id="list-v5-list" data-toggle="list" href="vis5.html" role="tab" aria-controls="v5">Visuzlization 5</a>
                         </div>
@@ -248,7 +252,7 @@
           </div>
         </div>
         </section>
-        <div class="spacer" style="height:200px"></div>
+        <div class="spacer" style="height:25px"></div>
         <!--MACHINE LEARNING-->
         <section id='machinelearning' ></section>
       <br>
@@ -256,35 +260,44 @@
         <section id='machinelearning' class="container">
           <br>
             <div class="container">
-              <div class='row'>
+              <div class='row' text-center>
                 <div class='col-md-12 col-md-12'>
                   <div class='greybox'>
                     <h2>Machine Learning</h2>
-                    <p> Our questions:
-                      1.	How do maternal characteristic impact the APGAR score? Or based on the maternal characteristics, can we predict APGAR score?
-                      2.	How do labor characteristics impact the APGAR score? Or based on the labor characteristics, can we predict APGAR score?
-                      3.	How do delivery characteristics impact the APGAR score? Or based on the delivery characteristics, can we predict APGAR score?
-                      </p>
-                    <P> Q1_Maternal_char
+                    <h4> Our questions: <br>
+                      1.	How do maternal characteristic impact the APGAR score? Or Could we, based on the maternal characteristics, predict APGAR score? <br>
+                      2.	How do labor characteristics impact the APGAR score? Or Could we, based on the labor characteristics, predict APGAR score? <br>
+                      3.	How do delivery characteristics impact the APGAR score? Or Could we, based on the delivery characteristics,  predict APGAR score?
+                    </h4>
+                  </div>
+                  <div class="container">
+                      <div class='row' text-center>
+                        <div class='col-md-12 col-md-12'>
+                          <h2>Some Additional Information:  Key code values translated.</h2>
+                    <P>  Maternal characteristics: 
                       Mother education code
-                      o	  "1"	 8th grade or less 
-                      o	 	"2"	 9th through 12th grade with no diploma 
-                      o	 	"3"	 High school graduate or GED completed 
-                      o	 	"4"	 Some college credit, but not a degree 
-                      o	 	"5"	 Associate degree (AA, AS) 
-                      o	 	"6"	 Bachelor's degree (BA, AB, BS) 
-                      o	 	"7"	 Master's degree (MA, MS) 
-                      o	          "8"	 Doctorate (PHD, EdD) or Professional Degree (MD,
-                      Mother weight gain code
+                      "1" =  8th grade or less 
+                    	"2" =  9th through 12th grade with no diploma 
+                      "3" =  High school graduate or GED completed 
+                      "4"	=  Some college credit, but not a degree 
+                      "5"	=  Associate degree (AA, AS) 
+                      "6"	=  Bachelor's degree (BA, AB, BS) 
+                      "7"	=  Master's degree (MA, MS) 
+                      "8"	=  Doctorate (PHD, EdD) or Professional Degree (MD,
+                     
+                     Mother weight gain code
                       •	The number indicates the weight gained in lbs by the mother
-                      Pre-pregnancy diabetes
-                      •	“1” Yes 
-                      •	“2” No 
-                      •	“9” Unknown or Not Stated
+                      
+                     Pre-pregnancy diabetes
+                      “1” = Yes 
+                      “2” = No 
+                      “9” = Unknown or Not Stated
+
                       Pre-pregnancy Hypertension Code
-                      •	“1” Yes 
-                      •	“2” No 
-                      •	“9” Unknown or Not Stated
+                      “1” = Yes 
+                      “2” = No 
+                      “9” = Unknown or Not Stated
+
                       APGAR score code
                       •	APGAR score code represents the score recorded at 5 minutes after birth, in single increments.
                       •	The higher the score, the better the baby is doing after birth. A score of 7, 8, or 9 is normal and is a sign that the newborn is in good health.
@@ -292,14 +305,17 @@
                   </div>
                 </div>
                   <div class="spacer" style="height:25px"></div>
-                  <div class='col-md-12 col-sm-12'>
-                    <h3 class="title"> A View</h3>
-                      <p class='img-thumbnail'><img src="PLACEHOLDER.png" width="800" height="500"</p>
-                  </div>
+                  <div class='col-md-12 col-sm-12 my-auto'>
+                   
+                    <h2 class="title">Machine learning factors we used included Maternal specific factors. All factors for the graphs were using 2017 data.</h2>
+                    <h4 class="title">Age of the mother ...</h4>
+                      <p class='img-center-block'><img src="../images/DeathRateByAgeofMother_2017Data.png" width="600" height="500" </p>
+                
+                </div>
                   <div class="spacer" style="height:25px"></div>
                   <div class='col-md-12 col-sm-12'>
-                    <h3 class="title">A second View</h3>
-                      <p class="img-thumbnail"><img src="PLACEHOLDER.png"  width="800" height="600"</p>
+                    <h4 class="title">The mother's education level ...</h4>
+                      <p class="img-center-block"><img src="../images/DeathRateByMothersEducation_2017Data.png"  width="600" height="500"</p>
                     </div>
                     <div class="spacer" style="height:25px"></div>
                     <div class='col-md-12 col-sm-12'>
@@ -326,36 +342,42 @@
             <div class="row">
               <div class="col-lg-12 mx-auto">
                 <div class="greybox">
-                  <h2>Input Form</h2>
-                  <p class="lead"> Please select input data to interact with our Models</p>
+                  <h2>Machine Learning Model</h2>
+                  <p class="lead"> Use the drop down menus to view the factors we studied with our Models</p>
                 </div>
+              </div>
+            </div>
                 <br><br>
-                <div class='btn-group'>
-                    <button type="button" class="btn btn-outline-secondary">Maternal Factors</button>
-                    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
-                      </button>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="https://github.com/cmpietro/FinalProject-MachineLearning/blob/master/data/MACHINE_LEARNING/ML_final_clean_data/Q1_maternal_char_v7.csv">Mother's Education</a>
-                        <a href="#" class="dropdown-item">Mother's Weight Gain</a>
-                        <a href="#" class="dropdown-item">Pre-pregnancy Hypertension</a>
-                        <br>
-                        <a class="dropdown-item" href="#">Link 1</a>
-    <a class="dropdown-item" href="#">Link 2</a>
-  </div>
-</div>
-                    </div>
-                </div>
-                <div class="btn-group">
-                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">Q1 Labor Factors</button>
-                    <div class="dropdown-menu">
-                        <a href="#" class="dropdown-item">Q2 Labor Factors</a>
-                        <a href="#" class="dropdown-item">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a href="#" class="dropdown-item">Separated link</a>
-                    </div>
-                </div>
+                <table class="table"></table>
+                <div class="table-responsive" class='table table-hover'>
+                  <thead> 
+                    <tr>
+                      <th>Maternal Characteristics</th>
+                      <th>Labor Characteristics</th>
+                      <th>Delivery Characteristics</th>
+                      <th>Universal Characteristics Used in Each Grouping</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                        <td>Mother's Education by code</td>
+                        <td>Mother's Weight Gain by code</td>
+                        <td>Pre-Pregnancy Diabetes by code</td>
+                        <td>Pre-Pregnancy Hypertension by code</td>
+                      </tr>
+                      <tr>
+                        <td>Anesthesia by code</td>
+                        <td> Antibiotics for Mother by code</td>
+                        <td> Induction of Labor by code</td>
+                        <td> Steroids by code</td>
+                      </tr>
+                  </tbody>
+                    
+                      ...
+                    </table>
+                  </div>
                                     
-                      </form>
+                     
 
                     </div>
                   </div>
@@ -419,23 +441,24 @@
                   <div class="spacer" style="height:25px"></div>
                   <div class='col-md-12 col-md-12'>
                     <h3 class="title">Team Introduction</h3>
-                      <p class='text'> <br>
+                      <p class='text'> 
                       </p>
                       <a href="https://github.com/kahmed1996" target="_blank", bold>Kashifa Ahmed: Git Hub</a>
                       <br>
-                      <a href="https://www.whitepages.com/checkout/summary/?people_location=OH&people_name=Mohammed+Irshad&record_id=GWst5tsxX-q1h_2cpRncCRzKL5dWDrXtyZlq8KYQ9X0%3D&type=person_query&wp_content=link_result_record_sb1&wp_medium=PersonContactInfoUpsell&wp_source=tnt_serp_bump_0&wp_term=SB_Person_Serp_A&funnel_type=person_bg_upsell_control&initial_funnel_type=person_bg_upsell_control&sample=0" target="_blank">Mohammed N. Irshad</a>
+                      <a href="https://github.com/irshadmn" target="_blank">Mohammed N. Irshad: Git Hub</a>
                       <br>
                       <a href="https://github.com/vprmantripragada" target="_blank", bold>Venkata Ratnam Matripragada: Git Hub</a>
                       <br>
-                      <a href="https://github.com/iamjestone" target="_blank", bold>Joan E. Stone-Mays Git Hub</a>
+                      <a href="https://github.com/iamjestone" target="_blank", bold>Joan E. Stone-Mays: Git Hub</a>
                       <br>
-                      <a href="https://github.com/cmpietro" target="_blank", bold>Carol (Pietro) Kadish: LinkedIn </a>
+                      <a href="https://github.com/cmpietro" target="_blank", bold>Carol (Pietro) Kadish: Git Hub</a>
                       <br>
                     </div>
                     <div class="spacer" style="height:25px"></div>
                     <div class='col-md-12 col-md-12'>
+                      <br>
                       <h3 class="title">Topic Introduction</h3>
-                        <p class='text'> <br>
+                        <p class='text'> 
                         </p>
                         <a href="https://www.healthcatalyst.com/insights/top-7-healthcare-outcome-measures" target="_blank", bold>Health Catalyst</a>
                         <br>
@@ -447,6 +470,7 @@
                       </div>
                     <div class="spacer" style="height:25px"></div>
                     <div class='col-md-12 col-md-12'>
+                      <br>
                       <h3 class="title">Our Inspirations:</h3>
                         <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5648614/#targetText=The%20rise%20in%20estrogen%20and,Firmicutes%20as%20in%20obese%20populations.' target="_blank">The Maternal Gut Microbiome during Pregnancy</a> 
                         <br>
@@ -455,7 +479,9 @@
                         <a href='https://bfmedneo.com/' target="_blank">Breastfeeding Medicine of NEO, Ann Witt, M.D. </a>
                       </div>
                       <div class="spacer" style="height:25px"></div>
+                      <br>
                       <div class='col-md-12 col-md-12'>
+                        <br>
                       <h3 class="title">Resources Used:</h3>
                           <p>Data Used</p>
                           <a href="https://wonder.cdc.gov/" target="_blank">CDC Wonder Database</a>
@@ -471,6 +497,7 @@
                       </div>
                       <div class="spacer" style="height:25px"></div>
                       <div class='col-md-12 col-md-12'>
+                        <br>
                       <h3 class="title">Technology Used: A link to our GitHub Wiki</h3>
                         <a href="https://github.com/cmpietro/FinalProject-MachineLearning/wiki" target="_blank">FINAL PROJECT: GitHub Wiki</a>
                         </div>
@@ -479,6 +506,7 @@
                   </div>
                </section>  
     </body>
+    <br>
     <!--FOOTER-->
   <footer>
     <div class="spacer" style="height:25px"></div>
