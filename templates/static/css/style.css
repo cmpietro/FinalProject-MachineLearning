@@ -5,9 +5,8 @@
   container-text center p{
     color: black;
   }
-mainNav {
-    background-color: #70483c;
-
+#mainNav {
+  background-image: linear-gradient(to bottom right, #e6c2bf, #d17d66);
 }
   
   jumbotron {
@@ -62,6 +61,13 @@ mainNav {
     margin-top: 0;
     margin-bottom: 0.5rem;
   }
+
+  .table {
+    width: 100%;
+    color: #70483c;
+    margin-bottom: 1rem;
+    background-color: #e6c2bf;
+}
   
   p {
     margin-top: 0;
@@ -69,7 +75,7 @@ mainNav {
     font-size: med;
   }
   a {
-    color: #BAC4C8;
+    color: #d17d66;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;

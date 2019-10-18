@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<!--HEAD-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Team Introduction</title>
+
+
+    <!-- Bootstrap -->
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+    <!-- Scripting links -->
+    <!--- which do we need?  --->
+    <!-- jQuery first, then Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+
+    <!--Choropleth if needed-->
+    <!-- Leaflet CSS & JS-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+        crossorigin=""></script>
+
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Leaflet-Choropleth JavaScript -->
+    <script type="text/javascript" src="static/js/ea_choropleth.js"></script>
+
+</head>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="index.html">
+            <img style="width: 10%;" src="images/mother-infant.png" alt="mombaby">
+            <strong>Mother and Infant Healthcare</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" style="text-align: center;">
+                <!-- <li class="nav-item">-->
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="team-introduction.html">Team Introduction</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="topic-introduction.html">Topic Introduction</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="visualizations.html">Visualization</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="machine-learning.html">Machine Learning</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="input-form.html">Input Form</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="conclusions.html">Conclusions</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="references.html">References Used</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Section for Input form -->
+<section id='input'></section>
+<br>
+<br>
+<br>
+<br>
+<section id="input" class="container">
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mx-auto">
+                <div class="greybox">
+                    <h2>Machine Learning Model</h2>
+                    <p class="lead"> View the table to see the factors we studied with our Models</p>
+                </div>
+            </div>
+        </div>
+        <br><br>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Maternal Characteristics</th>
+                    <th>Labor Characteristics</th>
+                    <th>Delivery Characteristics</th>
+                    <th>Universal Characteristics Used in Each Grouping</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Mother's Education by code</td>
+                    <td>Anesthesia by code</td>
+                    <td>Month by code</td>
+                    <td>Average Age of Mother's by years</td>
+                </tr>
+                <tr>
+                    <td>Mother's Weight Gain by code</td>
+                    <td>Antibiotics for Mother by code</td>
+                    <td>Birthplace by code</td>
+                    <td>Average Birth Weight by grams</td>
+                </tr>
+                <tr>
+                    <td>Pre-Pregnancy Diabetes by code</td>
+                    <td>Induction of Labor by code</td>
+                    <td>Delivery Method by code</td>
+                    <td>Average Prenatal Visits</td>
+                </tr>
+                <tr>
+                    <td>Pre-Pregnancy Hypertension by code</td>
+                    <td>Steroids by code</td>
+                    <td>Fetal Presentation by code</td>
+                    <td>Average OE Gestational Age by weeks</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>Five Min APGAR Score by code</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+</section>
+<!--FOOTER-->
+<footer>
+    <div class="spacer" style="height:25px"></div>
+    <div class='col-md-12 col-md-12'>
+        <div class="bg-dark fixed-bottom">Copyright &copy; Project: Maternal Infant Health and Machine Learning. TEAM:
+            Carol, Joan, Kashifa, Mohammed, and Venkata 2019</div>
+</footer>
+
+</html>

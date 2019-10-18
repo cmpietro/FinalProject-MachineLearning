@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<!--HEAD-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Team Introduction</title>
+
+
+    <!-- Bootstrap -->
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+    <!-- Scripting links -->
+    <!--- which do we need?  --->
+    <!-- jQuery first, then Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+
+    <!--Choropleth if needed-->
+    <!-- Leaflet CSS & JS-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+        crossorigin=""></script>
+
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Leaflet-Choropleth JavaScript -->
+    <script type="text/javascript" src="static/js/ea_choropleth.js"></script>
+
+</head>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="index.html">
+            <img style="width: 10%;" src="images/mother-infant.png" alt="mombaby">
+            <strong>Mother and Infant Healthcare</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" style="text-align: center;">
+                <!-- <li class="nav-item">-->
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="team-introduction.html">Team Introduction</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="topic-introduction.html">Topic Introduction</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="visualizations.html">Visualization</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="machine-learning.html">Machine Learning</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="input-form.html">Input Form</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="conclusions.html">Conclusions</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="references.html">References Used</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!--Topic Discussion-->
+<section id='topicintro'></section>
+<br>
+<br>
+<br>
+<br>
+<section id='topicintro' class="container">
+    <br>
+    <div class="container">
+        <div class='row'>
+            <div class='col-md-12 col-md-12'>
+                <div class='greybox'>
+                    <h2>Topic Introduction: Why Infant Mortality? and What is an APGAR Score? </h2>
+                </div>
+            </div>
+            <br>
+            <div class="spacer" style="height:25px"></div>
+            <div class='col-md-12 col-md-12'>
+                <h3 class="title">Infant Mortality</h3>
+                <p class='text'>Infant mortality is a key indicator of health and the effectiveness of a health care
+                    system," says the United Health Foundation in it's annual compilation of Health Rankings.
+                    Additionally, per HealthCatalyst quoting the WHO, CMS, The Joint Commission and the National
+                    Association for Healthcare Quality, mortality as a whole is the number one population health outcome
+                    measure. </p>
+            </div>
+            <div class="spacer" style="height:25px"></div>
+            <div class='col-md-12 col-md-12'>
+                <h3 class="title">Mortality Statistics</h3>
+                <p class='text'>Mortality statistics are gathered by the CDC and the (NCHS) National Center Health for
+                    Statistics. Infant mortality is defined as the death of child before their first birthday. The
+                    infant mortality rate is the number of infant deaths recorded for every 1,000 live births, per the
+                    CDC. The overall infant mortality rate for the United States in 2017 was 5.8 deaths per 1,000 live
+                    births.
+                </p>
+            </div>
+            <div class="spacer" style="height:25px"></div>
+            <div class='col-md-12 col-md-12'>
+                <h3 class="title">Leading Causes of Death</h3>
+                <p class='text'>The leading causes of death for a newborn only shift slightly from year to year. Per the
+                    CDC in the year 2017, the top five causes of death were: 1. Birth Defects, 2. Preterm Birth / low
+                    birth weight, 3. Maternal Pregnancy Complications 4. Sudden Infant Death Syndrome (SIDS) and 5.
+                    Injuries. A more concerning statistic is that the 2018 infant mortality level was 579.3 per 100,000
+                    births in the US, but remained statistically unchanged from 2016, with 587.0 deaths per 100,000. The
+                    only significant change from 2016 - 2017 was that two of the leading causes of death, SIDS and
+                    Unintential Injury, shifted with a 10.7% increase in injury. SIDS dropped ranking from third to
+                    fourth. </p>
+            </div>
+            <div class="spacer" style="height:25px"></div>
+            <div class='col-md-12 col-md-12'>
+                <h3 class="title">Ohio Infant Mortality</h3>
+                <p class='text'>Within the state of Ohio, the infant mortality picture is more grim than the national,
+                    ranking 41 (tied with N. Carolina out of 50 states) with a rate of 7.3 in 2018, an increase from
+                    2017's rate of 7.0. In the annual report of America's Health Rankings by the United Health
+                    Foundation, Ohio has some strengths such as a low uninsured population and a high rate of primary
+                    care physicians, but our challenges come from a high rate of smoking, air pollution and low rates of
+                    immunization among children. One of our goals of this project is to see what information we can
+                    discover as to why the infant mortality rate in Ohio is on the rise and why is it so high compared
+                    to other states. </p>
+            </div>
+            <div class="spacer" style="height:25px"></div>
+            <div class='col-md-12 col-md-12'>
+                <h3 class="title">APGAR Scores</h3>
+                <p class='text'>APGAR scores are the baseline test performed on the infant at 1, five and 10 minutes
+                    after birth, which are indicators of how well the baby is doing outside of the mother. The apgar
+                    scoring used, introduced in 1952, is scored for the categores of breathing effort, heart rate,
+                    muscle tone, reflexes and color. Each category gets a score of 0 - 2 for a usual score from 1 to 10
+                    in total. Most scores for healthy babies range from 7 - 9 with a 10 being unsual, since almost all
+                    newborns lose a point for blue skin color in the hands and feet, which is normal immediately after
+                    birth. Apgar scoring is not intended to predict the long-term health of a child, but is used as an
+                    indicator of needing additonal medical attention for infants with scores lower than seven,
+                    particularly after the five minute mark.</p>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+</section>
+<!--FOOTER-->
+<footer>
+    <div class="spacer" style="height:25px"></div>
+    <div class='col-md-12 col-md-12'>
+        <div class="bg-dark fixed-bottom">Copyright &copy; Project: Maternal Infant Health and Machine Learning. TEAM:
+            Carol, Joan, Kashifa, Mohammed, and Venkata 2019</div>
+</footer>
+
+</html>
