@@ -22,30 +22,6 @@
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
-    <!-- Scripting links -->
-    <!--- which do we need?  --->
-    <!-- jQuery first, then Popper.js -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-
-    <!--Choropleth if needed-->
-    <!-- Leaflet CSS & JS-->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-        crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-        crossorigin=""></script>
-
-    <!-- d3 JavaScript -->
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-
-    <!-- Leaflet-Choropleth JavaScript -->
-    <script type="text/javascript" src="static/js/ea_choropleth.js"></script>
 
 </head>
 <!-- Navigation -->
@@ -110,8 +86,8 @@
 <div class='col-md-12 col-sm-12 my-auto'>
 
     <h2 class="title">Microbiome Graphs</h2>
-    <h3 class="title">Microbiome 1</h3>
-    <p class='img-thumbnail'><img class="image" src="images/microbiome_image1.png" width="1000" height="400"></p>
+    <h3 class="title">Microbiome 1: Comparing the microbiata of vaginally delivered infants versus C-section</h3>
+    <p class='img-thumbnail'><img src="images/microbiome_image1.png" width="1000" height="400"></p>
     <div id="myModal" class="modal">
             <span class="close">&times;</span>
             <img class="modal-content imageModal">
@@ -121,8 +97,20 @@
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 2</h3>
-    <p class='img-thumbnail'><img class="image" src="images/microbiome_image2.png"  width="1000" height="400"></p>
+        <h3 class="title">Microbiome 2: Comparing the microbiata of vaginally delivered infants versus C-section</h3>
+        <p class='img-thumbnail'><img src="images/microbiome_image2.png"  width="1000" height="400"></p>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content imageModal">
+            <div id="caption"></div>
+        </div>
+    
+</div>
+<div class="spacer" style="height:25px">
+</div>
+<div class='col-md-12 col-sm-12'>
+        <h3 class="title">Microbiome 3: Comparing the microbiata at intervals for vaginally delivered infants</h3>
+        <p class="img-thumbnail"><img src="images/microbiome_image3.png" width="1000" height="400"> </p>
     <div id="myModal" class="modal">
             <span class="close">&times;</span>
             <img class="modal-content imageModal">
@@ -132,8 +120,8 @@
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 3</h3>
-    <p class="img-thumbnail"><img class="image" src="images/microbiome_image3.png" width="1000" height="400"> </p>
+        <h3 class="title">Microbiome 4: Comparing the microbiata at intervals for C-section delivered infants</h3>
+        <p class="img-thumbnail"><img src="images/microbiome_image4.png" width="1000" height="400"></p>
     <div id="myModal" class="modal">
             <span class="close">&times;</span>
             <img class="modal-content imageModal">
@@ -143,19 +131,8 @@
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 4</h3>
-    <p class="img-thumbnail"><img class="image" src="images/microbiome_image4.png" width="1000" height="400"></p>
-    <div id="myModal" class="modal">
-            <span class="close">&times;</span>
-            <img class="modal-content imageModal">
-            <div id="caption"></div>
-        </div>
-</div>
-<div class="spacer" style="height:25px">
-</div>
-<div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 5</h3>
-    <p class="img-thumbnail"><img class="image" src="images/microbiome_image5.png" width="1000" height="400"></p>
+        <h3 class="title">Microbiome 5: Comparing the microbiata of Breast Fed versus Formula fed versus Mixed Fed Infants</h3>
+        <p class="img-thumbnail"><img src="images/microbiome_image5.png" width="1000" height="400"></p>
     <div id="myModal" class="modal">
             <span class="close">&times;</span>
             <img class="modal-content imageModal">
