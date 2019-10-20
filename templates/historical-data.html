@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Conclusions</title>
+    <title>Historical Data</title>
 
 
     <!-- Bootstrap -->
@@ -106,67 +106,71 @@
             </div>
         </div>
     </nav>
+  
+<div class="spacer" style="height:100px"></div>
+<div class='col-md-12 col-sm-12 my-auto'>
 
-<!-- CONCLUSIONS -->
-<section id='conclusions'></section>
-<br>
-<br>
-<br>
-<br>
-<section id='conclusions' class="container">
-    <br>
-    <div class="container">
-        <div class='row'>
-            <div class='col-md-12 col-md-12'>
-                <div class='greybox'>
-                    <h2>Conclusions: </h2>
-                </div>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h3 class="title"> RESULTS</h3>
-                <p class='text'>"Place HOLDER"</p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h3 class="title">MORE RESULTS</h3>
-                <p class="text">place holder </p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h3 class="title">RESULTS</h3>
-                <p class="text">"Place holder</p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h3 class="title">Results</h3>
-                <p class="text">"Place holder"</p>
-            </div>
-        </div>
-    </div>
-    </div>
+    <h2 class="title">Historical Data</h2>
+    <h3 class="title">The Infant Mortality Rate Trend by Race from 1910 - 2015 in US</h3>
+    <p class='img-center-block'><img src="images/US_IM_RateByRaceOverYears.png" width="1200"
+            height="400"></p>
+</div>
+<div class="spacer" style="height:25px">
+</div>
+<div class='col-md-12 col-sm-12'>
+    <h3 class="title">Infant Mortality Vs Childhood Mortality Trend Compared from 1915-2015 in US</h3>
+    <p class='img-center-block'><img src="images/Infant Mortality Rate & Child Mortality Rate Compared.PNG"  width="1200"
+            height="400"></p>
+</div>
+<div class="spacer" style="height:25px">
+</div>
+<div class='col-md-12 col-sm-12'>
+    <h3 class="title">Infant Mortality Trend in OHIO Vs US Compared from 1990-2018</h3>
+    <p class="img-thumbnail"><img src="images/Trend_InfantMortalityOhioVsUS.png" width="1200" height="400"> </p>
+</div>
+<div class="spacer" style="height:25px">
+</div>
+<div class='col-md-12 col-sm-12'>
+    <h3 class="title">Infant Mortality By Race & Ethnicity in Cleveland</h3>
+    <p class="img-thumbnail"><img src="images/InfantMortalityByRace_Ethnicity_Cleveland.PNG" width="1200" height="400"></p>
+</div>
+<div class="spacer" style="height:25px">
+</div>
+<div class='col-md-12 col-sm-12'>
+    <h3 class="title">CDC's Top 15 Causes Of Infant Mortality</h3>
+    <p class="img-thumbnail"><img src="images/DeathRateBy15LeadingCausesOfDeath_2017Data.png" width="1200" height="400"></p>
+</div>
+<div class="spacer" style="height:25px">
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
-<script>$('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
-        if (!$(this).next().hasClass('show')) {
-          $(this).parents('.dropdown-menu').first().find('.show').removeClass('show');
-        }
-        var $subMenu = $(this).next('.dropdown-menu');
-        $subMenu.toggleClass('show');
-      
-      
-        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
-          $('.dropdown-submenu .show').removeClass('show');
-        });
-      
-      
-        return false;
-      });</script>
 <!--FOOTER-->
+
 <footer>
     <div class="spacer" style="height:25px"></div>
     <div class='col-md-12 col-md-12'>
-        <div class="bg-dark fixed-bottom">Copyright &copy; Project: Maternal Infant Health and Machine Learning. TEAM:
-            Carol, Joan, Kashifa, Mohammed, and Venkata 2019</div>
+        <div class="bg-dark fixed-bottom">Copyright &copy; Project: Maternal Infant Health
+            and Machine Learning. TEAM: Carol, Joan, Kashifa, Mohammed, and Venkata 2019
+        </div>
+
 </footer>
+<script>$('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
+        if (!$(this).next().hasClass('show')) {
+            $(this).parents('.dropdown-menu').first().find('.show').removeClass('show');
+        }
+        var $subMenu = $(this).next('.dropdown-menu');
+        $subMenu.toggleClass('show');
+
+
+        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function (e) {
+            $('.dropdown-submenu .show').removeClass('show');
+        });
+
+
+        return false;
+    });</script>
 
 </html>

@@ -13,12 +13,11 @@
 
 
     <!-- Bootstrap -->
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
@@ -51,42 +50,63 @@
 </head>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-    <div class="container">
-            <a class="navbar-brand js-scroll-trigger" href="index.html">
-                    <img style="width: 10%;" src="images/mother-infant.png" alt="mombaby">
-                    <strong>Mother and Infant Healthcare</strong></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto" style="text-align: center;">
-                <!-- <li class="nav-item">-->
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="team-introduction.html">Team Introduction</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="topic-introduction.html">Topic Introduction</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="visualizations.html">Visualization</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="machine-learning.html">Machine Learning</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="input-form.html">Data Table</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="conclusions.html">Conclusions</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="references.html">References Used</a>
-                </li>
-            </ul>
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" style="position: relative; right: 20px;" href="index.html">
+                <img style="width: 10%;" src="images/mother-infant.png" alt="mombaby">
+                <strong>Mother & Infant Healthcare</strong></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto" style="text-align: center;">
+                    <!-- <li class="nav-item">-->
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="team-introduction.html">Team Introduction</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="topic-introduction.html">Topic Introduction</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                                Historical Data
+                            </a>
+                            <ul class="dropdown-menu dropdown-content">
+                                <a class="dropdown-item" href="historical-data.html">Graphs</a>
+                            </ul>
+                        </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            Maternal & Infant Characteristics
+                        </a>
+                        <ul class="dropdown-menu dropdown-content">
+                            <a class="dropdown-item" href="maternal-infant-graphs.html">Graphs</a>
+                            <a class="dropdown-item" href="machine-learning.html">Machine Learning</a>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            Microbiome Data
+                        </a>
+                        <ul class="dropdown-menu dropdown-content">
+                            <a class="dropdown-item" href="microbiome-graphs.html">Graphs</a>
+                            <a class="dropdown-item" href="microbiome-ml.html">Machine Learning</a>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="conclusions.html">Conclusions</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="references.html">References Used</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </div>
-</nav>
+    </nav>
+  
 <!-- #teamintro -->
 <section id='teamintro'></section>
 <br>
@@ -109,62 +129,127 @@
             </div>
 
         </div>
-        <div class="spacer" style="height:25px"></div>
-        <div class='col-md-8 col-md-8'>
+    <div class="spacer" style="height:25px"></div>
+    <div class='col-12'>
+        <div class="row">
+            <div class="col-12">
             <h3 class="title">Kashifa Ahmed</h3>
+            </div>
+        </div>
+            <div class="row">
+                 <div class="col-3">
+                      <p class='img-thumbnail'><img src="images/kashifa.jpg" width="200" height="250"></p>
+                 </div>
+                 <div class="col-9">
             <p class="text">"Puller of Information, Data Cleaner, Draft Planner, and Visualization Maker" </p>
         </div>
-        <div class='col-md-2 col-sm-4 d-block m-auto'>
-            <p class='img-thumbnail'><img src="images/kashifa.jpg" width="200" height="250"></p>
+      
+    </div>
+    </div>
+    <div class="spacer" style="height:25px"></div>
+    <div class='col-12'>
+        <div class="row">
+            <div class="col-12">
+            <h3 class="title">Mohammed N.Irshad</h3>
+            </div>
+        </div>
+            <div class="row">
+                <div class="col-3">
+                    <p class='img-thumbnail'><img src="images/mohhamed.jpg" width="200" height="250"></p>
+                </div>
+                <div class="col-9">
+            <p class="text">"The Strong Silent Questioner"
+                        Proactive, achievement driven Supply Chain Manager experienced in leveraging multifaceted
+                        competencies and deliver outstanding results aligned to corporate goals and objectives
+                        thus adding value to the organization.
+                        The global supply chain is already undergoing a major transformation enabled by Big Data
+                        and powered by data science. These promising advancements, often summarized as
+                        “Supply Chain Digitization”—promise to shorten replenishment and lead times, fully automate
+                        demand forecasting, lower inventories, and improve on-time production and delivery.
+                        In short, these advancements intend to make the supply chain more agile, predictable,
+                        and cost efficient for organizations, leading to overall higher profitability and
+                        competitiveness. Some of the most promising applications of Data Science that enhance many
+                        supply chain functions, include demand forecasting, distribution, procurement, and pricing.
+                        The list of exciting data science applications (and challenges) is endless.
+                        I joined Case Western Data Science BootCamp to learn skills and knowledge in data analytics
+                        to provide valuable strategic inputs for optimized supply chain operations. </p>
+        </div>
         </div>
     </div>
-    </div>
     <div class="spacer" style="height:25px"></div>
-    <div class='col-md-8 col-md-8'>
-        <h3 class="title">Mohammed Irshad</h3>
-        <p class="text">"The Strong Silent Questioner" </p>
-    </div>
-    <div class='col-md-2 col-sm-4 d-block m-auto'>
-        <p class='img-thumbnail'><img src="images/mohhamed.jpg" width="200" height="250"></p>
-    </div>
-    </div>
+    <div class='col-12'>
+            <div class="row">
+                <div class="col-12">
+                <h3 class="title">Venkata Ratnam Mantripragada</h3>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col-3">
+                        <p class='img-thumbnail'><img src="images/ratnam.jpg" width="200" height="250"></p>
+                    </div>
+                    <div class="col-9">
+                        <p class="text">"Statistics Guru and Machine Learning Godmother"</p>
+                    </div>
+            </div>
+        </div>
     <div class="spacer" style="height:25px"></div>
-    <div class='col-md-8 col-md-8'>
-        <h3 class="title">Venkata Ratnam Mantripragada</h3>
-        <p class="text">"Statistics Guru and Machine Learning Godmother"</p>
-    </div>
-    <div class='col-md-2 col-sm-4 d-block m-auto'>
-        <p class='img-thumbnail'><img src="images/ratnam.jpg" width="200" height="250"></p>
-    </div>
+    <div class='col-12'>
+            <div class="row">
+                <div class="col-12">
+                <h3 class="title">Joan E. Stone-Mays</h3>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col-3">
+                        <p class='img-thumbnail'><img src="images/Joan.jpg" width="200" height="250"></p>
+                    </div>
+                    <div class="col-9">
+                        <p class="text">"Database Maker, Organized Informer, Expert Questioner, and Visualization Maker"</p>
+                    </div>
+            </div>
+        </div>
     <div class="spacer" style="height:25px"></div>
-    <div class='col-md-8 col-md-8'>
-        <h3 class="title">Joan E. Stone-Mays</h3>
-        <p class="text">"Database Maker, Organized Informer, Expert Questioner, and Visualization Maker"</p>
+    <div class='col-12'>
+        <div class="row">
+            <div class="col-12">
+            <h3 class="title">Carol (Pietro) Kadish</h3>
+            </div>
+        </div>
+            <div class="row">
+                <div class="col-3">
+                    <p class='img-thumbnail'><img src="images/carol.jpg" width="200" height="250"></p>
+                </div>
+                <div class="col-9">
+                    <p class="text">"Project Manager, Inspired Story Teller, GitHub Manager, and Data Collector"
+                            I have a passion for healthcare, wellness and healthy living in general, particularly
+                            when it comes to those who cannot protect themselves, such as infants. I believe that
+                            machine learning can and will help society learn ways to improve the healthcare for
+                            everyone by reducing the amount of practice needed to find the best combinations of
+                            therapies or the most likely combinations of causes, so remedies can be provided. </p>
+                </div>
+        </div>
     </div>
-    <div class='col-md-2 col-sm-4 d-block m-auto'>
-        <p class='img-thumbnail'><img src="images/Joan.jpg" width="200" height="250"></p>
-        </p>
-    </div>
-    </div>
-    <div class="spacer" style="height:25px"></div>
-    <div class='col-md-8 col-md-8'>
-        <h3 class="title">Carol (Pietro) Kadish</h3>
-        <p class="text">"Project Manager, Inspired Story Teller, GitHub Manager, and Data Collector"
-            I have a passion for healthcare, wellness and healthy living in general, particularly 
-            when it comes to those who cannot protect themselves, such as infants.  I believe that 
-            machine learning can and will help society learn ways to improve the healthcare for 
-            everyone by reducing the amount of practice needed to find the best combinations of 
-            therapies or the most likely combinations of causes, so remedies can be provided. 
-        </p>
-    </div>
-    <div class='col-md-2 col-sm-4 d-block m-auto'>
-        <p class='img-thumbnail'><img src="images/carol.jpg" width="200" height="250"></p>
-    </div>
+    
     </div>
     </div>
     </div>
     </div>
 </section>
+<script>$('.dropdown-menu a.dropdown-toggle').on('click', function (e) {
+        if (!$(this).next().hasClass('show')) {
+            $(this).parents('.dropdown-menu').first().find('.show').removeClass('show');
+        }
+        var $subMenu = $(this).next('.dropdown-menu');
+        $subMenu.toggleClass('show');
+
+
+        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function (e) {
+            $('.dropdown-submenu .show').removeClass('show');
+        });
+
+
+        return false;
+    });</script>
 <!--FOOTER-->
 <footer>
     <div class="spacer" style="height:25px"></div>
@@ -173,4 +258,5 @@
             Carol, Joan, Kashifa, Mohammed, and Venkata 2019</div>
 
 </footer>
+
 </html>
