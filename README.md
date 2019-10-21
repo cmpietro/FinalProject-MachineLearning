@@ -1,6 +1,8 @@
 # FinalProject-MachineLearning
 
-Please review our wiki to follow along with the planning, progress and successful creation of our final project - Machine Learning and the intersection of mom / infant healthcare.  Instructors and TA's: Each requirement will be linked on the very last page. 
+Please review our wiki to follow along with the planning, progress and successful creation of our final project - Machine Learning and the intersection of mom / infant healthcare.  
+
+Instructors and TA's: There is a sidebar linking all the major components.  As well as each requirement will be linked to on the very last page. 
 
 The link to the first page (home) is here:  https://github.com/cmpietro/FinalProject-MachineLearning/wiki
 

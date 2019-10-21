@@ -50,95 +50,122 @@
 </head>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-        <div class="container">
-            <a class="navbar-brand js-scroll-trigger" style="position: relative; right: 20px;" href="index.html">
-                <img style="width: 10%;" src="images/mother-infant.png" alt="mombaby">
-                <strong>Mother & Infant Healthcare</strong></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ml-auto" style="text-align: center;">
-                    <!-- <li class="nav-item">-->
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="team-introduction.html">Team Introduction</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="topic-introduction.html">Topic Introduction</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">
-                                Historical Data
-                            </a>
-                            <ul class="dropdown-menu dropdown-content">
-                                <a class="dropdown-item" href="historical-data.html">Graphs</a>
-                            </ul>
-                        </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">
-                            Maternal & Infant Characteristics
-                        </a>
-                        <ul class="dropdown-menu dropdown-content">
-                            <a class="dropdown-item" href="maternal-infant-graphs.html">Graphs</a>
-                            <a class="dropdown-item" href="machine-learning.html">Machine Learning</a>
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
-                            aria-haspopup="true" aria-expanded="false">
-                            Microbiome Data
-                        </a>
-                        <ul class="dropdown-menu dropdown-content">
-                            <a class="dropdown-item" href="microbiome-graphs.html">Graphs</a>
-                            <a class="dropdown-item" href="microbiome-ml.html">Machine Learning</a>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="conclusions.html">Conclusions</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="references.html">References Used</a>
-                    </li>
-                </ul>
-            </div>
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" style="position: relative; right: 20px;" href="index.html">
+            <img style="width: 10%;" src="images/mother-infant.png" alt="mombaby">
+            <strong>Mother & Infant Healthcare</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" style="text-align: center;">
+                <!-- <li class="nav-item">-->
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="team-introduction.html">Team Introduction</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="topic-introduction.html">Topic Introduction</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                        Historical Data
+                    </a>
+                    <ul class="dropdown-menu dropdown-content">
+                        <a class="dropdown-item" href="historical-data.html">Graphs</a>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                        Maternal & Infant Characteristics
+                    </a>
+                    <ul class="dropdown-menu dropdown-content">
+                        <a class="dropdown-item" href="maternal-infant-graphs.html">Graphs</a>
+                        <a class="dropdown-item" href="machine-learning.html">Machine Learning</a>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">
+                        Microbiome Data
+                    </a>
+                    <ul class="dropdown-menu dropdown-content">
+                        <a class="dropdown-item" href="microbiome-graphs.html">Graphs</a>
+                        <a class="dropdown-item" href="microbiome-ml.html">Machine Learning</a>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="conclusions.html">Conclusions</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="references.html">References Used</a>
+                </li>
+            </ul>
         </div>
-    </nav>
-  
+    </div>
+</nav>
+
 <div class="spacer" style="height:100px"></div>
 <div class='col-md-12 col-sm-12 my-auto'>
 
     <h2 class="title">Historical Data</h2>
     <h3 class="title">The Infant Mortality Rate Trend by Race from 1910 - 2015 in US</h3>
-    <p class='img-center-block'><img src="images/US_IM_RateByRaceOverYears.png" width="1200"
-            height="400"></p>
+    <p class='img-center-block'><img class="image" src="images/US_IM_RateByRaceOverYears.png" width="1200" height="400"></p>
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content imageModal">
+        <div id="caption"></div>
+    </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
     <h3 class="title">Infant Mortality Vs Childhood Mortality Trend Compared from 1915-2015 in US</h3>
-    <p class='img-center-block'><img src="images/Infant Mortality Rate & Child Mortality Rate Compared.PNG"  width="1200"
-            height="400"></p>
+    <p class='img-center-block'><img class="image" src="images/Infant Mortality Rate & Child Mortality Rate Compared.PNG"
+             width="1200" height="400"></p>
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content imageModal">
+        <div id="caption"></div>
+    </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
     <h3 class="title">Infant Mortality Trend in OHIO Vs US Compared from 1990-2018</h3>
-    <p class="img-thumbnail"><img src="images/Trend_InfantMortalityOhioVsUS.png" width="1200" height="400"> </p>
+    <p class="img-thumbnail"><img class="image" src="images/Trend_InfantMortalityOhioVsUS.png" width="1200" height="400"> </p>
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content imageModal">
+        <div id="caption"></div>
+    </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
     <h3 class="title">Infant Mortality By Race & Ethnicity in Cleveland</h3>
-    <p class="img-thumbnail"><img src="images/InfantMortalityByRace_Ethnicity_Cleveland.PNG" width="1200" height="400"></p>
+    <p class="img-thumbnail"><img class="image" src="images/InfantMortalityByRace_Ethnicity_Cleveland.PNG" width="1200" height="400">
+    </p>
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content imageModal">
+        <div id="caption"></div>
+    </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
     <h3 class="title">CDC's Top 15 Causes Of Infant Mortality</h3>
-    <p class="img-thumbnail"><img src="images/DeathRateBy15LeadingCausesOfDeath_2017Data.png" width="1200" height="400"></p>
+
+    <p class="img-thumbnail"><img class="image" src="images/DeathRateBy15LeadingCausesOfDeath_2017Data.png" width="1200" height="400">
+    </p>
+    <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content imageModal">
+        <div id="caption"></div>
+    </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
@@ -171,6 +198,33 @@
 
 
         return false;
-    });</script>
+    });
+    expandImage = function (index) {
+        var modal = document.getElementsByClassName("modal")[index];
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img = document.getElementsByClassName("image")[index];
+        var modalImg = document.getElementsByClassName("imageModal")[index];
+        var captionText = document.getElementById("caption");
+        img.onclick = function () {
+            modal.style.display = "block";
+            modalImg.src = this.src;
+            captionText.innerHTML = this.alt;
+        }
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[index];
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+    }
+    expandImage(0);
+    expandImage(1);
+    expandImage(2);
+    expandImage(3);
+    expandImage(4);
+    </script>
 
 </html>

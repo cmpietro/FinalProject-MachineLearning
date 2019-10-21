@@ -88,30 +88,56 @@
     <h2 class="title">Microbiome Graphs</h2>
     <h3 class="title">Microbiome 1: Comparing the microbiata of vaginally delivered infants versus C-section</h3>
     <p class='img-thumbnail'><img src="images/microbiome_image1.png" width="1000" height="400"></p>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content imageModal">
+            <div id="caption"></div>
+        </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 2: Comparing the microbiata of vaginally delivered infants versus C-section</h3>
-    <p class='img-thumbnail'><img src="images/microbiome_image2.png"  width="1000" height="400"></p>
+        <h3 class="title">Microbiome 2: Comparing the microbiata of vaginally delivered infants versus C-section</h3>
+        <p class='img-thumbnail'><img src="images/microbiome_image2.png"  width="1000" height="400"></p>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content imageModal">
+            <div id="caption"></div>
+        </div>
+    
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 3: Comparing the microbiata at intervals for vaginally delivered infants</h3>
-    <p class="img-thumbnail"><img src="images/microbiome_image3.png" width="1000" height="400"> </p>
+        <h3 class="title">Microbiome 3: Comparing the microbiata at intervals for vaginally delivered infants</h3>
+        <p class="img-thumbnail"><img src="images/microbiome_image3.png" width="1000" height="400"> </p>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content imageModal">
+            <div id="caption"></div>
+        </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 4: Comparing the microbiata at intervals for C-section delivered infants</h3>
-    <p class="img-thumbnail"><img src="images/microbiome_image4.png" width="1000" height="400"></p>
+        <h3 class="title">Microbiome 4: Comparing the microbiata at intervals for C-section delivered infants</h3>
+        <p class="img-thumbnail"><img src="images/microbiome_image4.png" width="1000" height="400"></p>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content imageModal">
+            <div id="caption"></div>
+        </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
 <div class='col-md-12 col-sm-12'>
-    <h3 class="title">Microbiome 5: Comparing the microbiata of Breast Fed versus Formula fed versus Mixed Fed Infants</h3>
-    <p class="img-thumbnail"><img src="images/microbiome_image5.png" width="1000" height="400"></p>
+        <h3 class="title">Microbiome 5: Comparing the microbiata of Breast Fed versus Formula fed versus Mixed Fed Infants</h3>
+        <p class="img-thumbnail"><img src="images/microbiome_image5.png" width="1000" height="400"></p>
+    <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content imageModal">
+            <div id="caption"></div>
+        </div>
 </div>
 <div class="spacer" style="height:25px">
 </div>
@@ -143,6 +169,35 @@
 
 
         return false;
-    });</script>
+    });
+    expandImage = function (index) {
+        var modal = document.getElementsByClassName("modal")[index];
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var img = document.getElementsByClassName("image")[index];
+        var modalImg = document.getElementsByClassName("imageModal")[index];
+        var captionText = document.getElementById("caption");
+        img.onclick = function () {
+            modal.style.display = "block";
+            modalImg.src = this.src;
+            captionText.innerHTML = this.alt;
+        }
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[index];
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+    }
+
+    expandImage(0);
+    expandImage(1);
+    expandImage(2);
+    expandImage(3);
+    expandImage(4);
+
+    </script>
 
 </html>
