@@ -17,3 +17,5 @@ The remaining pages:
 5. https://github.com/cmpietro/FinalProject-MachineLearning/wiki/D.-Performance-and-Control
 
 6. https://github.com/cmpietro/FinalProject-MachineLearning/wiki/E.-Close
+
+7. https://github.com/cmpietro/FinalProject-MachineLearning/wiki/R.-Requirements
