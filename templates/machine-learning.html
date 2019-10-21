@@ -119,52 +119,14 @@
         <div class='row' text-center>
             <div class='col-md-12 col-md-12'>
                 <div class='greybox'>
-                    <h2>Machine Learning</h2>
-                    <h4> Our questions: <br>
-                        1. How do maternal characteristic impact the APGAR score? Or Could we, based on the maternal
-                        characteristics, predict APGAR score? <br>
-                        2. How do labor characteristics impact the APGAR score? Or Could we, based on the labor
-                        characteristics, predict APGAR score? <br>
-                        3. How do delivery characteristics impact the APGAR score? Or Could we, based on the delivery
-                        characteristics, predict APGAR score?
+                    <h2>Machine Learning Questions:</h2>
+                    <h4> <br>
+                        1. Based on the maternal characteristics measured, can we classify infant's APGAR score? (APGAR score <5 indicative of unhealthy infant or APGAR score >5 indicative of healthier infant)? <br>
+                        2. Based on the labor characteristics measured, can we classify infant's APGAR score? <br>
+                        3. Based on the delivery characteristics measured, can we classify infant's APGAR score?
                     </h4>
                 </div>
                 <div class="container">
-                    <div class='row' text-center>
-                        <div class='col-md-12 col-md-12'>
-                            <h2>Some Additional Information: Key code values translated.</h2>
-                            <P> Maternal characteristics: <br>
-                                Mother education code <br>
-                                "1" = 8th grade or less <br>
-                                "2" = 9th through 12th grade with no diploma <br>
-                                "3" = High school graduate or GED completed <br>
-                                "4" = Some college credit, but not a degree <br>
-                                "5" = Associate degree (AA, AS) <br>
-                                "6" = Bachelor's degree (BA, AB, BS) <br>
-                                "7" = Master's degree (MA, MS) <br>
-                                "8" = Doctorate (PHD, EdD) or Professional Degree (MD) <br>
-                                <br>
-                                Mother weight gain code<br>
-                                • The number indicates the weight gained in lbs by the mother <br>
-                                <br>
-                                Pre-pregnancy diabetes <br>
-                                “1” = Yes <br>
-                                “2” = No <br>
-                                “9” = Unknown or Not Stated <br>
-                                <br>
-                                Pre-pregnancy Hypertension Code <br>
-                                “1” = Yes <br>
-                                “2” = No <br> 
-                                “9” = Unknown or Not Stated<br>
-                                <br>
-                                APGAR score code <br>
-                                • APGAR score code represents the score recorded at 5 minutes after birth, in single
-                                increments. <br>
-                                • The higher the score, the better the baby is doing after birth. A score of 7, 8, or 9
-                                is normal and is a sign that the newborn is in good health. <br>
-                            </P>
-                        </div>
-                    </div>
                     <div class="spacer" style="height:25px"></div>
                     <div class='col-md-12 col-sm-12 my-auto'>
                         <section id="input" class="container">
@@ -173,9 +135,8 @@
                                 <div class="row">
                                     <div class="col-lg-12 mx-auto">
                                         <div class="greybox">
-                                            <h2>Machine Learning Model</h2>
-                                            <p class="lead"> View the table to see the factors we studied with our
-                                                Models</p>
+                                            <h2>Variables considered for Machine Learning Algorithm</h2>
+                                            <p class="lead"> Table below identifies the factors included in our model for classifying APGAR scores</p>
                                         </div>
                                     </div>
                                 </div>
@@ -191,50 +152,68 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Mother's Education by code</td>
-                                            <td>Anesthesia by code</td>
-                                            <td>Month by code</td>
+                                            <td>Mother's Education</td>
+                                            <td>Anesthesia</td>
+                                            <td>Month</td>
                                             <td>Average Age of Mother's by years</td>
                                         </tr>
                                         <tr>
-                                            <td>Mother's Weight Gain by code</td>
-                                            <td>Antibiotics for Mother by code</td>
-                                            <td>Birthplace by code</td>
+                                            <td>Mother's Weight Gain</td>
+                                            <td>Antibiotics for Mother</td>
+                                            <td>Birthplace</td>
                                             <td>Average Birth Weight by grams</td>
                                         </tr>
                                         <tr>
-                                            <td>Pre-Pregnancy Diabetes by code</td>
-                                            <td>Induction of Labor by code</td>
-                                            <td>Delivery Method by code</td>
+                                            <td>Pre-Pregnancy Diabetes</td>
+                                            <td>Induction of Labor</td>
+                                            <td>Delivery Method</td>
                                             <td>Average Prenatal Visits</td>
                                         </tr>
                                         <tr>
-                                            <td>Pre-Pregnancy Hypertension by code</td>
-                                            <td>Steroids by code</td>
-                                            <td>Fetal Presentation by code</td>
+                                            <td>Pre-Pregnancy Hypertension</td>
+                                            <td>Steroids</td>
+                                            <td>Fetal Presentation</td>
                                             <td>Average OE Gestational Age by weeks</td>
                                         </tr>
                                         <tr>
                                             <td></td>
                                             <td></td>
                                             <td></td>
-                                            <td>Five Min APGAR Score by code</td>
+                                            <td>Bin Five Min APGAR Score by code</td>
                                         </tr>
                                     </tbody>
                                 </table>
                         
                                 <br>
+                                <div class="container">
+                                        <div class='row' text-center>
+                                        <div class='col-md-12 col-md-12'>
+                                                <h3 class="title">Github Link</h3>
+                                            <p class='text'>
+                                        </p>
+                                        <a href="https://github.com/cmpietro/FinalProject-MachineLearning/tree/master/model/Final_ML_modelsanddatasets" , bold>Github Link to Machine Learning Algorithm</a>
+                                    </div>
+                                </div>
+                            </div>
+                                    <br>
+                                    <br>
+                                    <br>
     <div class="container">
          <div class='row' text-center>
         <div class='col-md-12 col-md-12'>
         <div class='greybox'>
-       <h3 class="title">ERD</h3>
-            <p class="img-thumbnail"><img src="images/ERD_image_Project 3_machine learning.PNG" width="800" height="400"></p>
+       <h3 class="title">Flow diagram representing Machine Learning Process</h3>
+            <p class="img-thumbnail"><img src="images/ML_image1.png" width="800" height="400"></p>
      </div>
                             </div>
                     </div>
                 </div>
-            </div>
+                
+                        <br>
+                        <br>
+                        <br>
+                    
+                    </div>
         </div>
     </div>
     </div>
