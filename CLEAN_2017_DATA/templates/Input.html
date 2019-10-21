@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Cuyahoga Voter Turn-out vs Census Demographics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+
+  <!--CSS Link-->
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
+<body>
+
+    
+  <!-- Navigation Section -->
+  <div class="navigation">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" style="background-color: purple;" href="index.html">Home</a>
+      <button class="navbar-toggler  border border-white" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Extract
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="extract.html">Instructions</a>
+              <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Census Data</a>
+              <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Voter Data</a>
+              <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw city-block</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+                  Transform
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item" href="Transform.html">Instructions</a>
+                  <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Census Data</a>
+                  <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Voter Data</a>
+                  <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw city-block</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                      aria-haspopup="true" aria-expanded="false">
+                      Load
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                      <a class="dropdown-item" href="Load.html">Instructions</a>
+                      <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Census Data</a>
+                      <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Voter Data</a>
+                      <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw city-block</a>
+                    </div>
+                  </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <!-- Content Section -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 col-md-12">
+        <!--<Left box--> 
+        <div class="box">
+          <h3 class="title">Cuyahoga County Voter Turnout vs Census Demographics</h3>
+          <hr>
+          <h4><b>Project Summary</b></h4>
+          <p>On this project we have combined Census demogaphic data with Cuyahoga county precinct-level turnout data to determine which 
+                demographic factors are correlated with increased likelihood to vote.</p><br>
+          <img src="Resources/assets/images/vote.JPG" class="vizualization rounded float-left" alt="Project Summary">
+
+            <p><b><h4>Sources</h4></b>
+
+            The sources for our dataset are as follows:<br>
+                <ul>
+                    <li><a href="https://www.kaggle.com/muonneutrino/us-census-demographic-data" target= "blank">
+                        https://www.kaggle.com/muonneutrino/us-census-demographic-data</a></li>
+                    <li><a href="http://cuyahogaelectionaudits.com" target= "blank">
+                         http://cuyahogaelectionaudits.com</a></li>
+                    <li><a href="https://github.com/mggg/ohio-precincts" target= "blank">
+                        https://github.com/mggg/ohio-precincts</a></li>
+             </p>
+
+             <p><b><h4>Questions</h4></b>
+
+                <b>Example questions answered with this database:</b><br>
+                    <ul>
+                        <li>How does voter turnout vary between ethnicities in Cuyahoga county?</li>
+                        <li>How does voter turnout vary between type of profession in Cuyahoga county?</li>
+                        <li>How does voter turnout vary between men and women in Cuyahoga county?</li>
+                        <li>How does voter turnout vary between men and women in Cuyahoga county?</li>
+                        <li>How does voter turnout vary between general elections with and without a presidential election?</li>
+                        <li>How does voter turnout vary given a precinct's income measures?</li>
+                 </p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <footer>
+        <div class="footer">Copyright &copy; Coleen Anderson, Nick Benjamin and Kashifa Ahmed 2019</div>
+      </footer>
+ <!-- Bootstrap JS -->
+ <!--Dropdown Elements-->
+ <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+ crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+ crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+ crossorigin="anonymous"></script> 
+
+</body>
+
+</html>
