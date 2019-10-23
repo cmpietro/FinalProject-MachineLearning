@@ -1,0 +1,123 @@
+/* Styles for website body */
+*{
+    box-sizing: border-box;
+  }
+  container-text center p{
+    color: black;
+  }
+mainNav {
+    background-color: #70483c;
+
+}
+  
+  jumbotron {
+    background-color: #e6c2bf;
+  }
+  h1 {
+    background-color: #e6c2bf;
+    color: #70483c;
+  }
+  mainNav {
+    color: #fffdfb
+  
+  }
+  navbarResponsive {
+  
+  color: #9d6655 
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #70483c;
+    text-align: left;
+    background-color: #F5F5F5;
+  }
+  
+  header h1{
+    background-color: #e6c2bf;
+  }
+  header p{
+    color: black;
+  
+  }
+  
+  .greybox{
+    width: 100%;
+    background-color: #70483c;
+    color: #fffdfb;
+    padding: 8px;
+  }
+  
+  hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  a {
+    color: #BAC4C8;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+  }
+  
+  .list-group-item-action{
+      color: #70483c;
+      background-color: #d17d66;
+      border-color: #fffdfb;
+  }
+  
+  legend {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin-bottom: .5rem;
+    font-size: 1.5rem;
+    line-height: inherit;
+    color: inherit;
+    white-space: normal;
+  }
+  .footnote{
+    /* margin: 0 auto; */
+    /* width: 850px;
+    font-family: "Arial", sans-serif; */
+    font-size: 12px!important;
+    font-style: italic!important;
+    /* padding-bottom: 40px; */
+  }
+  footer {
+    color: #fffdfb;
+  
+  }
+  /* Styles for D3 map */
+  #map{
+    display: block;
+    margin: auto;
+    width: 960px;
+    height: 500px;
+  
+  }
+  .map-container{
+    margin: 0 auto;
+  }
+  .feature {
+    fill: rgba(255,255,255,0.01);
+    stroke: gray;
+    stroke-width: 1px;
+    cursor: pointer;
+  }
+  

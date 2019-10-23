@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <!--HEAD-->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Healthcare and Machine Learning: Final Project</title>
+  
+  
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+  
+<!-- Scripting links -->  <!--- which do we need?  --->
+<!-- jQuery first, then Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  
+<!--Choropleth if needed-->
+  <!-- Leaflet CSS & JS-->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+  integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+  crossorigin=""></script>
+
+<!-- d3 JavaScript -->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+<!-- Leaflet-Choropleth JavaScript -->
+<script type="text/javascript" src="static/js/ea_choropleth.js"></script>
+
+</head>
+
+<!--BODY-->
+<body id="page-top">
+
+  <div id="plot"></div>
+  
+ 
+    <!-- JS  -->
+  <!--<script type="text/javascript" href="static/js/logic.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic2.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic3.js"></script> -->
+  <!-- <script type="text/javascript" src="static/js/logic4.js"></script> -->
+ 
+    <!-- Navigation -->  
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="mainNav">
+      <div class="container">
+          <a class="navbar-brand js-scroll-trigger" href="#page-top">Mother and Infant Healthcare</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto" style="text-align: center;">
+              <!-- <li class="nav-item">-->
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#teamintro">Team Introduction</a>
+            </li> 
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#topicintro">Topic Introduction</a>
+            </li> 
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#visuals">Visualization</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#machinelearning">Machine Learning</a>
+            </li>          
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#input">Input Form</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#conclusions">Conclusions</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#references">References Used</a>
+            </li>
+            </ul>
+          </div>
+      </div>
+  
+    </nav>
+
+    <!--HEADER-->
+    <section id='header' class='jumbotron' >
+      <div class="header">
+        <!--<header class='text-white'>-->
+          <div class="container text-center">
+              <div class="spacer" style="height:50px" ></div>
+           <h1> Healthcare and Machine Learning</h1>
+            <p class='lead'>Final Project</p>
+          </div>
+        <!--</header>-->
+      </div>
+    </section>
+     <!-- #teamintro -->
+      <section id='teamintro' class="container">
+        <div class="container">
+          <div class='row'>
+            <div class='col-md-12 col-md-12'>
+              <div class='greybox'>
+                <h2>Introduction: </h2>
+              </div>
+            </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title">Welcome to Our Team!</h3>
+                  <p class='text'>"The Team" </p>
+
+              </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title">Kashifa Ahmed</h3>
+                  <p class='text'>"Puller of Information, Data Cleaner, Draft Planner" </p>
+                  <div class='col-md-2 col-sm-4 d-block m-auto'>
+                  <p class='img-thumbnail'><img src="../images/kashifa.jpg" width="200" height="250"/p>
+                  </div>
+              </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title">Mohammed Irshad</h3>
+                  <p class="text">"The Strong Silent Questioner" </p>
+                  <p class='img-thumbnail'><img src="../images/mohhamed.jpg" width="250" height="250"/p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                <h3 class="title">Venkata Ratnam Mantripragada</h3>
+                    <p class="text">"Statistics Guru and Machine Learning Godmother"</p>
+                    <p class='img-thumbnail'><img src="../images/ERD_image_Project 3_machine learning.png" width="250" height="250"/p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                <h3 class="title">Joan E. Stone-Mays</h3>
+                    <p class="text">"Database Maker, Organized Informer, Expert Questioner"</p>
+                    <p class='img-thumbnail'><img src="../images/Joan.jpg" width="250" height="250"/p>
+                    
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                <h3 class="title">Carol (Pietro) Kadish</h3>
+                    <p class="text">"Project Manager, inspired story teller and data collector"</p>
+                    <div class='col-md-2 col-sm-4 d-block m-auto'>
+                    <p class='img-thumbnail'><img src="../images/carol.jpg"  width="200" height="250"/p>
+                    <div>
+                  </div>
+                </div>
+              </div>
+            </div>
+         </section>  
+
+        <!--Topic Discussion--> 
+        <section id='topicintro' class="container">
+          <div class="container">
+            <div class='row'>
+              <div class='col-md-12 col-md-12'>
+                <div class='greybox'>
+                  <h2>Topic Introduction: </h2>
+                </div>
+              </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Infant Mortality</h3>
+                  <p class='text'>"Infant mortality is a key indicator of health and the effectiveness of a health care system," says the United Health Foundation in it's annual compilation of Health Rankings.  Additionally, per HealthCatalyst quoting the WHO, CMS, The Joint Commission and the National Association for Healthcare Quality, mortality as a whole is the number one population health outcome measure.  " </p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Mortality Statistics</h3>
+                  <p class='text'>Mortality statistics are gathered by the CDC and the (NCHS) National Vital Statistics System.  Infant mortality is defined as the death of child before their first birthday.  The infant mortality rate is the number of infant deaths recorded for every 1,000 live births, per the CDC.  The overall infant mortality rate for the United States in 2017 was 5.8 deaths per 1,000 live births.  
+                  </p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Leading Causes of Death</h3>
+                  <p class='text'>The leading causes of death for a newborn only shift slightly from year to year.  Per the CDC in the year 2017, the top five causes of death were: 1. Birth Defects, 2. Preterm Birth / low birth weight, 3. Maternal Pregnancy Complications 4. Sudden Infant Death Syndrome (SIDS) and 5. Injuries.  A more concerning statistic is that the 2018 infant mortality level was 579.3 per 100,000 births in the US, but remained statistically unchanged from 2016, with 587.0 deaths per 100,000. The only significant change from 2016 - 2017 was that two of the leading causes of death, SIDS and Unintential Injury, shifted with a 10.7% increase in injury.  SIDS dropped ranking from third to fourth.  </p>
+                </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title">Ohio Infant Mortality</h3>
+                <p class='text'>Within the state of Ohio, the infant mortality picture is even more grim, ranking 41 (tied with N. Carolina out of 50 states) with a rate of 7.3 in 2018, an increase from 2017's rate of 7.0.  In the annual report of America's Health Rankings by the United Health Foundation, Ohio has some strengths such as a low uninsured population and a high rate of primary care physicians, but our challenges come from a high rate of smoking, air pollution and low rates of immunization among children.  One of the goals of this project is to see what information we can discover as to why the infant mortality rate in Ohio is on the rise and why is it so high compared to other states. </p>
+              </div>
+              <div class="spacer" style="height:25px"></div>
+              <div class='col-md-12 col-md-12'>
+                <h3 class="title"></h3>
+                <p class='text'></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+   </section>  
+    
+        
+        <!-- Section for visualizations -->
+      <section id="visuals" class="bg-light">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 mx-auto">
+              <div class="greybox">
+                <h2>Visualizations</h2>
+                  <p class="lead"> Select a Topic to View</p>
+              </div>
+              <!--<div class="spacer" style="height:200px"></div> -->
+                <br><br>
+                   <div class="row">
+                      <div class="col-lg-12">
+                        <div class="list-group" id="list-tab" role="tablist">
+                          <a class="list-group-item list-group-item-action" id="list-v1-list" data-toggle="list" href="vis1.html" role="tab" aria-controls="v1">Visualization 1: Top 15 Leading Cauases</a>
+                          <a class="list-group-item list-group-item-action" id="list-v2-list" data-toggle="list" href="vis2.html" role="tab" aria-controls="v2">Visualization 2</a>
+                          <a class="list-group-item list-group-item-action" id="list-v3-list" data-toggle="list" href="vis3.html" role="tab" aria-controls="v3">Visualization 3</a>
+                          <a class="list-group-item list-group-item-action" id="list-v4-list" data-toggle="list" href="vis4.html" role="tab" aria-controls="v4">Visualization 4</a>
+                          <a class="list-group-item list-group-item-action" id="list-v5-list" data-toggle="list" href="vis5.html" role="tab" aria-controls="v5">Visuzlization 5</a>
+                        </div>
+                      </div>
+                      
+                      </div>
+                    </div>                  
+                  </div>
+                    
+            </div>
+          </div>
+        </div>
+        </section>
+        <div class="spacer" style="height:200px"></div>
+        <!--MACHINE LEARNING-->
+        <section id='machinelearning' class="container">
+            <div class="container">
+              <div class='row'>
+                <div class='col-md-12 col-md-12'>
+                  <div class='greybox'>
+                    <h2>Machine Learning</h2>
+                    <p> Our questions:
+                      1.	How do maternal characteristic impact the APGAR score? Or based on the maternal characteristics, can we predict APGAR score?
+                      2.	How do labor characteristics impact the APGAR score? Or based on the labor characteristics, can we predict APGAR score?
+                      3.	How do delivery characteristics impact the APGAR score? Or based on the delivery characteristics, can we predict APGAR score?
+                      </p>
+                    <P> Q1_Maternal_char
+                      Mother education code
+                      o	  "1"	 8th grade or less 
+                      o	 	"2"	 9th through 12th grade with no diploma 
+                      o	 	"3"	 High school graduate or GED completed 
+                      o	 	"4"	 Some college credit, but not a degree 
+                      o	 	"5"	 Associate degree (AA, AS) 
+                      o	 	"6"	 Bachelor's degree (BA, AB, BS) 
+                      o	 	"7"	 Master's degree (MA, MS) 
+                      o	          "8"	 Doctorate (PHD, EdD) or Professional Degree (MD,
+                      Mother weight gain code
+                      •	The number indicates the weight gained in lbs by the mother
+                      Pre-pregnancy diabetes
+                      •	“1” Yes 
+                      •	“2” No 
+                      •	“9” Unknown or Not Stated
+                      Pre-pregnancy Hypertension Code
+                      •	“1” Yes 
+                      •	“2” No 
+                      •	“9” Unknown or Not Stated
+                      APGAR score code
+                      •	APGAR score code represents the score recorded at 5 minutes after birth, in single increments.
+                      •	The higher the score, the better the baby is doing after birth. A score of 7, 8, or 9 is normal and is a sign that the newborn is in good health.
+                      </P>
+                  </div>
+                </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-sm-12'>
+                    <h3 class="title"> A View</h3>
+                      <p class='img-thumbnail'><img src="PLACEHOLDER.png" width="800" height="500"</p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-sm-12'>
+                    <h3 class="title">A second View</h3>
+                      <p class="img-thumbnail"><img src="PLACEHOLDER.png"  width="800" height="600"</p>
+                    </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-sm-12'>
+                    <h3 class="title">Third Views</h3>
+                        <p class="img-thumbnail"><img src="placeholder.png"width="800" height="600"</p>
+                    </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-sm-12'>
+                    <h3 class="title">fourth view </h3>
+                        <p class="img-thumbnail"><img src="placeholder.png" width="800" height="600"</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+             </section>  
+            
+           <!-- Section for Input form -->   
+        <section id="input" class="container">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 mx-auto">
+                <div class="greybox">
+                  <h2>Input Form</h2>
+                  <p class="lead"> Please select input data to interact with our Models</p>
+                </div>
+                <br><br>
+                <div class='btn-group'>
+                  <button type="button" class="btn btn-outline-secondary">Maternal Factors</button>
+                  <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+                    </button>
+                  <a class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"</a>
+                  <a class="dropdown-item" href="input.html">Instructions</a>
+                  <a class="dropdown-item" href="Mothers weight gain" download>Download Raw Census Data</a>
+                  <a class="dropdown-item" href="Resources/assets/test.csv" download>Download Raw Voter Data</a>
+                  <a class="dropdown-item" href="http://levin.urban.csuohio.edu/nodis/maps_county_tracts_and_blockgroups.html" download>Raw city-block</a>
+                </div>
+                <div class='btn-group'>
+                    <button type="button" class="btn btn-outline-secondary">Maternal Factors</button>
+                    <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
+                      </button>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="https://github.com/cmpietro/FinalProject-MachineLearning/blob/master/data/MACHINE_LEARNING/ML_final_clean_data/Q1_maternal_char_v7.csv">Mother's Education</a>
+                        <a href="#" class="dropdown-item">Mother's Weight Gain</a>
+                        <a href="#" class="dropdown-item">Pre-pregnancy Hypertension</a>
+                        <br>
+                        <a class="dropdown-item" href="#">Link 1</a>
+    <a class="dropdown-item" href="#">Link 2</a>
+  </div>
+</div>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown">Q1 Labor Factors</button>
+                    <div class="dropdown-menu">
+                        <a href="#" class="dropdown-item">Q2 Labor Factors</a>
+                        <a href="#" class="dropdown-item">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a href="#" class="dropdown-item">Separated link</a>
+                    </div>
+                </div>
+                                    
+                      </form>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+        </section>
+           <!-- CONCLUSIONS -->
+      <section id='conclusions' class="container">
+          <div class="container">
+            <div class='row'>
+              <div class='col-md-12 col-md-12'>
+                <div class='greybox'>
+                  <h2>Conclusions: </h2>
+                </div>
+              </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title"> RESULTS</h3>
+                    <p class='text'>"Place HOLDER"</p>
+                </div>
+                <div class="spacer" style="height:25px"></div>
+                <div class='col-md-12 col-md-12'>
+                  <h3 class="title">MORE RESULTS</h3>
+                    <p class="text">place holder </p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                  <h3 class="title">RESULTS</h3>
+                      <p class="text">"Place holder</p>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                  <h3 class="title">Results</h3>
+                      <p class="text">"Place holder"</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+           </section>  
+           <!-- References-->
+           <section id='references' class="container">
+              <div class="container">
+                <div class='row'>
+                  <div class='col-md-12 col-md-12'>
+                    <div class='greybox'>
+                      <h2>References and Inspirations: Where We Found Inspiration and Resources</h2>
+                    </div>
+                  </div>
+                  <div class="spacer" style="height:25px"></div>
+                  <div class='col-md-12 col-md-12'>
+                    <h3 class="title">Team Introduction</h3>
+                      <p class='text'> <br>
+                      </p>
+                      <a href="https://github.com/kahmed1996" target="_blank", bold>Kashifa Ahmed: Git Hub</a>
+                      <br>
+                      <a href="https://www.whitepages.com/checkout/summary/?people_location=OH&people_name=Mohammed+Irshad&record_id=GWst5tsxX-q1h_2cpRncCRzKL5dWDrXtyZlq8KYQ9X0%3D&type=person_query&wp_content=link_result_record_sb1&wp_medium=PersonContactInfoUpsell&wp_source=tnt_serp_bump_0&wp_term=SB_Person_Serp_A&funnel_type=person_bg_upsell_control&initial_funnel_type=person_bg_upsell_control&sample=0" target="_blank">Mohammed N. Irshad</a>
+                      <br>
+                      <a href="https://github.com/vprmantripragada" target="_blank", bold>Venkata Ratnam Matripragada: Git Hub</a>
+                      <br>
+                      <a href="https://github.com/iamjestone" target="_blank", bold>Joan E. Stone-Mays Git Hub</a>
+                      <br>
+                      <a href="https://github.com/cmpietro" target="_blank", bold>Carol (Pietro) Kadish: LinkedIn </a>
+                      <br>
+                    </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Topic Introduction</h3>
+                        <p class='text'> <br>
+                        </p>
+                        <a href="https://www.healthcatalyst.com/insights/top-7-healthcare-outcome-measures" target="_blank", bold>Health Catalyst</a>
+                        <br>
+                        <a href="https://www.americashealthrankings.org/explore/annual/measure/IMR/state/OH?edition-year=2015" target="_blank">NAME</a>
+                        <br>
+                        <a href="https://www.cdc.gov/reproductivehealth/maternalinfanthealth/infantmortality.htm#targetText=Infant%20mortality%20is%20the%20death,for%20every%201%2C000%20live%20births.&targetText=In%202017%2C%20the%20infant%20mortality,deaths%20per%201%2C000%20live%20births." target="_blank">CDC </a>
+                        <br>
+                        <a href="https://medlineplus.gov/ency/article/003402.htm#targetText=The%20Apgar%20score%20is%20based,newborn%20is%20in%20good%20health." target="_blank">MedLine Plus.gov </a>
+                      </div>
+                    <div class="spacer" style="height:25px"></div>
+                    <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Our Inspirations:</h3>
+                        <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5648614/#targetText=The%20rise%20in%20estrogen%20and,Firmicutes%20as%20in%20obese%20populations.' target="_blank">The Maternal Gut Microbiome during Pregnancy</a> 
+                        <br>
+                        <a href='https://ubiome.com/blog/post/ubiome-largest-human-microbiome-dataset/' target="_blank">uBiome</a> 
+                        <br>
+                        <a href='https://bfmedneo.com/' target="_blank">Breastfeeding Medicine of NEO, Ann Witt, M.D. </a>
+                      </div>
+                      <div class="spacer" style="height:25px"></div>
+                      <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Resources Used:</h3>
+                          <p>Data Used</p>
+                          <a href="https://wonder.cdc.gov/" target="_blank">CDC Wonder Database</a>
+                          <br>
+                          <a href="LINK" target="_blank">NAME</a>
+                          <br>
+                          <a href="  " target="_blank">NAME</a>
+                          <br>
+                          <a href="  " target="_blank">NAME</a>
+                          <br>
+                          <a href="  " target='_blank'>NAME</a>
+                         
+                      </div>
+                      <div class="spacer" style="height:25px"></div>
+                      <div class='col-md-12 col-md-12'>
+                      <h3 class="title">Technology Used: </h3>
+                          <p class="text">"We used ...  "</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+               </section>  
+    </body>
+    <!--FOOTER-->
+  <footer>
+    <div class="spacer" style="height:25px"></div>
+    <div class='col-md-12 col-md-12'>
+      <div class="bg-dark fixed-bottom">Copyright &copy; Project: Maternal Infant Health and Machine Learning. TEAM: Carol, Joan, Kashifa, Mohammed, and Venkata 2019</div>
+          
+  </footer>
+
+
+</html>
