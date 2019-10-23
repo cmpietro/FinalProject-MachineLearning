@@ -22,31 +22,8 @@
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
-    <!-- Scripting links -->
-    <!--- which do we need?  --->
-    <!-- jQuery first, then Popper.js -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-
-    <!--Choropleth if needed-->
-    <!-- Leaflet CSS & JS-->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-        crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-        integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-        crossorigin=""></script>
-
-    <!-- d3 JavaScript -->
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-
-    <!-- Leaflet-Choropleth JavaScript -->
-    <script type="text/javascript" src="static/js/ea_choropleth.js"></script>
-
+   
+    
 </head>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -124,46 +101,62 @@
             </div>
             <br>
             
+            <div class="spacer" style="height:50px"></div>
+                    <div class="col-md-12">
+                        <br>
+                        <h3 class="title">Infant Mortality</h3>
+                        <br>
+
+                    </div>
+                </div>
+                <div class='row'>
+                    <div class="col-9">
+                        <p class="text">Infant mortality is the death of an infant before the age of 1.  "It is a key indicator of 
+                            health and the effectiveness of a health care system," says the United Health Foundation in it's annual 
+                            compilation of Health Rankings.</p>
+                            <br>
+                    <h5 class="title">Mortality Statistics</h5>
+                    <br>
+                        <p class='text'>Mortality statistics are gathered by the Centers for Disease Control and Prevention (CDC) and the National Center Health for
+                        Statistics (NCHS). The infant mortality rate (IMR) is the number of infant deaths recorded for every 1,000 
+                        live births, per the CDC. 
+                        </p>
+                        <br>
+                    <h5 class="title">Leading Causes of Death</h5>
+                    <br>
+                        <p class='text'>The leading causes of death for a newborn only shift slightly from year to year. Per the
+                        CDC in the year 2017, the top five causes of death were: <br>
+                        1. Birth Defects <br>
+                        2. Preterm Birth / low birth weight <br> 
+                        3. Maternal Pregnancy Complications <br>
+                        4. Sudden Infant Death Syndrome (SIDS) <br>
+                        5. Injuries. <br>
+                        A more concerning statistic is that the 2018 infant mortality level was 579.3 per 100,000
+                        births in the US, but remained statistically unchanged from 2016, with 587.0 deaths per 100,000 births. </p>
+                        
+                    </div>
+                     <div class="col-3">
+                          <p class='img-thumbnail'><img src="images/CDCtop10causesofIM.png" width="500" height="520"></p>
+                     </div>
+                     <div class="spacer" style="height:25px"></div>
+                     <div class='col-md-12'>
+                         <h5 class="title">Ohio Infant Mortality</h5>
+                         <br>  
+                         <p class='text'>Ohio ranks 41 (tied with N. Carolina out of 50 states) with a rate of 7.3 in 2018, an increase from
+                                2017's rate of 7.0. <br>
+                                In the annual report of America's Health Rankings by the United Health
+                                        Foundation, Ohio has some strengths such as a low uninsured population and a high rate of primary
+                                        care physicians, but our challenges come from a high rate of smoking, air pollution and low rates of
+                                        immunization among children. </p>                  
+                    </div>
+                   
+                    <br>
             <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h3 class="title">Infant Mortality</h3>
-                <p class='text'>Infant mortality is the death of an infant before the age of 1.  "It is a key indicator of 
-                    health and the effectiveness of a health care system," says the United Health Foundation in it's annual 
-                    compilation of Health Rankings. </p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h5 class="title">Mortality Statistics</h5>
-                <p class='text'>Mortality statistics are gathered by the Centers for Disease Control and Prevention (CDC) and the National Center Health for
-                    Statistics (NCHS). The infant mortality rate (IMR) is the number of infant deaths recorded for every 1,000 
-                    live births, per the CDC. 
-                </p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h5 class="title">Leading Causes of Death</h5>
-                <p class='text'>The leading causes of death for a newborn only shift slightly from year to year. Per the
-                    CDC in the year 2017, the top five causes of death were: <br>
-                    1. Birth Defects <br>
-                    2. Preterm Birth / low birth weight <br> 
-                    3. Maternal Pregnancy Complications <br>
-                    4. Sudden Infant Death Syndrome (SIDS) <br>
-                    5. Injuries. <br>
-                    A more concerning statistic is that the 2018 infant mortality level was 579.3 per 100,000
-                    births in the US, but remained statistically unchanged from 2016, with 587.0 deaths per 100,000 births. </p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
-                <h5 class="title">Ohio Infant Mortality</h5>
-                <p class='text'>Ohio ranks 41 (tied with N. Carolina out of 50 states) with a rate of 7.3 in 2018, an increase from
-                    2017's rate of 7.0. <br>
-                    In the annual report of America's Health Rankings by the United Health
-                            Foundation, Ohio has some strengths such as a low uninsured population and a high rate of primary
-                            care physicians, but our challenges come from a high rate of smoking, air pollution and low rates of
-                            immunization among children. </p>
-            </div>
-            <div class="spacer" style="height:25px"></div>
-            <div class='col-md-12 col-md-12'>
+            <br>
+            <div class="col-6">
+                    <p class='img-thumbnail'><img src="images/Q1_maternal_char_v2.csv" width="500" height="520"></p>
+               </div>
+            <div class='col-6'>
                 <h3 class="title">Factors Affecting Infant Health</h3>
                 <ul type="square">
                     <li><b>Maternal characteristics:</b> race, origins,mother age, education etc..</li>
@@ -179,6 +172,11 @@
                     <li><b>Abnormal conditions of newborn:</b> seizures, assisted ventilation, NICU admission etc..</li>
                     <li><b>Congenital anomalies: </b>anencephaly, chromosomal defect, cyanotic congenital heart etc..</li>
                 </ul>
+                <br>
+            </div>
+                <div class='row'>
+                    <div class='col-12'>
+
                 <h5 class="title">Outcome Measure for Infant Health: APGAR Scores</h5>
                 <p class='text'>APGAR scores are the baseline test performed at 1, five and if needed, 10 minutes
                     after birth, indicating how well the baby is doing outside of the mother. The apgar
